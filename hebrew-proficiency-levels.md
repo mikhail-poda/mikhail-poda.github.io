@@ -55,9 +55,9 @@ The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don’t perfect
 | **C1 (Advanced)** | Hey | 2,000 | 6,000 | professional terminology |
 | **C2 (Proficient/Near-Native)** | Vav | 3,000+ | 9,000 | literary language | 
 
-Great question! The **proportion of vocabulary by part of speech** varies by language level and usage, but in Hebrew, a general breakdown looks like this:  
-
 ### **Estimated Vocabulary Distribution for Hebrew Learners**  
+
+The **proportion of vocabulary by part of speech** varies by language level and usage, and in Hebrew, a general breakdown looks like this:  
 
 | **Part of Speech**      | **Beginner (A0–A2)** | **Intermediate (B1–B2)** | **Advanced (C1–C2)** |  
 |----------------------|-----------------|-----------------|-----------------|  
