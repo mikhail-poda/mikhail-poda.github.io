@@ -4,13 +4,14 @@ A blog dedicated to intermediate Hebrew learners looking to navigate the beautif
 
 ## Articles
 
-- [About Language Learning](/about-language-learnig.md) - 
+- [About Language Learning](/about-language-learnig.md)
+- [Hebrew Proficiency Levels](/hebrew-proficiency-levels.md)
 
 ## Topics Covered
 
 - Hebrew language learning resources
-- Spaced repetition method
 - Hebrew proficiency levels
+- Spaced repetition method
 - Detailed comparison tables of similar words and phrases
 - Clear explanations of subtle differences between synonyms
 
