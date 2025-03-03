@@ -1,14 +1,15 @@
-# Topic: Research, Survey, Investigation, Check, and Inspection
+# Topic: Research and Investigation
 
 | **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** |  
 |---------------|----------------|------------|-----------------|  
-| **חֵקֶר** | *cheker* | Inquiry, study | Theoretical or deep study (philosophy, theology, fundamental sciences) |  
-| **מֶחְקָר** | *mechkar* | Research, study | Conducting academic or scientific research |  
-| **סֶקֶר** | *seker* | Survey, poll | Collecting opinions or data (politics, market research) |  
-| **בְּדִיקָה** | *bdika* | Check, inspection | Checking health, security, or product quality |  
-| **מִבְדָּק** | *mivdak* | Test, assessment | Running a technical or quality control test |  
-| **חֲקִירָה** | *chakirah* | Investigation, interrogation | Investigating a crime, fraud, or news story |  
-| **נִיתּוּחַ** | *nituach* | Analysis, surgery | Analyzing data, trends, or reports |  
-| **בִּיקּוֹרֶת** | *bikoret* | Criticism, review, inspection | Reviewing a movie, book, workplace, or regulations |  
-| **תַּצְפִּית** | *tatzpit* | Observation, surveillance | Observing behavior, wildlife, or intelligence data |  
-| **הֶעָרָכָה** | *hearachah* | Assessment, evaluation | Evaluating job performance, education, or psychology |  
+| **חֵקֶר** | *cheker* | inquiry of, study of | Usually followed by science name like חקר המוח |  
+| **מֶחְקָר** | *mechkar* | research, study | Conducting scientific research like מחקר חדש |  
+| **סֶקֶר** | *seker* | survey, poll | Collecting opinions or data (politics, market research) |  
+| **סְקִירָה ** | *skira* | overview, review, survey | A general overview or summary of information |  
+| **בְּדִיקָה** | *bdika* | check, inspection | Checking health, security, or product quality |  
+| **מִבְדָּק** | *mivdak* | test, assessment | Running a technical or quality control test |  
+| **חֲקִירָה** | *chakirah* | investigation, interrogation | Police investigating a crime, fraud, or news story |  
+| **נִיתּוּחַ** | *nituach* | analysis, surgery | Analyzing data, trends, or reports |  
+| **בִּיקּוֹרֶת** | *bikoret* | criticism, review, inspection | Reviewing a movie, book, workplace, or regulations |  
+| **תַּצְפִּית** | *tatzpit* | observation, surveillance | Observing behavior, wildlife, or intelligence data |  
+| **הֶעָרָכָה** | *hearachah* | assessment, evaluation | Evaluating job performance, education, or psychology |  
