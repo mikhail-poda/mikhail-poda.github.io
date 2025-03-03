@@ -22,7 +22,7 @@ I have developed two simple apps for learning Hebrew using different Spaced Repe
 Knowing your [Proficiency Levels](/hebrew-proficiency-levels.md) helps you track real progress in your language journey.
 
 ## Grammar
-Hebrew grammar is quite simple. Some aspects, like the verb system, are more of an interesting feature, while others, such as irregular plurals, are better understood as part of vocabulary.
+Hebrew grammar is quite simple. Some aspects, like the verb system, are more of an interesting feature, while others, such as irregular plurals, are better treated as part of vocabulary.
 
 ## Listening and Reading
 These two skills are often combined, especially now that most YouTube videos include transcriptions. Below is a list of online resources I use for listening and reading.
