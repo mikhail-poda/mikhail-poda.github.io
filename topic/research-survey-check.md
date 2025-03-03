@@ -10,6 +10,5 @@
 | **חֲקִירָה** | *chakirah* | Investigation, interrogation | Investigating a crime, fraud, or news story |  
 | **נִיתּוּחַ** | *nituach* | Analysis, surgery | Analyzing data, trends, or reports |  
 | **בִּיקּוֹרֶת** | *bikoret* | Criticism, review, inspection | Reviewing a movie, book, workplace, or regulations |  
-| **אוֹדִיט** | *odit* | Audit | Auditing finances, compliance, or corporate records |  
 | **תַּצְפִּית** | *tatzpit* | Observation, surveillance | Observing behavior, wildlife, or intelligence data |  
 | **הֶעָרָכָה** | *hearachah* | Assessment, evaluation | Evaluating job performance, education, or psychology |  
