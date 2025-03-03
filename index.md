@@ -4,16 +4,16 @@ A blog dedicated to intermediate Hebrew learners looking to navigate the beautif
 
 ## Articles
 
-- [About Language Learning](/about-language-learnig.md)
-- [Hebrew Proficiency Levels](/hebrew-proficiency-levels.md)
-- [Spaced Repetition Methods](/spaced-repetition-methods.md)
+- [About Language Learning](/etc/about-language-learnig.md)
+- [Hebrew Proficiency Levels](/etc/hebrew-proficiency-levels.md)
+- [Spaced Repetition Methods](/etc/spaced-repetition-methods.md)
 
-## Word Groups 
+## Topics
 
-- [Nation](/group-nation.md)
-- [Conflict](/group-conflict.md)
-- [Origin, Source](/group-origin-source.md)
-- [Space, Area](/group-space-area.md)
+- [Nation](/topic/nation.md)
+- [Conflict](/topic/dispute-conflict.md)
+- [Origin, Source](/topic/origin-source.md)
+- [Space, Area](/topic/space-area.md)
 - [Research, Survey, Check](/topic/research-survey-check.md)
 
 ## Topics Covered
