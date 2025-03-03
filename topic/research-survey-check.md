@@ -2,8 +2,8 @@
 
 | **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** |  
 |---------------|----------------|------------|-----------------|  
-| **חֵקֶר** | *cheker* | inquiry of, study of | Usually followed by science name like חקר המוח |  
-| **מֶחְקָר** | *mechkar* | research, study | Conducting scientific research like מחקר חדש |  
+| **חֵקֶר** | *cheker* | inquiry of, study of | Exact name of study like **חקר המוח** |  
+| **מֶחְקָר** | *mechkar* | research, study | Act of conducting scientific research like **מחקר חדש** |  
 | **סֶקֶר** | *seker* | survey, poll | Collecting opinions or data (politics, market research) |  
 | **סְקִירָה** | *skira* | overview, review, survey | A general overview or summary of information |  
 | **בְּדִיקָה** | *bdika* | check, inspection | Checking health, security, or product quality |  
