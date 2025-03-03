@@ -1,4 +1,4 @@
-This table lists words from the group **nation**:
+# Topic: Nation
 
 | **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
 |---------------|----------------|------------|----------------|  
