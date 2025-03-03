@@ -1,3 +1,4 @@
+# Topic: Dispute and Conflict
 
 ### **Escalation & Tension (Before Conflict)**  
 | **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
