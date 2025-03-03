@@ -1,7 +1,7 @@
 # Topic: Research and Investigation
 
 | **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
-|---------------|----------------|------------|-----------------|  
+|---------------|----------------|------------|-----------------|-----------------|  
 | **חֵקֶר** | *cheker* | inquiry of, study of | Exact name of study | **חֵקֶר הַמּוֹחַ** |
 | **מֶחְקָר** | *mechkar* | research, study | Act of conducting scientific research | **מחקר חדש** |
 | **סֶקֶר** | *seker* | survey, poll | Market research or politics surveys or polls | **סֶקֶר בְּחִירוֹת** |
