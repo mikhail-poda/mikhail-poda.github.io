@@ -1,4 +1,4 @@
-This table lists words from the group **space** or **area**:  
+# Topic: Space, Area 
 
 | **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
 |---------------|----------------|------------|-----------------|  
