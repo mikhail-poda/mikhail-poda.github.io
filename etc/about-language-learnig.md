@@ -7,9 +7,9 @@ When embarking on the journey of learning a new language, we encounter several i
 - [Grammar](https://mikhail-poda.github.io/etc/about-language-learnig.html#grammar)
 
 ### Core Language Skills
-- Listening
+- [Listening](https://mikhail-poda.github.io/etc/about-language-learnig.html#listening-and-reading)
 - Speaking
-- Reading
+- [Reading](https://mikhail-poda.github.io/etc/about-language-learnig.html#listening-and-reading)
 - Writing 
 
 ## Vocabulary
