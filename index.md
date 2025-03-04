@@ -15,6 +15,7 @@ A blog dedicated to intermediate Hebrew learners looking to navigate the beautif
 - [Origin, Source](/topic/origin-source.md)
 - [Space, Area](/topic/space-area.md)
 - [Research, Survey, Check](/topic/research-survey-check.md)
+- [Show, Presentation](/topic/show-presentation.md)
 
 ## Topics Covered
 
