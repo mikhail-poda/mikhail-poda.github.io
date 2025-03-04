@@ -27,12 +27,12 @@ Hebrew grammar is quite simple. Some aspects, like the verb system, are more of 
 ## Listening and Reading
 These two skills are often combined, especially now that most YouTube videos include transcriptions. Below is a list of online resources I use for listening and reading.
 
-[Hebrew Time](https://hebrewtime.squarespace.com/) many episodes about life in Israel
+[Hebrew Time](https://hebrewtime.squarespace.com/) Many episodes about life in Israel.
 
-[Piece of Hebrew](https://www.youtube.com/@PieceofHebrew/videos) many episodes about life in Israel
+[Piece of Hebrew](https://www.youtube.com/@PieceofHebrew/videos) Many episodes about life in Israel.
 
-[הדרך הקלה](https://www.youtube.com/@ezway) interesting and intellectual content with simple words
+[הדרך הקלה](https://www.youtube.com/@ezway) Interesting and intellectual content presented in simple language.
 
-[באים אל הפרופסורים](https://www.youtube.com/@AlexTseitlin) with many iterviews and lectures
+[באים אל הפרופסורים](https://www.youtube.com/@AlexTseitlin) Features many interviews and lectures.
 
-[חדשון בעברית קלה](https://hadshon.edu.gov.il/) with short daily news in easy Hebrew
+[חדשון בעברית קלה](https://hadshon.edu.gov.il/) Short daily news in easy Hebrew
