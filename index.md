@@ -17,7 +17,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Show, Presentation](/topic/show-presentation.md)
 
 ## About
-Many Hebrew resources exist, but none take a systematic approach. This site provides clear tables to highlight subtle differences in meaning and usage.
+Most Hebrew resources focus on vocabulary and grammar, but few compare similar words in a structured way. This site fills that gap with clear, systematic tables that help learners understand subtle differences in meaning and usage. It also covers other aspects of Hebrew vocabulary, such as proficiency levels and study methods.
 
 ---
 
