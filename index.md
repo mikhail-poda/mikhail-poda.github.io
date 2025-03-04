@@ -1,4 +1,4 @@
-# Hebrew Articles Collection
+# Intermediate Hebrew
 
 A blog dedicated to intermediate Hebrew learners looking to navigate the beautiful complexities of the Hebrew language with clarity and structure.
 
@@ -7,8 +7,8 @@ A blog dedicated to intermediate Hebrew learners looking to navigate the beautif
 - [Hebrew Proficiency Levels](/etc/hebrew-proficiency-levels.md)
 - [Spaced Repetition Methods](/etc/spaced-repetition-methods.md)
 
-## Topics
-Each article provides a detailed table comparing similar words and explaining their subtle differences in meaning and usage.
+## Vocabulary
+Each article provides a detailed table comparing similar Hebrew words and explaining their subtle differences in meaning and usage.
 - [Nation](/topic/nation.md)
 - [Conflict](/topic/dispute-conflict.md)
 - [Origin, Source](/topic/origin-source.md)
