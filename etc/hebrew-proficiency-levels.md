@@ -4,7 +4,6 @@ Language proficiency is generally measured **Common European Framework of Refere
 Here are the main levels:  
 
 ### **1. Beginner Levels**
-
 🔹 **Absolute Beginner (A0)**  
 - A0 is not officially part of the CEFR.
 - It is often used to describe absolute beginners—people with no prior knowledge of a language.
@@ -71,3 +70,6 @@ The **proportion of vocabulary by part of speech** varies by language level and 
 | **Adverbs**          | ~5%              | ~8%              | ~10%              |  
 | **Other (prepositions, conjunctions, pronouns, etc.)** | ~15% | ~10% | ~5%  |  
 
+---
+
+My own Hebrew vocabulary with Proficiency Levels A0-B1 can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTUPG22pCGbrlYULESZ5FFyYTo9jyFGFEBk1Wx41gZiNvkonYcLPypdPGCZzFxTzywU4hCra4Fmx-b/pubhtml)
