@@ -1,5 +1,6 @@
 
 ### 1. Performances & Shows 🎭🎶
+
 | **Hebrew Word**  | **Transcription** | **Meaning** | **Context/Usage** |  
 |-----------------|----------------|------------|-----------------|  
 | **הַצָּגָה**  | *hatsagá* | Play, presentation | **Theatrical performances or formal presentations** |  
@@ -14,6 +15,7 @@
 
 
 ### 2. Exhibitions & Displays 🖼️🏛️ 
+
 | **Hebrew Word**  | **Transcription** | **Meaning** | **Context/Usage** |  
 |-----------------|----------------|------------|-----------------|  
 | **תַּעֲרוּכָה**  | *ta'aruchá* | Exhibition | **Art, science, or trade fair exhibits** |  
@@ -27,6 +29,7 @@
 
 
 ### 3. Demonstrations & Presentations 📊💡
+
 | **Hebrew Word**  | **Transcription** | **Meaning** | **Context/Usage** |  
 |-----------------|----------------|------------|-----------------|  
 | **הַדְגָּמָה**  | *hadgamá* | Demonstration, example | **Explaining or showing how something works** |  
@@ -40,6 +43,7 @@
 
 
 ### 4. Artistic & Conceptual Installations 🎨🚀
+
 | **Hebrew Word**  | **Transcription** | **Meaning** | **Context/Usage** |  
 |-----------------|----------------|------------|-----------------|  
 | **מֵיצָג**  | *meitság* | Art installation, performance art | **Conceptual or interactive art exhibits** |  
