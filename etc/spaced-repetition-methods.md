@@ -5,7 +5,7 @@ Spaced repetition is a learning technique that optimizes review timing to streng
 ### Anki's Approach
 Anki uses a modified version of the [SuperMemo SM-2 algorithm](https://en.wikipedia.org/wiki/SuperMemo#Description_of_SM-2_algorithm) with a fixed daily card limit structure:
 
-- Fixed Daily Limits: Users predetermine how many new cards they want to learn per day (e.g., 20 new words), and Anki maintains this limit strictly.
+- Fixed Daily Limits: Users predetermine how many new cards they want to learn per day (e.g. 20 new words), and Anki maintains this limit strictly.
 - Review Process: When reviewing a card, users select from four response options:
   - Again (complete failure): Card is shown again in < 10 minutes
   - Hard: Card interval increases slightly (1.2× the previous interval)
