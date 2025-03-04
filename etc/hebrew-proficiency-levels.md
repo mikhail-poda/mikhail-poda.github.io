@@ -41,6 +41,8 @@ Here are the main levels:
 - Understands slang, idioms, and cultural nuances.  
 - Can read and write complex texts, like legal documents or literature.  
 
+---
+
 ## Comparison of Ulpan Levels & CEFR
 
 The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don’t perfectly match the **CEFR (A1–C2)** system, but they roughly correspond as follows:  
@@ -54,6 +56,8 @@ The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don’t perfect
 | **B2 (Upper Intermediate)** | Gimel 2 / Dalet | 1,600 | 4,000 | passive verbs |
 | **C1 (Advanced)** | Hey | 2,000 | 6,000 | professional terminology |
 | **C2 (Proficient/Near-Native)** | Vav | 3,000+ | 9,000 | literary language | 
+
+---
 
 ## Estimated Vocabulary Distribution for Hebrew Learners
 
