@@ -1,6 +1,6 @@
 # Intermediate Hebrew
 
-A blog dedicated to intermediate Hebrew learners looking to navigate the beautiful complexities of the Hebrew language with clarity and structure.
+A collection of articles dedicated to intermediate Hebrew learners looking to navigate the beautiful complexities of the Hebrew language with clarity and structure.
 
 ## Language Learning
 - [About Language Learning and Hebrew Learning Resources](/etc/about-language-learnig.md)
