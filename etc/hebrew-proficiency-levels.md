@@ -6,7 +6,7 @@ Here are the main levels:
 ### **1. Beginner Levels**
 
 🔹 **Absolute Beginner (A0)**  
-- A0 is not officially part of the CEFR (Common European Framework of Reference for Languages).
+- A0 is not officially part of the CEFR.
 - It is often used to describe absolute beginners—people with no prior knowledge of a language.
 
 🔹 **Beginner (A1)**  
@@ -37,11 +37,11 @@ Here are the main levels:
 - Can express thoughts clearly and debate on various topics.  
 
 🔹 **Proficient / Near-Native (C2)**  
-- Uses Hebrew naturally in professional and academic settings.  
+- Uses language naturally in professional and academic settings.  
 - Understands slang, idioms, and cultural nuances.  
 - Can read and write complex texts, like legal documents or literature.  
 
-### **Comparison of Ulpan Levels & CEFR**
+## Comparison of Ulpan Levels & CEFR
 
 The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don’t perfectly match the **CEFR (A1–C2)** system, but they roughly correspond as follows:  
 
@@ -55,7 +55,7 @@ The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don’t perfect
 | **C1 (Advanced)** | Hey | 2,000 | 6,000 | professional terminology |
 | **C2 (Proficient/Near-Native)** | Vav | 3,000+ | 9,000 | literary language | 
 
-### **Estimated Vocabulary Distribution for Hebrew Learners**  
+## Estimated Vocabulary Distribution for Hebrew Learners
 
 The **proportion of vocabulary by part of speech** varies by language level and usage, and in Hebrew, a general breakdown looks like this:  
 
