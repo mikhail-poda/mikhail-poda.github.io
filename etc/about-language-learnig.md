@@ -1,4 +1,4 @@
-# Introduction to Language Learning
+# Introduction and Hebrew Learning Resources
 When embarking on the journey of learning a new language, we encounter several interconnected components that together form a complete language skillset. They should be practiced together.
 
 ## Overview
