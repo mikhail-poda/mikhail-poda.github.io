@@ -1,7 +1,7 @@
-# Topic: Origin and Source
+# Topic: Origin and Source 
 
-| **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
-|---------------|----------------|------------|-----------------|  
-| **שׁוֹרֶשׁ** | *shoresh* | Root (plants, linguistic, figurative) | Plants, Hebrew grammar, ancestry |  
-| **מָקוֹר** | *makor* | Source, origin | Information, ideas, academic sources |  
-| **מוֹצָא** | *motza* | Place of origin | Geography, ethnicity |  
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **שׁוֹרֶשׁ** | *shoresh* | root (plants, linguistic, figurative) | Plants, Hebrew grammar, ancestry | **שורש המילה** (*shoresh hamila*) – root of the word |  
+| **מָקוֹר** | *makor* | source, origin | Information, ideas, academic sources | **מקור מידע** (*makor meida*) – source of information |  
+| **מוֹצָא** | *motza* | place of origin | Geography, ethnicity | **מוצא משפחתי** (*motza mishpachti*) – family origin |  
