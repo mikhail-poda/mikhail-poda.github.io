@@ -9,6 +9,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Vocabulary
 Each article provides a detailed table comparing similar Hebrew words and explaining their subtle differences in meaning and usage.
+- [Device, Tool](/topic/device-tool.md)
 - [Dispute, Conflict](/topic/dispute-conflict.md)
 - [Exam, Test](/topic/exam-test.md)
 - [Nation](/topic/nation.md)
