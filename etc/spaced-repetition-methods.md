@@ -37,7 +37,8 @@ The above issues led to two unintended consequences:
 - A "new vocabulary phase" (learning new words).
 - A "review backlog phase" (endless old word reviews, preventing new learning).
 
-**Real-Time vs. Learning-Time Confusion** – The system didn't differentiate between active learning time and pause time, leading to excessive backlog growth after breaks, making it overwhelming to resume learning. Ideally, pause time should be "frozen", so that the system schedules reviews based only on active study time rather than real-world time passing.
+**Real-Time vs. Learning-Time Perspective** – 
+The system operated in two different "realities"—learning time and real time—each relevant at different stages of the process. Lower word rank values (e.g. repeat in 1 minute) are meaningful within an active study session, in contrast, higher rank values (e.g. repeat in one month) applied in real time, determining long-term retention. However, the system did not distinguish between study gaps and active learning, leading to excessive backlog growth after breaks. Ideally, pause time should be "frozen" so that the scheduling remains based on active study time only, rather than real-world time passing.
 
 ## Index-Based Approach
 To overcome the limitations of time-based scheduling, my [second app](https://github.com/mikhail-poda/mila_ivrit) adopted a purely index-based system. Unlike the time-based method, which used a fixed word list where new words were introduced sequentially and reviews were scheduled based on overdue time, the index-based approach relies solely on word positioning in a mutable list, with the first element always being the current word under review.
