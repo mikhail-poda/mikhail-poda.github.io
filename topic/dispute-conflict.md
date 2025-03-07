@@ -1,45 +1,66 @@
+
 # Topic: Dispute and Conflict
 
-### Escalation & Tension (Before Conflict)
+## Escalation & Tension (Before Conflict)
 
-| **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
-|---------------|----------------|------------|-----------------|  
-| **הַסלָמָה** | *haslama* | Escalation | Increase in intensity of a conflict |  
-| **מְתִיחוּת** | *metichut* | Tension | Stress or strain before a conflict |  
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **הַסלָמָה** | *haslama* | escalation | Increase in intensity of a conflict | **הסלמת מצב** (*haslamat matzav*) – escalation of a situation |  
+| **מְתִיחוּת** | *metichut* | tension | Stress or strain before a conflict | **מתיחות גבוהה** (*metichut gvoha*) – high tension |  
 
-### Disputes & Arguments (Verbal Conflicts)
+---
 
-| **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
-|---------------|----------------|------------|-----------------|  
-| **וִיכּוּחַ** | *vikuach* | Argument, debate | Intellectual disagreement, not necessarily hostile |  
-| **מַחֲלוֹקֶת** | *machloket* | Dispute, controversy | Ideological or political disagreement |  
-| **נִיגּוּד** | *nigud* | Contradiction, opposition | Logical or ideological contrast |  
-| **סְתִירָה** | *stirah* | Contradiction, inconsistency | Logical or factual contradiction |  
+## Disputes & Arguments (Verbal Conflicts)
 
-### Personal Quarrels & Small-Scale Conflicts
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **וִיכּוּחַ** | *vikuach* | argument, debate | Intellectual disagreement, not necessarily hostile | **ויכוח פוליטי** (*vikuach politi*) – political debate |  
+| **מַחֲלוֹקֶת** | *machloket* | dispute, controversy | Ideological or political disagreement | **מחלוקת ציבורית** (*machloket tziburit*) – public controversy |  
+| **נִיגּוּד** | *nigud* | contradiction, opposition | Logical or ideological contrast | **ניגוד אינטרסים** (*nigud interesim*) – conflict of interest |  
+| **סְתִירָה** | *stirah* | contradiction, inconsistency | Logical or factual contradiction | **סתירה פנימית** (*stirah pnimiyt*) – internal contradiction |  
 
-| **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
-|---------------|----------------|------------|-----------------|  
-| **רִיב** | *riv* | Quarrel, fight | Small personal argument, usually verbal |  
-| **סִיכְסוּךְ** | *sichsuch* | Conflict, dispute | Long-term personal or political conflict |  
+---
 
-### Physical Conflict & Violence
+## Personal Quarrels & Small-Scale Conflicts
 
-| **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
-|---------------|----------------|------------|-----------------|  
-| **עִימּוּת** | *immut* | Confrontation | Face-to-face clash, political or personal |  
-| **אַלִימוּת** | *alimut* | Violence | Physical aggression or crime |  
-| **קְרָב** | *krav* | Battle, combat | Military or physical fight |  
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **רִיב** | *riv* | quarrel, fight | Small personal argument, usually verbal | **ריב משפחתי** (*riv mishpachti*) – family quarrel |  
+| **סִיכְסוּךְ** | *sichsuch* | conflict, dispute | Long-term personal or political conflict | **סכסוך שכנים** (*sichsuch shchenim*) – neighbor dispute |  
 
-### Competition & Struggle
+---
 
-| **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
-|---------------|----------------|------------|-----------------|  
-| **תַּחֲרוּת** | *tacharut* | Competition | Rivalry in sports, business, or life |  
-| **מַאֲבָק** | *ma'avak* | Struggle, battle | Long-term fight for a cause (political, social) |  
+## Physical Conflict & Violence
 
-### Crisis & Large-Scale Conflict
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **עִימּוּת** | *immut* | confrontation | Face-to-face clash, political or personal | **עימות אלים** (*immut alim*) – violent confrontation |  
+| **אַלִימוּת** | *alimut* | violence | Physical aggression or crime | **אלימות קשה** (*alimut kasha*) – severe violence |  
+| **קְרָב** | *krav* | battle, combat | Military or physical fight | **קרב קשה** (*krav kasha*) – tough battle |  
 
-| **Hebrew Word** | **Transcription** | **Meaning** | **Context/Usage** |  
-|---------------|----------------|------------|-----------------|  
-| **מַשׁבֵּר** | *mashber* | Crisis | Political, economic, or personal breakdown |  
+---
+
+## Competition & Struggle
+
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **תַּחֲרוּת** | *tacharut* | competition | Rivalry in sports, business, or life | **תחרות ספורט** (*tacharut sport*) – sports competition |  
+| **מַאֲבָק** | *ma'avak* | struggle, battle | Long-term fight for a cause (political, social) | **מאבק חברתי** (*ma'avak chevra'ati*) – social struggle |  
+
+---
+
+## Crisis & Large-Scale Conflict
+
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **מַשׁבֵּר** | *mashber* | crisis | Political, economic, or personal breakdown | **משבר כלכלי** (*mashber kalkali*) – economic crisis |  
+
+---
+
+## Warfare 
+
+| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+|---------------|----------------|------------|-----------------|------------|  
+| **מִלְחָמָה** | *milchama* | war | General term for war between nations or groups | **מלחמה כוללת** (*milchama kolelet*) – total war | 
+| **לָחִימָה** | *lachima* | warfare, fighting | Ongoing military action | **אומנויות לחימה** (*amanuyot lekhima*) – martial arts |   
+| **קְרָב** | *krav* | battle | A specific military engagement | **קרב מכריע** (*krav machria*) – decisive battle |  
