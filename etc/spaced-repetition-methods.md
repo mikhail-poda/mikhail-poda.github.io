@@ -1,6 +1,6 @@
 # Spaced Repetition Method
 
-Spaced repetition is a learning technique that optimizes review timing to strengthen memory retention. Algorithms like SuperMemo (SM-2), used in apps such as Anki and Duolingo, schedule reviews based on how well you recall an item. Words you struggle with appear more frequently, while familiar ones are shown less often. This approach is based on the spacing effect, which helps transfer information from short-term to long-term memory efficiently.
+[Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a learning technique that optimizes review timing to strengthen memory retention. Algorithms like SuperMemo (SM-2), used in apps such as Anki and Duolingo, schedule reviews based on how well you recall an item. Words you struggle with appear more frequently, while familiar ones are shown less often. This approach is based on the spacing effect, which helps transfer information from short-term to long-term memory efficiently.
 
 ### Anki's Approach
 Anki uses a modified version of the [SuperMemo SM-2 algorithm](https://en.wikipedia.org/wiki/SuperMemo#Description_of_SM-2_algorithm) with a fixed daily card limit structure:
