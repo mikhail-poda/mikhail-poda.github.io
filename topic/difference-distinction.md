@@ -10,3 +10,4 @@
 | **פַּעֲר**      | *pa'ar*          | gap, disparity            | Large or significant difference, often social or economic | **פערי שכר** (*pa'arei sachar*) – wage gap |   
 | **נִיגּוּד**    | *nigud*          | contradiction, opposition | Direct contrast or logical contradiction | **ניגוד אינטרסים** (*nigud interesim*) – conflict of interest |  
 | **הַפרָדָה**    | *hafrada*        | separation, segregation   | Physical, social, or conceptual separation | **הפרדת פסולת** (*hafradat psolet*) – waste separation |  
+| **שִׁינּוּי**   | *shinui*         | change, alteration        | A modification or transformation that results in a difference | **שינוי משמעותי** (*shinui mashma'uti*) – significant change |  
