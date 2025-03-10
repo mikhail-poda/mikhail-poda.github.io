@@ -5,6 +5,7 @@
 | **לְהָכִיל**      | *lehachil*         | to contain, to include        | **הַכָּלָה** (*hakala*) | containment, inclusion | **הספר מכיל 300 עמודים** (*ha-sefer mekil 300 amudim*) – The book contains 300 pages |  
 | **לִכְלוֹל**      | *lichlol*         | to include, to comprise       | **כְּלִילָה** (*kelila*) | inclusion, encompassing | **הרשימה כוללת שמות חשובים** (*ha-rishima kolelet shemot chashuvim*) – The list includes important names |  
 | **לְהַכְלִיל**    | *lehachlil*       | to generalize, to incorporate | **הַכְלָלָה** (*haklala*) | generalization, incorporation | **לא ניתן להכליל את כל המקרים** (*lo nitan lehachlil et kol ha-mikrim*) – You can't generalize all cases |  
+
 ---
 
 ### Key Differences
