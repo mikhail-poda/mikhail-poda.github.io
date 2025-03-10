@@ -9,10 +9,16 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Vocabulary
 Each article provides a detailed table comparing similar Hebrew words and explaining their subtle differences in meaning and usage.
+
+### Adverbs
 - [Absolutely, Certainly](/topic/absolutely-certainly.md)
 - [Actually, Really](/topic/actually-really.md)
-- [Attack, Strike](/topic/attack-strike.md)
+
+### Nouns
 - [Contain, Comprise](/topic/contain-comprise.md)
+
+### Verbs
+- [Attack, Strike](/topic/attack-strike.md)
 - [Device, Tool](/topic/device-tool.md)
 - [Difference, Distinction](/topic/difference-distinction.md)
 - [Dispute, Conflict](/topic/dispute-conflict.md)
