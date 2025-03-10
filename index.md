@@ -12,6 +12,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Absolutely, Certainly](/topic/absolutely-certainly.md)
 - [Actually, Really](/topic/actually-really.md)
 - [Attack, Strike](/topic/attack-strike.md)
+- [Contain, Comprise](/topic/contain-comprise.md)
 - [Device, Tool](/topic/device-tool.md)
 - [Difference, Distinction](/topic/difference-distinction.md)
 - [Dispute, Conflict](/topic/dispute-conflict.md)
