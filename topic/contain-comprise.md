@@ -1,21 +1,21 @@
 # Topic: Contain, Comprise
 
-| **Hebrew**  | **Transcription**  | **Meaning**             | **Noun (Action)** | **Meaning (Noun)** | **Example** |  
+| **Hebrew**  | **Transcription**  | **Meaning**             | **Example** |  
 |--------------------|-------------------|--------------------------------|-------------------|--------------------|------------|  
-| **לְהָכִיל**      | *lehachil*         | to contain, to include        | **הַכָּלָה** (*hakala*) | containment, inclusion | **הספר מכיל 300 עמודים** (*ha-sefer mekil 300 amudim*) – The book contains 300 pages |  
-| **לִכְלוֹל**      | *lichlol*         | to include, to comprise       | **כְּלִילָה** (*kelila*) | inclusion, encompassing | **הרשימה כוללת שמות חשובים** (*ha-rishima kolelet shemot chashuvim*) – The list includes important names |  
-| **לְהַכְלִיל**    | *lehachlil*       | to generalize, to incorporate | **הַכְלָלָה** (*haklala*) | generalization, incorporation | **לא ניתן להכליל את כל המקרים** (*lo nitan lehachlil et kol ha-mikrim*) – You can't generalize all cases |  
+| **לְהָכִיל**      | *lehachil*         | to contain, to include        | **הספר מכיל 300 עמודים** (*ha-sefer mekil 300 amudim*) – The book contains 300 pages |  
+| **לִכְלוֹל**      | *lichlol*         | to include, to comprise       | **הרשימה כוללת שמות חשובים** (*ha-rishima kolelet shemot chashuvim*) – The list includes important names |  
+| **לְהַכְלִיל**    | *lehachlil*       | to generalize, to incorporate | **לא ניתן להכליל את כל המקרים** (*lo nitan lehachlil et kol ha-mikrim*) – You can't generalize all cases |  
 
 ---
 
 ### Key Differences
-- **להכיל** (*lehakil*) – **Contain something physically or conceptually**.  
+- **להכיל** (*lehachil*) – **Contain something physically or conceptually**.  
 - **לכלול** (*lichlol*) – **Include as part of a set or list**.  
 - **להכליל** (*lehachlil*) – **Generalize or incorporate something broadly**. 
 
 ---
 
-### 1. להכיל (*lehakil*) – "To Contain" 
+### 1. להכיל (*lehachil*) – "To Contain" 
 **🔹 Meaning:**  
 - **Refers to something holding or containing another thing, either physically or conceptually.**  
 - Often used for **books, documents, materials, emotions, substances, or abstract concepts**.  
@@ -27,7 +27,7 @@
 
 **🔹 Examples:**  
 ✔️ **המרק מכיל מלח ופלפל.** (*Ha-mar'k mekil melach u-pilpel.*) – The soup contains salt and pepper.  
-✔️ **עליך להכיל את הכעס שלך.** (*Alecha lehakil et ha-ka'as shelcha.*) – You must contain/control your anger.  
+✔️ **עליך להכיל את הכעס שלך.** (*Alecha lehachil et ha-ka'as shelcha.*) – You must contain/control your anger.  
 
 ---
 
