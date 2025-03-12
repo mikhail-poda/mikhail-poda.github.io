@@ -20,6 +20,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Difference, Distinction](/topic/difference-distinction.md)
 - [Dispute, Conflict](/topic/dispute-conflict.md)
 - [Exam, Test](/topic/exam-test.md)
+- [Meeting, Gathering](/topic/meeting-gathering.md)
 - [Nation](/topic/nation.md)
 - [Origin, Source](/topic/origin-source.md)
 - [Research, Survey, Check](/topic/research-survey-check.md)
