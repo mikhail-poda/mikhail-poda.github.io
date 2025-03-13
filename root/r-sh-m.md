@@ -13,9 +13,8 @@
 
 
 ### **Note**  
-- **רִישׁוּם** (*rishum*) – an act of signing up for something, often temporary (e.g., for a course, an event, or a program).  
-- **הַרְשָׁמָה** (*harshama*) – an official registration, usually with legal implications (e.g., registering a property, a birth, or a trademark).  
-
+- **רִישׁוּם** (*rishum*) – an official registration, usually with legal implications (e.g., registering a property, a birth, or a trademark).  
+- **הַרְשָׁמָה** (*harshama*) – an act of signing up for something, often temporary (e.g., for a course, an event, or a program).
 ---
 
 ## **Meaning: Impressing**  
