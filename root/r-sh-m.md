@@ -33,3 +33,4 @@
 |-----------------|-----------------|-----------------|-----------------|  
 | **רִשְׁמִי** | *rishmi* | official | **זה מסמך רשמי של הממשלה.** (*Ze mismach rishmi shel ha-memshala.*) – This is an official government document. |  
 | **תַּרְשִׁים**  | *tarshim*    | chart, diagram, graph | **התרשים מציג את נתוני המכירות.** (*Ha-tarshim matzig et netunei ha-mechirot.*) – The diagram shows the sales data. |  
+| **מִרְשָׁם**  | *mirsham*    | prescription | **הרופא נתן לי מרשם לאנטיביוטיקה.** (*Ha-rofe natan li mirsham le-antibiotika.*) – The doctor gave me a prescription for antibiotics.|  
