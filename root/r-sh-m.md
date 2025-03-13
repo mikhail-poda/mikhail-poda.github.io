@@ -7,12 +7,14 @@
 | **לִרְשׁוֹם**    | *lirshom*      | to write down, to register | **הוא רשם הערות במחברת.** (*Hu rasham he'arot ba-machberet.*) – He wrote down notes in the notebook. |  
 | **לְהֵירָשֵׁם**  | *leherashem*  | to register, to enroll | **נרשמתי לקורס באוניברסיטה.** (*Nisr-amti le-kurs ba-universita.*) – I enrolled in a university course. |  
 | **רְשִׁימָה**    | *reshima*      | list, record, entry | **השם שלך ברשימה.** (*Ha-shem shelcha ba-reshima.*) – Your name is on the list. |  
-| **רִישׁוּם**    | *rishum*       | registration, notation | **תהליך הרישום לבית הספר התחיל.** (*Tahalich ha-rishum le-beit ha-sefer hitchil.*) – The school registration process has started. |  
 | **רָשׁוּם**     | *rashum*        | registered, written | **הדירה רשומה על שמי.** (*Ha-dira reshuma al shmi.*) – The apartment is registered in my name. |  
+| **רִישׁוּם**    | *rishum*       | registration, record | **תהליך הרישום לבית הספר התחיל.** (*Tahalich ha-rishum le-beit ha-sefer hitchil.*) – The school registration process has started. |  
+| **הַרְשָׁמָה**    | *harshama*       | registration, enrollment | **ההרשמה לקורס נסגרה** (*Ha-harshama la-kurs nisgera.*) – Registration for the course has closed. |  
+
 
 ### **Note**  
-- **רוֹשֶׁם** (*ròshem*) – impression  
-- **רוֹשֶׁם** (*roshèm*) – he writes down  
+- **רִישׁוּם** (*rishum*) – an act of signing up for something, often temporary (e.g., for a course, an event, or a program).  
+- **הַרְשָׁמָה** (*harshama*) – an official registration, usually with legal implications (e.g., registering a property, a birth, or a trademark).  
 
 ---
 
@@ -24,6 +26,10 @@
 | **לְהִתְרַשֵּׁם** | *lehitrashmem* | to be impressed | **התרשמתי מאוד מהתערוכה.** (*Hitrashamti me'od me-ha-ta'arucha.*) – I was very impressed by the exhibition. |  
 | **רוֹשֶׁם** | *ròshem*  | impression | **הספר השאיר עליי רושם מתמשך.** (*Ha-sefer hish'ir alai roshem mitmashech.*) – The book left a lasting impression on me. |  
 | **מַרְשִׁים** | *marshim*  | impressive | **הנאום שלו היה מרשים מאוד.** (*Ha-naum shelo haya marshim me’od.*) – His speech was very impressive. |  
+
+### **Note**  
+- **רוֹשֶׁם** (*ròshem*) – impression  
+- **רוֹשֶׁם** (*roshèm*) – he writes down  
 
 ---
 
