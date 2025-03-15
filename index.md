@@ -10,6 +10,9 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Vocabulary
 Each article provides a detailed table comparing similar Hebrew words and explaining their subtle differences in meaning and usage.
 
+### Adjectives
+- [Intelligence, Expertise](/topic/intelligence-expertise.md)
+
 ### Adverbs
 - [Absolutely, Certainly](/topic/absolutely-certainly.md)
 - [Actually, Really](/topic/actually-really.md)
