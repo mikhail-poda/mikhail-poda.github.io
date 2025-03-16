@@ -3,7 +3,8 @@
 A collection of articles dedicated to intermediate Hebrew learners looking to navigate the beautiful complexities of the Hebrew language with clarity and structure.
 
 ## Language Learning
-- [Introduction and Hebrew Learning Resources](/etc/about-language-learnig.md)
+- [Introduction](/etc/about-language-learnig.md)
+- [Hebrew Learning Resources](/etc/learning-resources.md)
 - [Hebrew Proficiency Levels](/etc/hebrew-proficiency-levels.md)
 - [Spaced Repetition Methods](/etc/spaced-repetition-methods.md)
 
