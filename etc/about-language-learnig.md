@@ -25,14 +25,4 @@ Knowing your [Proficiency Level](https://mikhail-poda.github.io/etc/hebrew-profi
 Hebrew grammar is quite simple. Some aspects, like the verb system, are more of an interesting feature, while others, such as irregular plurals, are better treated as part of vocabulary.
 
 ## Listening and Reading
-These two skills are often combined, especially now that most YouTube videos include transcriptions. Below is a list of online resources I use for listening and reading.
-
-[Hebrew Time](https://hebrewtime.squarespace.com/) Many episodes about life in Israel.
-
-[Piece of Hebrew](https://www.youtube.com/@PieceofHebrew/videos) Many episodes about life in Israel.
-
-[הדרך הקלה](https://www.youtube.com/@ezway) Interesting and intellectual content presented in simple language.
-
-[באים אל הפרופסורים](https://www.youtube.com/@AlexTseitlin) Features many interviews and lectures.
-
-[חדשון בעברית קלה](https://hadshon.edu.gov.il/) Short daily news in easy Hebrew
+These two skills are often combined, especially now that most YouTube videos include transcriptions. [Here](/learning-resources.md) is a list of online resources I use for listening and reading.
