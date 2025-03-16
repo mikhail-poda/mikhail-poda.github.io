@@ -17,10 +17,11 @@
 [חדשון בעברית קלה](https://hadshon.edu.gov.il/) Short daily news in easy Hebrew
 ## Book "+2000: Everyday Hebrew Dialogues"
 
-[Link to PDF](https://www.pdfdrive.com/2000-everyday-hebrew-dialogues-hebrew-edition-book-only-e188142270.html)
+[Workbook](https://www.pdfdrive.com/2000-everyday-hebrew-dialogues-hebrew-edition-book-only-e188142270.html)
 
 [Dictionary](https://www.pdfdrive.com/2000-a-dictionary-for-learners-of-hebrew-e188445447.html)
 
+### Episodes
 [1. פגישה באוטובוס](https://www.youtube.com/watch?v=ZuA1ITIFywQ)
 
 [2. במשפחה](https://www.youtube.com/watch?v=4zspI4Wq6Sc)
