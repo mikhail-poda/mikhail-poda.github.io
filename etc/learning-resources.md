@@ -13,7 +13,8 @@
 
 [Piece of Hebrew](https://www.youtube.com/@PieceofHebrew/videos) Many episodes about life in Israel.
 
-## Offical
+## Ministry of Education
+
 [חדשון בעברית קלה](https://hadshon.edu.gov.il/) Short daily news in easy Hebrew
 ## Book "+2000: Everyday Hebrew Dialogues"
 
