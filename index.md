@@ -20,6 +20,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 
 ### Nouns
 - [Attack, Strike](/topic/attack-strike.md)
+- [Component, Detail](/topic/component-detail.md)
 - [Device, Tool](/topic/device-tool.md)
 - [Difference, Distinction](/topic/difference-distinction.md)
 - [Dispute, Conflict](/topic/dispute-conflict.md)
