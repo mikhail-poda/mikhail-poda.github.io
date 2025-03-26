@@ -9,3 +9,13 @@
 | **אֵיבָר**         | *eivar*            | organ, limb, part        | Biological or metaphorical “part”              | **איבר בגוף** (*eivar baguf*) – body part |  
 | **סֶעִיף**         | *se'if*            | clause, sub-section      | Legal, textual, or policy-related part         | **סעיף בחוזה** (*se'if bachozé*) – a clause in a contract |  
 | **תּוֹסֶפֶת**       | *tosefet*          | addition, supplement     | Something added to form a whole                | **תוספת שכר** (*tosefet sachar*) – salary supplement |  
+
+### Note on root ר־כ־ב
+
+- **מַרְכִּיב** (*markív*) is both a noun meaning "ingredient" or "component" – and is also the masculine singular form of the verb **להַרְכִּיב** (*leharkiv*) – "to assemble" or "to compose". For example: **הוא מַרְכִּיב מחשבים** – *He assembles computers*  
+- There are two other important nouns:
+
+| **Hebrew**     | **Transcription** | **Meaning**             | **Example** |
+|----------------|-------------------|--------------------------|-------------|
+| **הַרְכָּבָה**   | *harkavá*          | assembly, composition     | **הרכבת מחשב** (*harkavat machshev*) – computer assembly |
+| **הֶרְכֵּב**     | *herkév*           | composition, structure    | **ההרכב הכימי** (*haherkév hakimi*) – the chemical composition |
