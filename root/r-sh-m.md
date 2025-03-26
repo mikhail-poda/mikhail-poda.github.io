@@ -1,4 +1,4 @@
-# Root: ר - שׁ - ם 
+# Root: ר־שׁ־ם
 
 ## **Meaning: Writing, Registering, Noting Down**  
 
