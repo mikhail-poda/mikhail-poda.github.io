@@ -37,7 +37,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Increase, Expand](/topic/increase-expand.md)
 
 ### Roots
-- [ר - שׁ - ם](/root/r-sh-m.md)
+- [ר־שׁ־ם](/root/r-sh-m.md)
 
 ## About
 Most Hebrew resources focus on vocabulary and grammar, but few compare similar words in a structured way. This site fills that gap with clear, systematic tables that help learners understand subtle differences in meaning and usage. It also covers other aspects of Hebrew vocabulary, such as proficiency levels and study methods.
