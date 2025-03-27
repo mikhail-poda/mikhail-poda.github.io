@@ -8,7 +8,7 @@
 | **קָרוֹב**        | *karov*            | near, close                | adj. / adv. | Can describe physical/emotional closeness     | **הוא גר קרוב** – He lives nearby |
 | **בְּקִרְבַת**     | *bekirvat*         | in the vicinity of         | prep. | Often literary or high-register speech         | **בקִרבת הים** – Near the sea |
 | **בְּסָמוּךְ לְ**   | *besamuch le-*      | close to, adjacent to      | prep.   | More formal, often physical/spatial proximity     | **בסמוך לבית הספר** – Close to the school |
-| **צָמוּד**        | *tzamud*           | attached, stuck to         | adj.     | Indicates **tight/physical contact**             | **הכיסא צמוד לקיר** – The chair is flush with the wall |
+| **צָמוּד**        | *tzamud*           | attached, stuck to         | adj.     | Indicates tight/physical contact             | **הכיסא צמוד לקיר** – The chair is flush with the wall |
 | **הָדוּק**        | *haduk*            | tight, snug, firm          | adj.     | Physical tightness (clothing, grip, bond)         | **קשר הדוק** – a strong/tight bond |
 
 ---
