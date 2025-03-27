@@ -33,6 +33,9 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Show, Presentation](/topic/show-presentation.md)
 - [Space, Area](/topic/space-area.md)
 
+### Prepositions
+- [Close, Distant](/topic/close-distant.md)
+
 ### Verbs
 - [Contain, Comprise](/topic/contain-comprise.md)
 - [Increase, Expand](/topic/increase-expand.md)
