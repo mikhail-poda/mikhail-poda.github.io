@@ -6,6 +6,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Introduction](/etc/about-language-learnig.md)
 - [Hebrew Learning Resources](/etc/learning-resources.md)
 - [Hebrew Proficiency Levels](/etc/hebrew-proficiency-levels.md)
+- [Preposition vs. Adverb](/etc/preposition-adverb.md)
 - [Spaced Repetition Methods](/etc/spaced-repetition-methods.md)
 
 ## Vocabulary
