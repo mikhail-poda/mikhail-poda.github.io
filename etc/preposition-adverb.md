@@ -1,11 +1,12 @@
 # Preposition, Adverb, Adjective
 
-In English, the word **"inside"** can be used in different ways — "I am inside" vs. "I am inside the house."  
-But in Hebrew, these meanings are **expressed differently** depending on **grammar**.  
+In English, the word **"inside"** can be used in different ways — *"I am inside"* vs. *"I am inside the house."*  
+These two uses of the same word represent **different parts of speech**: in the first case, it's an **adverb**, and in the second, a **preposition**.  
+In Hebrew, these meanings are **expressed using entirely different words**, depending on the **part of speech**.
 
 ---
 
-### Word Classes in Hebrew
+### Word Classes (Parts of Speech)
 
 | **Word Class**         | **How to Recognize It**                                 |
 |------------------------|----------------------------------------------------------|
@@ -15,7 +16,7 @@ But in Hebrew, these meanings are **expressed differently** depending on **gramm
 
 ---
 
-## Examples: Multiple Hebrew Translations for one English Word
+## Examples: Multiple Hebrew Translations for "inside"
 
 | **English**                  | **Hebrew**              | **Class**     |
 |-----------------------------|--------------------------|----------------|
