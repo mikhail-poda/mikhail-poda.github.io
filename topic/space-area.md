@@ -10,7 +10,6 @@
 | **מָחוֹז** | *machoz* | district, province | Governmental administrative regions | **מחוז דרומי** (*machoz dromi*) – southern district |  
 | **מִתחָם** | *mit'ham* | complex, enclosed area | Buildings, campuses, facilities | **מתחם קניות** (*mit'ham kniyot*) – shopping complex |  
 | **תְּחוּם** | *tchum* | domain, boundary, field | Defined area, expertise, territorial limits | **תחום אחריות** (*tchum achrayut*) – area of responsibility |  
-| **רֶוַח** | *revach* | space, gap, margin | Physical gaps, breathing room, financial margin | **רווח קטן** (*revach katan*) – small gap |  
+| **רֶוַוח** | *revach* | space, gap, margin | Physical gaps, breathing room, financial margin | **רווח קטן** (*revach katan*) – small gap |  
 | **פֶּלֶךְ** | *peleg* | district, region (old-fashioned) | Poetic/biblical term for a region | **פלך יהודה** (*peleg Yehuda*) – the district of Judah |  
 | **זִירָה** | *zirah* | arena, scene, field | Political, military, sports arenas | **זירת הפשע** (*zirat hapesha*) – crime scene |  
-| **רָחוֹב** | *rachov* | open area, boulevard | Wide spaces, main streets | **רחוב ראשי** (*rechov rashi*) – main street |  
