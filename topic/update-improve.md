@@ -6,7 +6,7 @@
 | **לְשַׁפֵּר**           | *leshaper*           | to improve, enhance                              | **היא שיפרה את הציונים שלה.** (*hi shipra et ha-tziyunim shela*) – She improved her grades. |  
 | **לְשַׁחְזֵר**         | *leshachzer*         | to restore, reconstruct              | **שחזרנו את הקובץ הישן.** (*shichzarnu et ha-kovetz ha-yashan*) – We restored the old file. |  
 | **לְחַדֵּשׁ**           | *lechadesh*          | to renew, innovate, resume       | **חידשתי את המנוי.** (*chidash'ti et ha-manu'i*) – I renewed the subscription. |  
-| **לְשַׁקֵּם**           | *leshakeim*          | to rehabilitate, restore, rebuild     | **הם שיקמו את הבניין הישן.** (*hem shikmu et ha-binyan ha-yashan*) – They rehabilitated the old building. |  
+| **לְשַׁקֵּם**           | *leshakem*          | to rehabilitate     | **הם שיקמו את הבניין הישן.** (*hem shikmu et ha-binyan ha-yashan*) – They rehabilitated the old building. |  
 | **לְשַׁפֵּץ**           | *leshapeitz*         | to renovate, refurbish                 | **אנחנו משפצים את המטבח.** (*anachnu meshaptsim et ha-mitbach*) – We’re renovating the kitchen. |  
 | **לְעַדְכֵּן**          | *le’adken*           | to update (software, info)             | **עדכנתי את התוכנה.** (*idkanti et ha-tochna*) – I updated the software. |  
 | **לְרַעֲנֵן**           | *lera'anen*          | to refresh                      | **צריך לרענן את הזיכרון.** (*tzarich lera'anen et ha-zikaron*) – You need to refresh your memory. |  
