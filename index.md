@@ -40,6 +40,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Contain, Comprise](/topic/contain-comprise.md)
 - [Increase, Expand](/topic/increase-expand.md)
 - [Propose, Recommend](/topic/propose-recommend.md)
+- [Update, Improve](/topic/update-improve.md)
 
 ### Roots
 - [ר־שׁ־ם](/root/r-sh-m.md)
