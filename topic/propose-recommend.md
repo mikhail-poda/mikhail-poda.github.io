@@ -17,4 +17,4 @@
 | **הַצָּעָה**          | *hatsaa*             | suggestion, proposal, offer | **קיבלתי הצעה טובה.** (*kibalti hatsaa tova*) – I received a good offer. |  
 | **הַמְלָצָה**         | *hamlatsa*           | recommendation            | **יש לי המלצה בשבילך.** (*yesh li hamlatsa bishvilkha*) – I have a recommendation for you. |  
 | **עֵצָה**             | *etza*               | advice                  | **הוא נתן לי עצה חכמה.** (*hu natan li etza chachama*) – He gave me wise advice. |  
-| **מוֹעָצָה**	         | *mo'atsa*             | council                 | המוֹעָצָה המקומית התכנסה לדיון. (*ha-mo'atsa ha-mekomit hitkansa le-diyun*) – The local council gathered for a discussion. |
+| **מוֹעָצָה**	         | *mo'atsa*             | council                 | **המוֹעָצָה המקומית התכנסה לדיון.** (*ha-mo'atsa ha-mekomit hitkansa le-diyun*) – The local council gathered for a discussion. |
