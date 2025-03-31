@@ -39,6 +39,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 ### Verbs
 - [Contain, Comprise](/topic/contain-comprise.md)
 - [Increase, Expand](/topic/increase-expand.md)
+- [Propose, Recommend](/topic/propose-recommend.md)
 
 ### Roots
 - [ר־שׁ־ם](/root/r-sh-m.md)
