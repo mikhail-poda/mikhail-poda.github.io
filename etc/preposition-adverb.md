@@ -28,10 +28,30 @@ In Hebrew, these meanings are **expressed using entirely different words**, depe
 
 ## **Hebrew Direction & Position Words by Function**
 
+| **Function**                       | **Inside**                                       | **Outside**                                             |
+|------------------------------------|--------------------------------------------------|----------------------------------------------------------|
+| **Adverb**    | **בִּפְנִים** (*bifnim*) – I’m inside             | **בַּחוּץ** (*bachutz*) – He’s outside                   |
+| **Directional Adverb**  | **פְּנִימָה** (*pnimah*) – inward              | **הַחוּצָה** (*hachutzah*) – outward                     |
+| **Preposition**       | **בְּתוֹךְ** (*betoch*) – inside (of)            | **מִחוּץ לְ** (*michutz le-*) – outside (of)            |
+| **Directional Preposition**  | **אֶל תּוֹךְ, לְתוֹךְ** (*el toch, letoch*) – into                     | -     |
+| **Adjective**                | **פְּנִימִי** (*pnimi*) – inner                   | **חִיצוֹנִי** (*chitzoni*) – outer                       |
+
+### Example for “Inside”:
+
+| Sentence | Function |
+|---------|----------|
+| **הוא רץ פְּנִימָה.** – He ran inward. | **Directional adverb** |
+| **הוא נמצא בִּפְנִים.** – He is inside. | **Adverb** (location) |
+| **הוא יושב בְּתוֹךְ הַבַּיִת.** – He sits inside the house. | **Preposition** |
+| **הוא נכנס לְתוֹךְ הַבַּיִת.** – He entered into the house. | **Directional preposition** |
+| **זו דֶּלֶת פְּנִימִית.** – That’s an inner door. | **Adjective** |
+
+---
+
+## **Further Hebrew Direction & Position Words by Function**
+
 | **English** | **Adverb** (stands alone) | **Preposition** (followed by a noun) | **Adjective** (describes a noun) |
 |------------|----------------------------|--------------------------------------|----------------------------------|
-| **Inside** | **בִּפְנִים** (*bifnim*) – I’m inside | **בְּתוֹךְ** (*betoch*) – inside the house | **פְּנִימִי** (*pnimi*) – the inner room |
-| **Outside** | **בַּחוּץ** (*bachutz*) – He’s outside | **מִחוּץ לְ** (*michutz le-*) – outside the city | **חִיצוֹנִי** (*chitzoni*) – external wall |
 | **Above** | **לְמַעְלָה** (*lema'ala*) – It’s above | **מֵעַל** (*me'al*) – above the table | **עֶלְיוֹן** (*elyon*) – the upper shelf |
 | **Below** | **לְמַטָּה** (*lemata*) – It's below | **מִתַּחַת** (*mitachat*) – under the bed | **תַּחְתּוֹן** (*tachton*) – bottom drawer |
 | **Near / Close** | **קָרוֹב** (*karov*) – It’s close | **לְיַד**, **בְּסָמוּךְ לְ** (*leyad, besamuch le-*) – next to the door | **קָרוֹב** – a close friend (*חָבֵר קָרוֹב*) |
