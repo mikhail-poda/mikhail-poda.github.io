@@ -41,6 +41,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Increase, Expand](/topic/increase-expand.md)
 - [Propose, Recommend](/topic/propose-recommend.md)
 - [Update, Improve](/topic/update-improve.md)
+- [*Verbs with Multiple Meanings*](/topic/verbs-multiple-meaning.md)
 
 ### Roots
 - [ר־שׁ־ם](/root/r-sh-m.md)
