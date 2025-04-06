@@ -61,6 +61,5 @@
 | **לִטְבּוֹעַ** | to drown | to mint |
 | **לְעַבֵּד** | to process | to cultivate (land) |
 | **לְהִתְעָרֵב** | to bet | to interfere, intervene |
-| **לְהִתְכּוֹנֵן** | to prepare | (less common) to be meant (passive nuance) |
 | **לְהָעִיר** | to wake someone | to comment |
 | **לְחַבֵּר** | to connect | to compose (e.g. book, music) |
