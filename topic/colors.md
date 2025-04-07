@@ -2,7 +2,7 @@
 
 | Color | Hebrew | English | Related Term | Meaning |
 |-------|--------|---------|--------------|---------|
-| ![Yellow](https://placehold.co/15x15/ffff00/ffff00.png) | הוּבָּה | yellow | זָהָב | golden |
+| ![Yellow](https://placehold.co/15x15/ffff00/ffff00.png) | צָהוֹב | yellow | זָהָב | golden |
 | ![Red](https://placehold.co/15x15/ff0000/ff0000.png) | אָדוֹם | red | דָם | blood |
 | ![Blue](https://placehold.co/15x15/0000ff/0000ff.png) | כְּחוֹל | blue | מִכְחוֹל | paintbrush |
 | ![Green](https://placehold.co/15x15/00ff00/00ff00.png) | יָרוֹק | green | יָרָק | vegetable |
