@@ -4,12 +4,12 @@
 |-------|--------|---------|--------------|---------|
 | ![Yellow](https://placehold.co/15x15/ffff00/ffff00.png) | צָהוֹב | yellow | זָהָב | golden |
 | ![Red](https://placehold.co/15x15/ff0000/ff0000.png) | אָדוֹם | red | דָם | blood |
-| ![Blue](https://placehold.co/15x15/0000ff/0000ff.png) | כְּחוֹל | blue | מִכְחוֹל | paintbrush |
+| ![Blue](https://placehold.co/15x15/0000cd/0000cd.png) | כְּחוֹל | blue | מִכְחוֹל | paintbrush |
 | ![Green](https://placehold.co/15x15/00ff00/00ff00.png) | יָרוֹק | green | יָרָק | vegetable |
 | ![Orange](https://placehold.co/15x15/ffa500/ffa500.png) | כָּתוֹם | orange | כֶּתֶם | stain |
 | ![Pink](https://placehold.co/15x15/ffc0cb/ffc0cb.png) | וָרוֹד | pink, rosa | וֶרֶד | rose (flower) |
 | ![Violet](https://placehold.co/15x15/8a2be2/8a2be2.png) | סָגוֹל | violet | סְגוּלָּה | virtue |
-| ![Azure](https://placehold.co/15x15/add8e6/add8e6.png) | תָכוֹל, תְכֵלֶת | azure | תּוֹחֶלֶת | expectancy |
+| ![Azure](https://placehold.co/15x15/0080ff/0080ff.png) | תָכוֹל, תְכֵלֶת | azure | תּוֹחֶלֶת | expectancy |
 | ![Dark Brown](https://placehold.co/15x15/8b4513/8b4513.png) | שָׁחוּם | dark brown | שָׁחוֹר + חוּם | - |
 | ![Black](https://placehold.co/15x15/000000/000000.png) | שָׁחוֹר | black | שַׁחַר | dawn, sunrise |
 | ![Gray](https://placehold.co/15x15/808080/808080.png) | אָפוֹר | gray | - | - |
