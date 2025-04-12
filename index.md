@@ -33,6 +33,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Research, Survey, Check](/topic/research-survey-check.md)
 - [Show, Presentation](/topic/show-presentation.md)
 - [Space, Area](/topic/space-area.md)
+- [Task, Mission](/topic/task-mission.md)
 
 ### Prepositions
 - [Close, Distant](/topic/close-distant.md)
