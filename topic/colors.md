@@ -1,5 +1,17 @@
 # Topic: Colors
 
+
+### Color-Related Words
+
+| Adjective | Meaning | Noun | Meaning |
+|--------------|--------------|--------------|--------------|
+| צִבְעוֹנִי | colorful; tulip | צֶבַע | color |
+| בָּהִיר | light | אוֹר | light |
+| כֵּהֶה | dark | חוֹשֶׁך | darkness |
+---
+
+### List
+
 | Color | Hebrew | English | Related Term | Meaning |
 |-------|--------|---------|--------------|---------|
 | ![Yellow](https://placehold.co/15x15/eeee00/eeee00.png) | צָהוֹב | yellow | זָהָב | golden |
@@ -20,13 +32,3 @@
 | ![Brown](https://placehold.co/15x15/a52a2a/a52a2a.png) | חוּם | brown | חוֹם | heat |
 | ![Purple](https://placehold.co/15x15/800080/800080.png) | אַרְגָּמָן | purple (reddish) | - | - |
 | ![Copper](https://placehold.co/15x15/cd7f32/cd7f32.png) | נְחוֹשֶׁת | copper | - | - |
-
----
-
-### Color-Related Words
-
-| Adjective | Meaning | Noun | Meaning |
-|--------------|--------------|--------------|--------------|
-| צִבְעוֹנִי | colorful; tulip | צֶבַע | color |
-| בָּהִיר | light | אוֹר | light |
-| כֵּהֶה | dark | חוֹשֶׁך | darkness |
