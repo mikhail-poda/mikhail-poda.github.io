@@ -38,6 +38,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 ### Prepositions
 - [Close, Distant](/topic/close-distant.md)
 - [Inside, Outside](/topic/inside-outside.md)
+- [Toward](/topic/toward.md)
 
 ### Verbs
 - [Contain, Comprise](/topic/contain-comprise.md)
