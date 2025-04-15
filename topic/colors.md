@@ -8,6 +8,7 @@
 | צִבְעוֹנִי | colorful; tulip | צֶבַע | color |
 | בָּהִיר | light | אוֹר | light |
 | כֵּהֶה | dark | חוֹשֶׁך | darkness |
+
 ---
 
 ### List
