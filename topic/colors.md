@@ -3,11 +3,11 @@
 
 ### Color-Related Words
 
-| Adjective | Meaning | Noun | Meaning |
+| Noun | Meaning | Adjective | Meaning |
 |--------------|--------------|--------------|--------------|
-| צִבְעוֹנִי | colorful; tulip | צֶבַע | color |
-| בָּהִיר | light | אוֹר | light |
-| כֵּהֶה | dark | חוֹשֶׁך | darkness |
+| צֶבַע | color| צִבְעוֹנִי | colorful; tulip  |
+| אוֹר | light | בָּהִיר | light |
+| חוֹשֶׁך | darkness | כֵּהֶה | dark |
 
 ---
 
