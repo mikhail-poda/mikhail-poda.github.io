@@ -30,6 +30,7 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Meeting, Gathering](/topic/meeting-gathering.md)
 - [Nation](/topic/nation.md)
 - [Origin, Source](/topic/origin-source.md)
+- [Path, Route](/topic/path-route.md)
 - [Research, Survey, Check](/topic/research-survey-check.md)
 - [Show, Presentation](/topic/show-presentation.md)
 - [Space, Area](/topic/space-area.md)
