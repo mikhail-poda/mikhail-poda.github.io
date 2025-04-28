@@ -8,6 +8,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Hebrew Proficiency Levels](/etc/hebrew-proficiency-levels.md)
 - [Preposition vs. Adverb](/etc/preposition-adverb.md)
 - [Spaced Repetition Methods](/etc/spaced-repetition-methods.md)
+- [Overview of Imperative Forms](/etc/imperative.md)
 
 ## Vocabulary
 Each article provides a detailed table comparing similar Hebrew words and explaining their subtle differences in meaning and usage.
