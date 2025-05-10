@@ -46,6 +46,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Verbs
 - [Contain, Comprise](/topic/contain-comprise.md)
 - [Increase, Expand](/topic/increase-expand.md)
+- [Hit, Injure](/topic/hit-injure.md)
 - [Propose, Recommend](/topic/propose-recommend.md)
 - [Update, Improve](/topic/update-improve.md)
 - [*Verbs with Multiple Meanings*](/topic/verbs-multiple-meaning.md)
