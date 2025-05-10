@@ -1,4 +1,4 @@
-# Topic: Pronominal suffixes
+# Topic: Pronominal Suffixes
 
 |אוֹת־ אית־  | | singular nouns  | | ל־| | plural nouns | |כְּ־, כְּמוֹ| | מִ־, מִן | |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
