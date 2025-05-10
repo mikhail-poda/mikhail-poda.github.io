@@ -1,4 +1,4 @@
-# Topic: to hit, injure
+# Topic: Hit, Injure
 
 | Infinitive      | Pronunciation | Meaning                | 
 |---------------|-------------|----------------------------|
