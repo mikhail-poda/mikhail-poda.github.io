@@ -6,22 +6,22 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Introduction](/etc/about-language-learnig.md)
 - [Hebrew Learning Resources](/etc/learning-resources.md)
 - [Hebrew Proficiency Levels](/etc/hebrew-proficiency-levels.md)
-- [Preposition vs. Adverb](/etc/preposition-adverb.md)
 - [Spaced Repetition Methods](/etc/spaced-repetition-methods.md)
+
+## Grammar
 - [Overview of Imperative Forms](/etc/imperative.md)
+- [Preposition vs. Adverb](/etc/preposition-adverb.md)
+- [Pronominal Suffixes](/etc/pronominal-suffixes.md)
 
-## Vocabulary
-Each article provides a detailed table comparing similar Hebrew words and explaining their subtle differences in meaning and usage.
-
-### Adjectives
+## Adjectives
 - [Colors](/topic/colors.md)
 - [Intelligence, Expertise](/topic/intelligence-expertise.md)
 
-### Adverbs
+## Adverbs
 - [Absolutely, Certainly](/topic/absolutely-certainly.md)
 - [Actually, Really](/topic/actually-really.md)
 
-### Nouns
+## Nouns
 - [Attack, Strike](/topic/attack-strike.md)
 - [Component, Detail](/topic/component-detail.md)
 - [Device, Tool](/topic/device-tool.md)
@@ -37,20 +37,20 @@ Each article provides a detailed table comparing similar Hebrew words and explai
 - [Space, Area](/topic/space-area.md)
 - [Task, Mission](/topic/task-mission.md)
 
-### Prepositions
+## Prepositions
 - [Close, Distant](/topic/close-distant.md)
 - [During](/topic/during.md)
 - [Inside, Outside](/topic/inside-outside.md)
 - [Toward](/topic/toward.md)
 
-### Verbs
+## Verbs
 - [Contain, Comprise](/topic/contain-comprise.md)
 - [Increase, Expand](/topic/increase-expand.md)
 - [Propose, Recommend](/topic/propose-recommend.md)
 - [Update, Improve](/topic/update-improve.md)
 - [*Verbs with Multiple Meanings*](/topic/verbs-multiple-meaning.md)
 
-### Roots
+## Roots
 - [ר־שׁ־ם](/root/r-sh-m.md)
 
 ## About
@@ -58,4 +58,4 @@ Most Hebrew resources focus on vocabulary and grammar, but few compare similar w
 
 ---
 
-Last updated: March 2025
+Last updated: 10. Mai 2025
