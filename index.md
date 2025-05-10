@@ -11,7 +11,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Grammar
 - [Overview of Imperative Forms](/etc/imperative.md)
 - [Preposition vs. Adverb](/etc/preposition-adverb.md)
-- [Pronominal Suffixes](/etc/pronominal-suffixes.md)
+- [Pronominal Suffixes](/topic/pronominal-suffixes.md)
 
 ## Adjectives
 - [Colors](/topic/colors.md)
