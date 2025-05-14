@@ -13,8 +13,8 @@
 
 ## Group 1
 
-- (**אתכם** but) **־אוֹת** – (accusative)
-- **־אית** – with
+- (**אתכם** but) **אוֹת־** – (accusative)
+- **אית־** – with
 
 ## Group 2
 
