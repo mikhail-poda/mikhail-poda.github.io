@@ -4,52 +4,52 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Language Learning
 - [Introduction](/etc/about-language-learnig.md)
-- [Hebrew Learning Resources](/etc/learning-resources.md)
-- [Hebrew Proficiency Levels](/etc/hebrew-proficiency-levels.md)
-- [Spaced Repetition Methods](/etc/spaced-repetition-methods.md)
+- [Hebrew Learning Resources](/lang/learning-resources.md)
+- [Hebrew Proficiency Levels](/lang/hebrew-proficiency-levels.md)
+- [Spaced Repetition Methods](/lang/spaced-repetition-methods.md)
 
 ## Grammar
-- [Overview of Imperative Forms](/etc/imperative.md)
-- [Preposition vs. Adverb](/etc/preposition-adverb.md)
-- [Pronominal Suffixes](/topic/pronominal-suffixes.md)
+- [Overview of Imperative Forms](/grammar/imperative.md)
+- [Preposition vs. Adverb](/grammar/preposition-adverb.md)
+- [Pronominal Suffixes](/grammar/pronominal-suffixes.md)
 
 ## Adjectives
-- [Colors](/topic/colors.md)
-- [Intelligence, Expertise](/topic/intelligence-expertise.md)
+- [Colors](/adj/colors.md)
+- [Intelligence, Expertise](/adj/intelligence-expertise.md)
 
 ## Adverbs
-- [Absolutely, Certainly](/topic/absolutely-certainly.md)
-- [Actually, Really](/topic/actually-really.md)
+- [Absolutely, Certainly](/adv/absolutely-certainly.md)
+- [Actually, Really](/adv/actually-really.md)
 
 ## Nouns
-- [Attack, Strike](/topic/attack-strike.md)
-- [Component, Detail](/topic/component-detail.md)
-- [Device, Tool](/topic/device-tool.md)
-- [Difference, Distinction](/topic/difference-distinction.md)
-- [Dispute, Conflict](/topic/dispute-conflict.md)
-- [Exam, Test](/topic/exam-test.md)
-- [Meeting, Gathering](/topic/meeting-gathering.md)
-- [Nation](/topic/nation.md)
-- [Origin, Source](/topic/origin-source.md)
-- [Path, Route](/topic/path-route.md)
-- [Research, Survey, Check](/topic/research-survey-check.md)
-- [Show, Presentation](/topic/show-presentation.md)
-- [Space, Area](/topic/space-area.md)
-- [Task, Mission](/topic/task-mission.md)
+- [Attack, Strike](/noun/attack-strike.md)
+- [Component, Detail](/noun/component-detail.md)
+- [Device, Tool](/noun/device-tool.md)
+- [Difference, Distinction](/noun/difference-distinction.md)
+- [Dispute, Conflict](/noun/dispute-conflict.md)
+- [Exam, Test](/noun/exam-test.md)
+- [Meeting, Gathering](/noun/meeting-gathering.md)
+- [Nation](/noun/nation.md)
+- [Origin, Source](/noun/origin-source.md)
+- [Path, Route](/noun/path-route.md)
+- [Research, Survey, Check](/noun/research-survey-check.md)
+- [Show, Presentation](/noun/show-presentation.md)
+- [Space, Area](/noun/space-area.md)
+- [Task, Mission](/noun/task-mission.md)
 
 ## Prepositions
-- [Close, Distant](/topic/close-distant.md)
-- [During](/topic/during.md)
-- [Inside, Outside](/topic/inside-outside.md)
-- [Toward](/topic/toward.md)
+- [Close, Distant](/prep/close-distant.md)
+- [During](/prep/during.md)
+- [Inside, Outside](/prep/inside-outside.md)
+- [Toward](/prep/toward.md)
 
 ## Verbs
-- [Contain, Comprise](/topic/contain-comprise.md)
-- [Increase, Expand](/topic/increase-expand.md)
-- [Hit, Injure](/topic/hit-injure.md)
-- [Propose, Recommend](/topic/propose-recommend.md)
-- [Update, Improve](/topic/update-improve.md)
-- [*Verbs with Multiple Meanings*](/topic/verbs-multiple-meaning.md)
+- [Contain, Comprise](/verb/contain-comprise.md)
+- [Hit, Injure](/verb/hit-injure.md)
+- [Increase, Expand](/verb/increase-expand.md)
+- [Propose, Recommend](/verb/propose-recommend.md)
+- [Update, Improve](/verb/update-improve.md)
+- [*Verbs with Multiple Meanings*](/verb/verbs-multiple-meaning.md)
 
 ## Roots
 - [ר־שׁ־ם](/root/r-sh-m.md)
@@ -59,4 +59,4 @@ Most Hebrew resources focus on vocabulary and grammar, but few compare similar w
 
 ---
 
-Last updated: 10. Mai 2025
+Last updated: 14. Mai 2025
