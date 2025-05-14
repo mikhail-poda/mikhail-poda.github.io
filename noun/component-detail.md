@@ -12,7 +12,7 @@
 
 ---
 
-### Note on root ר־כ־ב
+## Note on root ר־כ־ב
 
 - **מַרְכִּיב** (*markív*) is both a noun meaning "ingredient" or "component" – and is also the masculine singular form of the verb **להַרְכִּיב** (*leharkiv*) – "to assemble" or "to compose". For example: **הוא מַרְכִּיב מחשבים** – *He assembles computers*  
 - There are two other important nouns:

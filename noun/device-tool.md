@@ -13,11 +13,12 @@
 
 ---
 
-### Key Differences:   
+## Key Differences
+
 - **מכשיר** (*machshir*) – A **general device or instrument**, often electronic or medical.  
 - **מתקן** (*mitkan*) – A **fixed installation** or **facility**.  
-- **הֶתְקֵן** (*hetken*) – A **technical** or **regulatory** device (often meeting safety or industrial standards). 
-- **מנגנון** (*manganon*) – A **mechanism** within a device. 
+- **הֶתְקֵן** (*hetken*) – A **technical** or **regulatory** device (often meeting safety or industrial standards).
+- **מנגנון** (*manganon*) – A **mechanism** within a device.
 - **מכונה** (*mechona*) – A **machine** with mechanical parts.  
 - **מערכת** (*ma'arechet*) – A **system** of interconnected components.  
 - **ציוד** (*tziyud*) – **Equipment** or **gear**, usually **non-mechanical**.  

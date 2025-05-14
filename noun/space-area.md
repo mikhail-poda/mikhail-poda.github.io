@@ -12,4 +12,4 @@
 | **תְּחוּם** | *tchum* | domain, boundary, field | Defined area, expertise, territorial limits | **תחום אחריות** (*tchum achrayut*) – area of responsibility |  
 | **רֶוַוח** | *revach* | space, gap, margin | Physical gaps, breathing room, financial margin | **רווח קטן** (*revach katan*) – small gap |  
 | **פֶּלֶךְ** | *peleg* | district, region (old-fashioned) | Poetic/biblical term for a region | **פלך יהודה** (*peleg Yehuda*) – the district of Judah |  
-| **זִירָה** | *zirah* | arena, scene, field | Political, military, sports arenas | **זירת הפשע** (*zirat hapesha*) – crime scene |  
+| **זִירָה** | *zirah* | arena, scene, field | Political, military, sports arenas | **זירת הפשע** (*zirat hapesha*) – crime scene |

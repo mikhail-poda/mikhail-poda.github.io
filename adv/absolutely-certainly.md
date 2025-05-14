@@ -20,7 +20,8 @@
 
 ---
 
-### Key Differences:
+## Key Differences
+
 - **באופן מוחלט / לחלוטין / כליל** (*be'ofen mukhlat / lachalutin / kalil*) – Strong, absolute confirmation.  
 - **בוודאי / כמובן / לבטח** (*b'vadai / kamuvan / levatach*) – More conversational, used for reassurance or obvious truths.  
 - **בהחלט / בוודאות / ללא ספק / בלי ספק / אין ספק** (*behechlet / bevadaut / lelo safek / bli safek / ein safek*) – Used to confirm something with **certainty**.  

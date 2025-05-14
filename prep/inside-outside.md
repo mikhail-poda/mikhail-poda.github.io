@@ -8,9 +8,9 @@
 | **Directional Preposition**  | **אֶל תּוֹךְ, לְתוֹךְ** (*el toch, letoch*) – into                     | -     |
 | **Adjective**                | **פְּנִימִי** (*pnimi*) – inner                   | **חִיצוֹנִי** (*chitzoni*) – outer                       |
 
-### Example for “Inside”:
+## Example for “Inside”
 
-| Sentence | Function |
+| **Sentence** | **Function** |
 |---------|----------|
 | **הוא רץ פְּנִימָה.** – He ran inward. | **Directional adverb** |
 | **הוא נמצא בִּפְנִים.** – He is inside. | **Adverb** (location) |

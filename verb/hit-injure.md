@@ -1,6 +1,6 @@
 # Topic: Hit, Injure
 
-| Infinitive      | Pronunciation | Meaning                | 
+| **Hebrew**  | **Transcription**  | **Meaning**             |
 |---------------|-------------|----------------------------|
 | **לִנְגּוֹעַ**  | *lingo'a*     | to touch (light contact)     |
 | **לִפְגוֹעַ**   | *lifgo'a*     | to harm / offend            |

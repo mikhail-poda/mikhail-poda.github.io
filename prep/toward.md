@@ -1,6 +1,6 @@
 # Topic: Toward
 
-| Hebrew          | Pronunciation | Meaning / Translation     | Register / Tone      | Common Contexts                               | Notes / Nuance                                             |
+| **Hebrew** | **Transcription** | **Meaning** | **Register/Tone**  | **Context/Usage** |                          | **Notes/Nuance**                                             |
 |-----------------|----------------|----------------------------|----------------------|------------------------------------------------|-------------------------------------------------------------|
 | **ל־**           | *le-*          | To / Toward                | Very common, neutral | Everyday speech, directions                   | Most basic and versatile                                    |
 | **אֶל**          | *el*           | To / Toward                | Slightly formal      | Prayer, literature, official speech           | Slightly elevated or poetic                                 |
@@ -12,7 +12,7 @@
 
 ---
 
-### Example Sentences
+## Example Sentences
 
 1. **הילד רץ לַכִּתָּה.**  
    *The boy ran **to** the classroom.*

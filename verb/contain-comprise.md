@@ -8,19 +8,23 @@
 
 ---
 
-### Key Differences
+## Key Differences
+
 - **להכיל** (*lehachil*) – **Contain something physically or conceptually**.  
 - **לכלול** (*lichlol*) – **Include as part of a set or list**.  
 - **להכליל** (*lehachlil*) – **Generalize or incorporate something broadly**. 
 
 ---
 
-### 1. להכיל (*lehachil*) – "To Contain" 
-**🔹 Meaning:**  
+## 1. להכיל (*lehachil*) – "To Contain"
+
+**🔹 Meaning:**
+
 - **Refers to something holding or containing another thing, either physically or conceptually.**  
 - Often used for **books, documents, materials, emotions, substances, or abstract concepts**.  
 
-**🔹 Common Usage:**  
+**🔹 Common Usage:**
+
 - A box **contains** items.  
 - A book **contains** 300 pages.  
 - A person **contains (controls)** their emotions.  
@@ -31,12 +35,15 @@
 
 ---
 
-### 2. לכלול (*lichlol*) – "To Include, To Comprise"
-**🔹 Meaning:**  
+## 2. לכלול (*lichlol*) – "To Include, To Comprise"
+
+**🔹 Meaning:**
+
 - **Used when something includes parts as part of a whole.**  
 - More about **lists, categories, groups, sets, or summaries** rather than physical containment.  
 
-**🔹 Common Usage:**  
+**🔹 Common Usage:**
+
 - A syllabus **includes** different topics.  
 - A contract **includes** specific clauses.  
 - A team **includes** five members.  
@@ -47,13 +54,16 @@
 
 ---
 
-### 3. להכליל (*lehachlil*) – "To Generalize, To Incorporate"
-**🔹 Meaning:**  
+## 3. להכליל (*lehachlil*) – "To Generalize, To Incorporate"
+
+**🔹 Meaning:**
+
 - **Used for broad generalizations or making something apply universally.**  
 - Can imply **overgeneralization** (sometimes negative).  
 - Also used in **sociology, logic, or education** for making **broad statements**.  
 
-**🔹 Common Usage:**  
+**🔹 Common Usage:**
+
 - "You can’t **generalize** all cases like that."  
 - "It’s unfair to **generalize** about all people."  
 - "This research **incorporates** various perspectives."  
@@ -64,7 +74,8 @@
 
 ---
 
-### 🛠 When Can They Be Used Interchangeably?
+## 🛠 When Can They Be Used Interchangeably?
+
 🔹 **להכיל vs. לכלול:** Not interchangeable—**להכיל** is for **physical or conceptual containment**, while **לכלול** is for **lists or groups**.  
 🔹 **לכלול vs. להכליל:** **Sometimes interchangeable** in the sense of "incorporating" something, but **להכליל** carries a nuance of generalization.  
 🔹 **להכיל vs. להכליל:** Not interchangeable—**להכיל** is about **holding something**, while **להכליל** is about **broadening a category**.  

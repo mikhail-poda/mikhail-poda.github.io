@@ -6,7 +6,7 @@ In Hebrew, these meanings are **expressed using entirely different words**, depe
 
 ---
 
-### Word Classes (Parts of Speech)
+## Word Classes (Parts of Speech)
 
 | **Word Class**         | **How to Recognize It**                                 |
 |------------------------|----------------------------------------------------------|
@@ -24,7 +24,7 @@ In Hebrew, these meanings are **expressed using entirely different words**, depe
 | I’m inside the house.       | אני **בתוך הבית**         | Preposition    |
 | The inner room              | **החדר הפנימי**           | Adjective      |
 
-Further examples can be found here [Inside, Outside](/topic/inside-outside.md)
+Further examples can be found here [Inside, Outside](/prep/inside-outside.md)
 
 ---
 

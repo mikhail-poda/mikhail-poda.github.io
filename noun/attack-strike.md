@@ -12,13 +12,18 @@
 
 ---
 
-### 1. הַתקָפָה (*hatkafá*) – "Attack, Offensive"
+## 1. הַתקָפָה (*hatkafá*) – "Attack, Offensive"
+
 **🔹 Meaning:** A general **attack**, often strategic or organized.  
-#### Used for:  
+
+### Used for
+
 - **Military assaults** (bombing raids, airstrikes, coordinated offensives).  
 - **Sports attacks** (offensive plays in games).  
 - **Verbal attacks** (aggressive arguments or accusations).  
-#### Example:  
+
+### Example
+
 - **התקפת טילים** (*hatkafat tilim*) – missile attack.  
 - **התקפת נגד** (*hatkafat neged*) – counterattack.  
 - **התקפה מילולית** (*hatkafa milulit*) – verbal attack.  
@@ -27,13 +32,18 @@
 
 ---
 
-### 2. תַּקִּיפָה (*takifa*) – "Assault, Aggression" 
+## 2. תַּקִּיפָה (*takifa*) – "Assault, Aggression" 
+
 **🔹 Meaning:** A **direct, forceful assault**, often physical and involving violence.  
-#### Used for: 
+
+### Used for
+
 - **Criminal assaults** (physical attacks, sexual assaults).  
 - **Personal attacks** (an act of aggression against an individual).  
 - **Military strikes** (a forceful attack, but often a single event).  
-#### Example:
+
+### Example
+
 - **תקיפה פיזית** (*tekifa fizit*) – physical assault.  
 - **תקיפת שוטר** (*tekifat shoter*) – assault on a police officer.  
 - **תקיפה צבאית** (*tekifa tzvait*) – military strike.  
@@ -42,13 +52,18 @@
 
 ---
 
-### 3. מִתְקָפָה (*mitkafá*) – "Offensive, Strike" 
+## 3. מִתְקָפָה (*mitkafá*) – "Offensive, Strike"
+
 **🔹 Meaning:** A **large-scale, coordinated offensive or attack**.  
-#### Used for: 
+
+### Used for
+
 - **Military campaigns** (organized strikes, prolonged attacks).  
 - **Terrorist attacks** (deliberate, large-scale acts of violence).  
 - **Cyberattacks** (coordinated hacking or digital attacks).  
-#### Example: 
+
+### Example
+
 - **מתקפת טרור** (*mitkefet teror*) – terrorist attack.  
 - **מתקפת סייבר** (*mitkefet cyber*) – cyberattack.  
 - **מתקפה כוללת** (*mitkafa kolelet*) – total offensive.  
@@ -57,7 +72,8 @@
 
 ---
 
-### When Can They Be Interchanged? 
+## When Can They Be Interchanged?
+
 - **תקיפה** (*takifa*) and **התקפה** (*hatkafá*) can **sometimes** be interchangeable in military contexts.  
   - Example: **תקיפה אווירית** (*tekifa avirit*) and **התקפה אווירית** (*hatkafa avirit*) both mean "airstrike," but **תקיפה** feels more like a single strike, while **התקפה** can imply a broader attack.  
 - **מתקפה** (*mitkafá*) is distinct and usually **not interchangeable**—it always implies a **large-scale or prolonged** attack.  

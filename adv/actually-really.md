@@ -15,7 +15,8 @@
 
 ---
 
-### Key Differences:
+## Key Differences
+
 - **למעשה / בפועל / במציאות** (*lema'aseh / ba-po'al / ba-metsiut*) – **All mean "in practice" or "in reality"**, but:  
   - **למעשה** (*lema'aseh*) – Often corrects an assumption or expectation.  
   - **בפועל** (*ba-po'al*) – Emphasizes how something **actually works in reality**.  

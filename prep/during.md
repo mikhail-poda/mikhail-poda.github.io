@@ -1,6 +1,6 @@
 # Topic: During
 
-| Hebrew    | Pronunciation     | Translation              | Usage / Context                              | Register / Tone             |
+| **Hebrew**    | **Transcription**     | **Meaning**              | **Context/Usage**                              | **Register/Tone**             |
 |----------------------|-------------------|---------------------------|-----------------------------------------------|-----------------------------|
 | **בְּמֶשֶׁךְ**         | *b’meshekh*        | During / Over            | General time spans (day, week, event)         | Neutral, very common        |
 | **בְּמַהֲלַךְ**        | *b’mahalakh*       | In the course of         | Formal processes, meetings, structured events | Formal / official           |
@@ -14,7 +14,7 @@
 
 ---
 
-### Example Sentences
+## Example Sentences
 
 1. **בְּמֶשֶׁךְ הַפְּגִישָׁה דִּיבַּרְנוּ עַל הַתּוֹכְנִית.**  
    *During the meeting, we talked about the plan.*
@@ -45,7 +45,7 @@
 
 ---
 
-### Grouped by Use
+## Grouped by Use
 
 | **Purpose**                 | **Expression(s)**                     |
 |-----------------------------|----------------------------------------|

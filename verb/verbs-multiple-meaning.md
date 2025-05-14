@@ -1,6 +1,6 @@
 # Topic: Verbs with multiple meaning
 
-### Three distinct meanings
+## Three distinct meanings
 
 | **Verb** | **Meaning 1** | **Meaning 2** | **Meaning 3** |
 |---------|----------------|--------------------------|--------------------------|
@@ -8,7 +8,7 @@
 | **לַחֲזוֹר** | to return | to repeat, review | to call back |
 | **לָשֵׂאת** | to carry | to marry (formal) | to tolerate |
 
-### Two distinct meanings
+## Two distinct meanings
 
 | **Verb** | **Meaning 1** | **Meaning 2** |
 |---------|----------------|--------------------------|

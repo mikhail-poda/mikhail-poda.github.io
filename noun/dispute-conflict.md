@@ -57,7 +57,7 @@
 
 ---
 
-## Warfare 
+## Warfare
 
 | **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
 |---------------|----------------|------------|-----------------|------------|  

@@ -1,25 +1,25 @@
 # Overview of Imperative Forms in Hebrew
 
-### 1. Using Infinitive
+## 1. Using Infinitive
 
-| Type of Form                 | Hebrew Example         | Pronunciation        | Tone / Register              | Notes |
+| **Type of Form**                 | **Hebrew Example**         | **Pronunciation**        | **Tone/Register**   | **Notes** |
 |-------------------------------|-------------------------|----------------------|-------------------------------|-------|
 | **Infinitive as Imperative**  | לָשֶׁבֶת                 | *lashevet*            | Neutral, distant, formal       | Used for instructions, signs, where number/gender of addressees is unknown; creates social distance. |
 | **Infinitive + בבקשה (before)** | בבקשה לשבת              | *bevakasha lashevet* | Slightly more personal, polite | Adds politeness (e.g., teacher asking class). |
 | **Infinitive + בבקשה (after)** | לשבת בבקשה              | *lashevet bevakasha* | Slightly impatient or ironic   | May sound ironic or impatient depending on tone. |
 | **Infinitive + נא**           | נא לשבת                 | *na lashevet*         | Formal, distancing             | Formal polite requests (official notices, chairman to committee). |
 
-### 2. Using Imperative
+## 2. Using Imperative
 
-| Type of Form                 | Hebrew Example         | Pronunciation        | Tone / Register              | Notes |
+| **Type of Form**                 | **Hebrew Example**         | **Pronunciation**        | **Tone/Register**   | **Notes** |
 |-------------------------------|-------------------------|----------------------|-------------------------------|-------|
 | **Imperative Form**    | שֵׁב                     | *shev*               | Formal, standard               | Classical grammatical imperative; direct order (e.g., teacher to student). |
 | **Imperative + נא**           | נא שב                  | *na shev*             | Very literary, archaic         | Very rare today; formal in old Hebrew texts. ("נא קרא" exists formally.) |
 | **Imperative + אנא**          | אנא שב                  | *ana shev*            | Pleading, emotional            | Used for emotional requests ("please don't leave"). |
 
-### 3. Using Future
+## 3. Using Future
 
-| Type of Form                 | Hebrew Example         | Pronunciation        | Tone / Register              | Notes |
+| **Type of Form**                 | **Hebrew Example**         | **Pronunciation**        | **Tone/Register**   | **Notes** |
 |-------------------------------|-------------------------|----------------------|-------------------------------|-------|
 | **Future Form Used Imperatively** | תשב                   | *teshev*             | Informal, tone-dependent       | Very common in casual speech and casual writing (texts, messages). |
 | **Future + בבקשה (before)**    | בבקשה תשב               | *bevakasha teshev*   | Slightly forceful polite        | Teacher correcting a student (testy politeness). |
@@ -29,9 +29,9 @@
 
 ---
 
-### Important Clarifications:
+## Important Clarifications
 
-| Concept        | Explanation |
+| **Concept**        | **Explanation** |
 |----------------|-------------|
 | **Infinitive Imperative** | Formal distancing form (e.g., לשבת), used in signs and official speech. |
 | **True Imperative**  | Grammatical ציווי form (e.g., שֵׁב, פְּתַח) — classic imperatives. |
@@ -40,9 +40,9 @@
 
 ---
 
-### Quick Summary Chart:
+## Quick Summary Chart
 
-| Type                      | Key Example           | Tone / Usage                |
+| **Type**                      | **Key Example**           | **Tone/Usage**                |
 |----------------------------|------------------------|------------------------------|
 | Infinitive                 | לָשֶׁבֶת (*lashevet*)    | Neutral, formal instructions |
 | True Imperative            | שֵׁב (*shev*)           | Formal spoken command        |

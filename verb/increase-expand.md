@@ -1,6 +1,6 @@
 # Topic: Increase, Expand, Raise, Multiply
 
-| **Hebrew (Verb)**  | **Transcription**  | **Meaning**             | **Example** |  
+| **Hebrew**  | **Transcription**  | **Meaning**             | **Example** |  
 |--------------------|-------------------|------------------------|------------|  
 | **לִגְדּוֹל**      | *ligdol*          | to grow, to increase in size | **העץ גדל במהירות.** (*ha-etz gadal b’mehirut*) – The tree grew quickly. |  
 | **לְהִתְגַּדֵּל**  | *lehitgadel*      | to become bigger, to expand (oneself) | **האוכלוסייה התגדלה בעשור האחרון.** (*ha-ukhlusiya hitgadla ba-asor ha-acharon*) – The population has expanded in the last decade. |  
@@ -18,7 +18,7 @@
 
 ---
 
-### Summary  
+## Summary  
 
 | **Subcategory**        | **Relevant Verbs** |  
 |------------------------|--------------------|  

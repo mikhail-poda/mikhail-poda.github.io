@@ -9,6 +9,7 @@
 
 ---
 
-### Difference between מבחן and בחינה:
+## Difference between מבחן and בחינה
+
 - **מִבְחָן** (*mivchan*) – A general **test** (can be academic, practical, or even a test of character).  
 - **בְּחִינָה** (*bechina*) – A **formal** or **standardized** exam, especially in **schools and universities**.  
