@@ -22,7 +22,7 @@
 | ![Pink](https://placehold.co/15x15/ffc0cb/ffc0cb.png) | **וָרוֹד** | pink, rosa | **וֶרֶד** | rose (flower) |
 | ![Violet](https://placehold.co/15x15/8a2be2/8a2be2.png) | **סָגוֹל** | violet | **סְגוּלָּה** | virtue |
 | ![Azure](https://placehold.co/15x15/2282ff/2282ff.png) | **תָכוֹל, תְכֵלֶת** | azure | **תּוֹחֶלֶת** | expectancy |
-| ![Dark Brown](https://placehold.co/15x15/8b4513/8b4513.png) | **שָׁחוּם | dark brown | **שָׁחוֹר + חוּם** | - |
+| ![Dark Brown](https://placehold.co/15x15/8b4513/8b4513.png) | **שָׁחוּם** | dark brown | **שָׁחוֹר + חוּם** | - |
 | ![Black](https://placehold.co/15x15/000000/000000.png) | **שָׁחוֹר** | black | **שַׁחַר** | dawn, sunrise |
 | ![Gray](https://placehold.co/15x15/808080/808080.png) | **אָפוֹר** | gray | - | - |
 | ![White](https://placehold.co/15x15/ffffff/ffffff.png) | **לָבָן** | white | **לְבָנוֹן** | Lebanon |
