@@ -13,26 +13,23 @@
 
 ## Group 1
 
-(**אתכם** but) **־אוֹת** – (accusative)
-
-**־אית** – with
+- (**אתכם** but) **־אוֹת** – (accusative)
+- **־אית** – with
 
 ## Group 2
 
-singular nouns
-
-**בֵּין** - between (only singular)
-
-**בִּשְׁבִיל** - for, **בִּגלַל** - because of, due to, **בִּמְקוֹם** - instead of, **בִּזְכוּת** - thanks to, due to, **מוּל** - opposite, facing, **בְּעַד** - for, pro, **נֶגֶד** - against, opposite, **שִׁלוּם** - well-being, **לְיַד, עַל יָד** - near, by, next to, **אֵצֶל** - presso, **בְּתוֹךְ** - inside, **לְמַעַן** - for the sake of, **לְבַד** - by self, **עֶצֶם** - self
+- singular nouns
+- **בֵּין** - between (only singular)
+- **בִּשְׁבִיל** - for, **בִּגלַל** - because of, due to, **בִּמְקוֹם** - instead of, **בִּזְכוּת** - thanks to, due to, **מוּל** - opposite, facing, **בְּעַד** - for, pro, **נֶגֶד** - against, opposite, **שִׁלוּם** - well-being, **לְיַד, עַל יָד** - near, by, next to, **אֵצֶל** - at/with, **בְּתוֹךְ** - inside, **לְמַעַן** - for the sake of, **לְבַד** - by self, **עֶצֶם** - self
 
 ## Group 3
 
-**ל־**- to, **ב־** - in, **שׁל**- of
+- **ל־** - to
+- **ב־** - in
+- **שׁל** - of
 
 ## Group 4
 
-plural nouns
-
-**בֵּין** - between (only plural)
-
-**אֶל** - toward, **עַל** above, about, **בִּלְעֲד־** - without, **מֵעַל** - over, **מִתַּחַת** - under, **אַחֲר** - after, **לִפְנֵי** - before, in front of, **בִּפנֵי** - inside
+- plural nouns
+- **בֵּין** - between (only plural)
+- **אֶל** - toward, **עַל** above, about, **בִּלְעֲד־** - without, **מֵעַל** - over, **מִתַּחַת** - under, **אַחֲר** - after, **לִפְנֵי** - before, in front of, **בִּפנֵי** - inside
