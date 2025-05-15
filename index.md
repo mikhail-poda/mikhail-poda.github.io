@@ -41,6 +41,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Show, Presentation](/noun/show-presentation.md)
 - [Space, Area](/noun/space-area.md)
 - [Task, Mission](/noun/task-mission.md)
+- [Travel, Trip](/noun/travel-trip.md)
 
 ## Prepositions
 
