@@ -56,6 +56,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Hit, Injure](/verb/hit-injure.md)
 - [Increase, Expand](/verb/increase-expand.md)
 - [Propose, Recommend](/verb/propose-recommend.md)
+- [See, Watch](/verb/see-watch.md)
 - [Update, Improve](/verb/update-improve.md)
 - [*Verbs with Multiple Meanings*](/verb/verbs-multiple-meaning.md)
 
