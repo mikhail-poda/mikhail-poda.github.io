@@ -52,6 +52,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Verbs
 
+- [Cancel, Remove](/verb/cancel-remove.md)
 - [Contain, Comprise](/verb/contain-comprise.md)
 - [Hit, Injure](/verb/hit-injure.md)
 - [Increase, Expand](/verb/increase-expand.md)
