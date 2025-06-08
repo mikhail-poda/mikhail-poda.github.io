@@ -21,3 +21,6 @@
 |----------------|-------------------|--------------------------|-------------|
 | **הַרְכָּבָה**   | *harkavá*          | assembly, composition     | **הרכבת מחשב** (*harkavat machshev*) – computer assembly |
 | **הֶרְכֵּב**     | *herkév*           | composition, structure    | **ההרכב הכימי** (*haherkév hakimi*) – the chemical composition |
+
+The word "recipe" is derived from another root:
+- **מַתְכּוֹן** (*matkon*) - recipe, **מתכון לאסון** – recipe for disaster
