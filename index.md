@@ -65,6 +65,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Roots
 
 - [ר־שׁ־ם](/root/r-sh-m.md)
+- [XYXY](root/xyxy.md)
 
 ## About
 
