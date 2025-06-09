@@ -1,4 +1,4 @@
-# Topic: Contain, Comprise
+# Topic: to Contain, Comprise
 
 | **Hebrew**  | **Transcription**  | **Meaning**             | **Example** |  
 |--------------------|-------------------|--------------------------------|-------------------|
