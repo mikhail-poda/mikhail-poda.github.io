@@ -1,4 +1,4 @@
-# Topic: To See, Watch
+# Topic: to See, Watch
 
 | **Infinitive**  | **Transcription**      | **Meaning**             | **Usage/Notes**     | **Example**            |
 |----------------|-----------------------|-------------------------|------------------------|----------------------|
