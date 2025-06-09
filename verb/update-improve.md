@@ -1,4 +1,4 @@
-# Topic: To Update, Improve, Renew, Renovate
+# Topic: to Update, Improve, Renew, Renovate
 
 | **Hebrew**     | **Transcription**   | **Meaning**                            | **Example** |  
 |------------------------|---------------------|----------------------------------------|-------------|  
