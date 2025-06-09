@@ -1,4 +1,4 @@
-# Topic: Increase, Expand, Raise, Multiply
+# Topic: to Increase, Expand, Raise, Multiply
 
 | **Hebrew**  | **Transcription**  | **Meaning**             | **Example** |  
 |--------------------|-------------------|------------------------|------------|  
