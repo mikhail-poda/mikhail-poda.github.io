@@ -1,4 +1,4 @@
-# Topic: Propose, Recommend
+# Topic: to Propose, Recommend
 
 | **Hebrew**     | **Transcription**   | **Meaning**                          | **Example** |  
 |------------------------|---------------------|--------------------------------------|-------------|  
