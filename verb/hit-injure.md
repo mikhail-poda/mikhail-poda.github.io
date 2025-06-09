@@ -1,4 +1,4 @@
-# Topic: Hit, Injure
+# Topic: to Hit, Injure
 
 | **Hebrew**  | **Transcription**  | **Meaning**             |
 |---------------|-------------|----------------------------|
