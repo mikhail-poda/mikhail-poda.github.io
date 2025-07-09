@@ -19,13 +19,13 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Colors](/adj/colors.md)
 - [Intelligence, Expertise](/adj/intelligence-expertise.md)
-- [*Interrrogative*](/adj/interrogative.md)
 
 ## Adverbs
 
 - [Absolutely, Certainly](/adv/absolutely-certainly.md)
 - [Actually, Really](/adv/actually-really.md)
-
+- [*Interrrogative*](/adv/interrogative.md)
+  
 ## Nouns
 
 - [Attack, Strike](/noun/attack-strike.md)
