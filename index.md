@@ -19,6 +19,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Colors](/adj/colors.md)
 - [Intelligence, Expertise](/adj/intelligence-expertise.md)
+- [*Interrrogative*](/adj/interrogative.md)
 
 ## Adverbs
 
