@@ -44,6 +44,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Space, Area](/noun/space-area.md)
 - [Task, Mission](/noun/task-mission.md)
 - [Travel, Trip](/noun/travel-trip.md)
+- [Value, Cost](/noun/value-cost.md)
 
 ## Prepositions
 
@@ -75,4 +76,4 @@ Most Hebrew resources focus on vocabulary and grammar, but few compare similar w
 
 ---
 
-Last updated: 14. Mai 2025
+Last updated: 24. July 2025
