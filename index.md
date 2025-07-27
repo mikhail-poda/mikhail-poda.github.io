@@ -29,6 +29,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Nouns
 
 - [Attack, Strike](/noun/attack-strike.md)
+- [Cause, Reason](/noun/cause-reason.md)
 - [Component, Detail](/noun/component-detail.md)
 - [Device, Tool](/noun/device-tool.md)
 - [Difference, Distinction](/noun/difference-distinction.md)
