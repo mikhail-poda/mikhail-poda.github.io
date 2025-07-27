@@ -2,10 +2,10 @@
 
 | **English** | **Colloquial Hebrew** | **Formal Hebrew**       |
 | ----------- | --------------------- | ----------------------- |
-| Where?      | **איפה?** (*éifo?*)   | **היכן?** (*heikhán?*)  |
-| When?       | **מתי?** (*matái?*)   | **אימתי?** (*éimatai?*) |
-| How?        | **איך?** (*eikh?*)    | **כיצד?** (*keitsád?*)  |
-| Why?        | **למה?** (*lamá?*)    | **מדוע?** (*madúa?*)    |
+| Where?      | **איפה** (*éifo*)   | **היכן** (*heikhán*)  |
+| When?       | **מתי** (*matái*)   | **אימתי** (*éimatai*) |
+| How?        | **איך** (*eikh*)    | **כיצד** (*keitsád*)  |
+| Why?        | **למה** (*lamá*)    | **מדוע** (*madúa*)    |
 
 ## Notes:
 - אֵי־ is the ancient interrogative element meaning “which / where”. It peeks out in אֵיפֹה, אֵימָתַי, אֵיךְ.
