@@ -18,6 +18,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Adjectives
 
 - [Colors](/adj/colors.md)
+- [Needed, Necessary](/adj/needed-necessary.md)
 - [Intelligence, Expertise](/adj/intelligence-expertise.md)
 
 ## Adverbs
@@ -62,6 +63,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Contain, Comprise](/verb/contain-comprise.md)
 - [Hit, Injure](/verb/hit-injure.md)
 - [Increase, Expand](/verb/increase-expand.md)
+- [Need, Must](/verb/need-must.md)
 - [Propose, Recommend](/verb/propose-recommend.md)
 - [See, Watch](/verb/see-watch.md)
 - [Update, Improve](/verb/update-improve.md)
