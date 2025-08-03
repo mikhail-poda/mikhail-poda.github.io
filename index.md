@@ -61,6 +61,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Break, Crash](/verb/break-crash.md)
 - [Cancel, Remove](/verb/cancel-remove.md)
 - [Contain, Comprise](/verb/contain-comprise.md)
+- [Guess, Assume](/verb/guess-assume.md)
 - [Hit, Injure](/verb/hit-injure.md)
 - [Increase, Expand](/verb/increase-expand.md)
 - [Need, Must](/verb/need-must.md)
