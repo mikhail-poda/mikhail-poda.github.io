@@ -1,9 +1,9 @@
 # Topic: Absolutely, Certainly, Definitely
 
-| **Hebrew**         | **Transcription** | **Meaning**            | **Context/Usage** | **Example** |  
+| **Hebrew**         | **Transcription** | **Meaning**            | **Notes** | **Example** |  
 |--------------------|------------------|------------------------|------------------|------------|  
 | **לגמרי**        | *legamrei*        | totally, completely    | Used in casual speech for full affirmation | **אני לגמרי מוכן** (*ani legamrei muchan*) – I am totally ready |  
-| **באופן מוחלט**   | *be'ofen mukhlat* | absolutely, definitively | A strong, decisive statement | **אני דוחה זאת באופן מוחלט** (*ani doche zot be'ofen mukhlat*) – I completely reject this |  
+| **באופן מוחלט**   | *be'ofen muchlat* | absolutely, definitively | A strong, decisive statement | **אני דוחה זאת באופן מוחלט** (*ani doche zot be'ofen muchlat*) – I completely reject this |  
 | **לחלוטין**      | *lachalutin*      | absolutely, totally   | Strong confirmation, similar to "completely" | **זה נכון לחלוטין** (*ze nachon lachalutin*) – This is absolutely true |  
 | **בהחלט**        | *behechlet*       | definitely, absolutely | Expresses firm agreement | **אני בהחלט מסכים** (*ani behechlet maskim*) – I definitely agree |  
 | **לבטח**        | *levatach*        | surely, without a doubt | Emphasizes a guaranteed or safe outcome | **הוא יצליח לבטח** (*hu yatzliach levatach*) – He will surely succeed |  
@@ -22,7 +22,7 @@
 
 ## Key Differences
 
-- **באופן מוחלט / לחלוטין / כליל** (*be'ofen mukhlat / lachalutin / kalil*) – Strong, absolute confirmation.  
+- **באופן מוחלט / לחלוטין / כליל** (*be'ofen muchlat / lachalutin / kalil*) – Strong, absolute confirmation.  
 - **בוודאי / כמובן / לבטח** (*b'vadai / kamuvan / levatach*) – More conversational, used for reassurance or obvious truths.  
 - **בהחלט / בוודאות / ללא ספק / בלי ספק / אין ספק** (*behechlet / bevadaut / lelo safek / bli safek / ein safek*) – Used to confirm something with **certainty**.  
 - **באמת / ממש / לגמרי** (*be'emet / mamash / legamrei*) – Emphasize **totality or truth**, but are more casual.  

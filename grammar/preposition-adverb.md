@@ -20,8 +20,8 @@ In Hebrew, these meanings are **expressed using entirely different words**, depe
 
 | **English**                  | **Hebrew**              | **Class**     |
 |-----------------------------|--------------------------|----------------|
-| I’m inside.                 | אני **בפנים**             | Adverb         |
-| I’m inside the house.       | אני **בתוך הבית**         | Preposition    |
+| I'm inside.                 | אני **בפנים**             | Adverb         |
+| I'm inside the house.       | אני **בתוך הבית**         | Preposition    |
 | The inner room              | **החדר הפנימי**           | Adjective      |
 
 Further examples can be found here [Inside, Outside](/prep/inside-outside.md)
@@ -32,7 +32,7 @@ Further examples can be found here [Inside, Outside](/prep/inside-outside.md)
 
 | **English** | **Adverb** (stands alone) | **Preposition** (followed by a noun) | **Adjective** (describes a noun) |
 |------------|----------------------------|--------------------------------------|----------------------------------|
-| **Above** | **לְמַעְלָה** (*lema'ala*) – It’s above | **מֵעַל** (*me'al*) – above the table | **עֶלְיוֹן** (*elyon*) – the upper shelf |
+| **Above** | **לְמַעְלָה** (*lema'ala*) – It's above | **מֵעַל** (*me'al*) – above the table | **עֶלְיוֹן** (*elyon*) – the upper shelf |
 | **Below** | **לְמַטָּה** (*lemata*) – It's below | **מִתַּחַת** (*mitachat*) – under the bed | **תַּחְתּוֹן** (*tachton*) – bottom drawer |
-| **Near / Close** | **קָרוֹב** (*karov*) – It’s close | **לְיַד**, **בְּסָמוּךְ לְ** (*leyad, besamuch le-*) – next to the door | **קָרוֹב** – a close friend (*חָבֵר קָרוֹב*) |
+| **Near / Close** | **קָרוֹב** (*karov*) – It's close | **לְיַד**, **בְּסָמוּךְ לְ** (*leyad, besamuch le-*) – next to the door | **קָרוֹב** – a close friend (*חָבֵר קָרוֹב*) |
 | **Far / Distant** | **רָחוֹק** (*rachok*) – He lives far | **מֵרָחוֹק** (*merachok*) – from afar | **מְרוּחָק** (*meruchak*) – remote village |

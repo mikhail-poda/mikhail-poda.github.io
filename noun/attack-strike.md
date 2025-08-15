@@ -1,6 +1,6 @@
 # Topic: Attack, Strike
 
-| **Hebrew**         | **Transcription** | **Meaning**                          | **Context/Usage**                                             | **Example**                                 |
+| **Hebrew**         | **Transcription** | **Meaning**                          | **Notes**                                             | **Example**                                 |
 |--------------------|-------------------|--------------------------------------|----------------------------------------------------------------|---------------------------------------------|
 | **הַתקָפָה**      | *hatkafá*         | attack, offensive                    | Military, sports, verbal fights                             | **התקפת טילים** (*hatkafat tilim*) – missile attack |
 | **תַּקִּיפָה**     | *takifa*          | assault, aggression                  | Physical attack, crime, or small-scale military strike                     | **תקיפה פיזית** (*tekifa fizit*) – physical assault  |

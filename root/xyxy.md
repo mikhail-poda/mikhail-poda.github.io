@@ -9,10 +9,10 @@
 | **לְהִתְגַּעְגֵּעַ** | *lehitga'agea*    | to miss, long for                    | Strong emotional nuance              |
 | **לְהִתְגַלְגֵל**    | *lehitgalgel*     | to roll                                 | Literal or figurative (developments) |
 | **לְהִתְקַלְקֵל**    | *lehitkalkel*     | to break down, spoil                    | For food, machines                   |
-| **לְצַלְצֵל**        | *letsaltsel*      | to ring, call                        | Bell sound, also phone               |
-| **לְהִתְלַכְלֵך**    | *lehitlakhlekh*   | to get dirty                            | Colloquial, physical/figurative dirt |
+| **לְצַלְצֵל**        | *letzaltzel*      | to ring, call                        | Bell sound, also phone               |
+| **לְהִתְלַכְלֵך**    | *lehitlachlech*   | to get dirty                            | Colloquial, physical/figurative dirt |
 | **לְשַׁפְשֵׁף**      | *leshafshef*      | to rub, scrub                           | Physical contact, friction     |
-| **לְצַמְצֵם**        | *letsamtsem*      | to reduce, decrease                     | Abstract or concrete                 |
+| **לְצַמְצֵם**        | *letzamtzem*      | to reduce, decrease                     | Abstract or concrete                 |
 | **לְפַסְפֵס**        | *lefasfes*        | to miss (opportunity)                 | Slangy tone, e.g. miss the train    |
 | **לְפַקְפֵּק**       | *lefaqpeq*        | to doubt, question                   | Suspicion or hesitation   |
 | **לְמַלְמֵל**        | *lemalmel*        | to mumble                               | Quiet, unclear speaking              |

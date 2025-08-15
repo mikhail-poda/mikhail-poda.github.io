@@ -1,6 +1,6 @@
 # Topic: Travel, Trip
 
-| **Hebrew** | **Transliteration** | **Meaning**             | **Context/Usage**                                                  |
+| **Hebrew** | **Transcription** | **Meaning**             | **Notes**                                                  |
 | -------------------- | --------------- | ------------------- | ---------------------------------------------------------------- |
 | **נְסִיעָה**             | nesi'ah         | trip, travel        | General travel, especially by vehicle or public transport        |
 | **מַסָּע**               | masa            | journey, expedition | Long, often meaningful or challenging trip (literary, biblical)  |
@@ -9,11 +9,11 @@
 
 ## By Means of Transportation
 
-| **Hebrew** | **Transliteration** | **Meaning**             |
+| **Hebrew** | **Transcription** | **Meaning**             |
 | -------------------- | --------------- | ------------------- |
-| **הֲלִיכָה**             | halikha        | walking, walk       |
+| **הֲלִיכָה**             | halicha        | walking, walk       |
 | **טִיסָה**               | tisa          | flight (air travel) |
-| **רְכִיבָה**             | rekhiva         |ride (horse, train)|
+| **רְכִיבָה**             | rechiva         |ride (horse, train)|
 | **שַׁיִיט**              |  shayit         | cruise, sailing |
 
 ## Note

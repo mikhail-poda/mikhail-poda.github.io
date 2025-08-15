@@ -1,6 +1,6 @@
 # Topic: Space, Area
 
-| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+| **Hebrew** | **Transcription** | **Meaning** | **Notes** | **Example** |  
 |---------------|----------------|------------|-----------------|------------|  
 | **חָלָל** | *chalal* | space, outer space, empty space | Astronomy, physics, vast emptiness | **חלל החיצון** (*chalal hachitzon*) – outer space |  
 | **מֶרְחָב** | *merchav* | open/wide space | Physical vastness, freedom, personal space | **מרחב פתוח** (*merchav patuach*) – open space |  

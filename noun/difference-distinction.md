@@ -1,6 +1,6 @@
 # Topic: Difference and Distinction
 
-| **Hebrew**       | **Transcription** | **Meaning**              | **Context/Usage** | **Example** |  
+| **Hebrew**       | **Transcription** | **Meaning**              | **Notes** | **Example** |  
 |------------------|------------------|--------------------------|------------------|------------|  
 | **הֶבְדֵּל**    | *hevdel*         | difference, distinction   | General word for a difference between two things | **הבדל קטן** (*hevdel katan*) – small difference |  
 | **שׁוֹנִי**    | *shoni*         | uniqueness, difference in character | Differences in nature, characteristics, or personal traits | **שוני תרבותי** (*shoni tarbuti*) – cultural difference |  

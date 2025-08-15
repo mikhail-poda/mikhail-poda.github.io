@@ -1,11 +1,11 @@
 # Topic: Toward
 
-| **Hebrew** | **Transcription** | **Meaning**               | **Register/Tone**    | **Context/Usage**                             | **Notes/Nuance**                                            |
+| **Hebrew** | **Transcription** | **Meaning**               | **Register/Tone**    | **Usage**                             | **Nuance**                                            |
 |---------------|----------------|---------------------------|----------------------|------------------------------------------------|-------------------------------------------------------------|
 | **ל־**        | *le-*          | To / Toward                | Very common, neutral | Everyday speech, directions                   | Most basic and versatile                                   |
 | **אֶל**        | *el*           | To / Toward                | Slightly formal      | Prayer, literature, official speech           | Slightly elevated or poetic                                |
 | **לְעֵבֶר**      | *le'ever*      | Toward / In direction of   | Literary / formal    | Narration, news, dramatic descriptions        | Implies **directionality**, focus                          |
-| **בְּכִּיוּן**     | *b’kivun*      | In the direction of        | Neutral to formal    | Describing orientation, physical direction    | Used with motion verbs (זז, נָסַע)                           |
+| **בְּכִּיוּן**     | *b'kivun*      | In the direction of        | Neutral to formal    | Describing orientation, physical direction    | Used with motion verbs (זז, נָסַע)                           |
 | **כְּלַפֵּי**      | *klapei*       | Toward / Facing            | Formal / technical   | Law, politics, opinions, relationships        | Often **figurative** (e.g., attitude toward someone)       |
 | **נֶגֶד**       | *neged*        | Opposite / Facing          | Neutral              | Spatial relationships, confrontation          | Not movement—**facing** something                          |
 | **לִקְרַאת**     | *likrat*       | Toward / In anticipation of | Literary / expressive | Events, holidays, speeches, symbolic movement | Often implies **expectation**, **preparation**, or **welcoming** |

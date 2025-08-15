@@ -2,7 +2,7 @@
 
 ## Near / Close / Next to
 
-| **Hebrew**       | **Transcription** | **Meaning**                | **Class**     | **Context/Usage**                                 | **Example** |
+| **Hebrew**       | **Transcription** | **Meaning**                | **Class**     | **Notes**                                 | **Example** |
 |------------------|-------------------|----------------------------|---------------|---------------------------------------------------|-------------|
 | **לְיַד**         | *leyad*            | next to, beside            | prep.   | Very common, neutral tone                         | **הבית ליד התחנה** – The house is next to the station |
 | **קָרוֹב**        | *karov*            | near, close                | adj. / adv. | Can describe physical/emotional closeness     | **הוא גר קרוב** – He lives nearby |
@@ -26,8 +26,8 @@
 
 ## Far / Away / Distant
 
-| **Hebrew**     | **Transcription** | **Meaning**         | **Class**     | **Context/Usage**                                               | **Example** |
+| **Hebrew**     | **Transcription** | **Meaning**         | **Class**     | **Notes**                                               | **Example** |
 |----------------|-------------------|----------------------|----------------|------------------------------------------------------------------|-------------|
 | **רָחוֹק**      | *rachok*           | far, away, distant   | adj. / adv. | Most common word for distance (literal or emotional)         | **הוא גר רחוק מהעיר** – He lives far from the city |
 | **מְרוּחָק**     | *meruchak*         | remote, distant      | adj.       | More formal; often describes something intentionally distant    | **אזור מרוחק** – a remote area |
-| **הַרְחֵק**      | *harkhek*          | away, to a distance  | adv.       | Formal/literary tone; used especially in warnings or commands   | **הַרְחֵק ממקורות אש** – Keep away from fire sources |
+| **הַרְחֵק**      | *harchek*          | away, to a distance  | adv.       | Formal/literary tone; used especially in warnings or commands   | **הַרְחֵק ממקורות אש** – Keep away from fire sources |

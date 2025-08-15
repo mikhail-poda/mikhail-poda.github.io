@@ -6,6 +6,6 @@
 | **לִפְגוֹעַ**   | *lifgo'a*     | to hurt, harm, offend            |
 | **לְהַכּוֹת**   | *lehakot*     | to hit, strike             |
 | **לְהַרְבִּיץ** | *leharbitz*   | to beat up, hit repeatedly  |
-| **לִפְצוֹעַ**   | *liftsoa*     | to injure, wound           |
+| **לִפְצוֹעַ**   | *liftzoa*     | to injure, wound           |
 | **לִתְקוֹף**    | *litkof*      | to attack                  |
 | **לְהַתְקִיף**  | *lehatkif*    | to launch an attack         |

@@ -3,39 +3,49 @@
 Language proficiency is generally measured **Common European Framework of Reference for Languages (CEFR)** system.
 Here are the main levels:  
 
-### **1. Beginner Levels**
+## 1. Beginner Levels
+
 🔹 **Absolute Beginner (A0)**  
+
 - A0 is not officially part of the CEFR.
 - It is often used to describe absolute beginners—people with no prior knowledge of a language.
 
 🔹 **Beginner (A1)**  
+
 - Knows basic words and phrases (e.g. greetings, introductions).  
 - Can understand simple sentences when spoken slowly.  
 - Can read and write in Hebrew alphabet.  
 
 🔹 **Elementary (A2)**  
+
 - Forms simple sentences and asks basic questions.  
 - Understands short, clear speech on familiar topics.  
 - Reads and understands simple texts with common vocabulary.
 
-### **2. Intermediate Levels**  
+## 2. Intermediate Levels
+
 🔹 **Lower Intermediate (B1)**  
+
 - Can hold a basic conversation on everyday topics.  
 - Understands main ideas in simple texts and short conversations.  
 - Uses past, present, and future tense with some mistakes.  
 
-🔹 **Upper Intermediate (B2)**  
+🔹 **Upper Intermediate (B2)**
+
 - Speaks with more confidence and variety of vocabulary.  
 - Understands more complex conversations and written texts.  
 - Can express opinions and discuss personal experiences.  
 
-### **3. Advanced Levels**  
+## 3. Advanced Levels
+
 🔹 **Advanced (C1)**  
+
 - Speaks fluently with good grammar and pronunciation.  
 - Understands news, books, and complex discussions.  
 - Can express thoughts clearly and debate on various topics.  
 
 🔹 **Proficient / Near-Native (C2)**  
+
 - Uses language naturally in professional and academic settings.  
 - Understands slang, idioms, and cultural nuances.  
 - Can read and write complex texts, like legal documents or literature.  
@@ -44,7 +54,7 @@ Here are the main levels:
 
 ## Comparison of Ulpan Levels & CEFR
 
-The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don’t perfectly match the **CEFR (A1–C2)** system, but they roughly correspond as follows:  
+The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don't perfectly match the **CEFR (A1–C2)** system, but they roughly correspond as follows:  
 
 | **CEFR Level** | **Ulpan Level** | **New Vocab.** |**Total Vocab.** | **Features** |
 |--------------|-------------|-----------------|-----------------|------------|
@@ -54,7 +64,7 @@ The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don’t perfect
 | **B1 (Lower Intermediate)** | Bet 2 / Gimel 1 | 1,200 | 2,400 | future tense |
 | **B2 (Upper Intermediate)** | Gimel 2 / Dalet | 1,600 | 4,000 | passive verbs |
 | **C1 (Advanced)** | Hey | 2,000 | 6,000 | professional terminology |
-| **C2 (Proficient/Near-Native)** | Vav | 3,000+ | 9,000 | literary language | 
+| **C2 (Proficient/Near-Native)** | Vav | 3,000+ | 9,000 | literary language |
 
 ---
 
@@ -72,4 +82,4 @@ The **proportion of vocabulary by part of speech** varies by language level and 
 
 ---
 
-My own Hebrew vocabulary with Proficiency Levels A0-B2 can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTUPG22pCGbrlYULESZ5FFyYTo9jyFGFEBk1Wx41gZiNvkonYcLPypdPGCZzFxTzywU4hCra4Fmx-b/pubhtml).
+My own Hebrew vocabulary with Proficiency Levels A0-B2 [can be found here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTUPG22pCGbrlYULESZ5FFyYTo9jyFGFEBk1Wx41gZiNvkonYcLPypdPGCZzFxTzywU4hCra4Fmx-b/pubhtml).

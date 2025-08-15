@@ -2,12 +2,13 @@
 
 | **English** | **Colloquial Hebrew** | **Formal Hebrew**       |
 | ----------- | --------------------- | ----------------------- |
-| Where?      | **איפה** (*éifo*)   | **היכן** (*heikhán*)  |
+| Where?      | **איפה** (*éifo*)   | **היכן** (*heichán*)  |
 | When?       | **מתי** (*matái*)   | **אימתי** (*éimatai*) |
-| How?        | **איך** (*eikh*)    | **כיצד** (*keitsád*)  |
+| How?        | **איך** (*eich*)    | **כיצד** (*keitzád*)  |
 | Why?        | **למה** (*lamá*)    | **מדוע** (*madúa*)    |
 
-## Notes:
+## Notes
+
 - אֵי־ is the ancient interrogative element meaning “which / where”. It peeks out in אֵיפֹה, אֵימָתַי, אֵיךְ.
 - Colloquial למה is literally “to-what?”, while loftier מדוע is “from-what (that is) known”.
 - Formal היכן, כיצד are rabbinic/Aramaic hybrids that glue the old interrogative אֵי / כֵּי onto everyday words כָּן “here/so” and צַד “side, direction”.

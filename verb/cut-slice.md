@@ -1,7 +1,7 @@
 # Topic: to Cut, Slice
 
 
-| **Infinitive**    | **Transcription** | **Meaning**        | **Usage/Notes**                                                   |
+| **Infinitive**    | **Transcription** | **Meaning**        | **Notes**                                                   |
 | ----------------- | ------------- | ------------------------- | --------------------------------------------------------------- |
 | **לַחְתּוֹךְ**    | *lachtóch*    | to cut, slice                | Bread, meat, rope. **לחתוך לחם** – to cut bread. |
 | **לְקַצֵּץ**      | *lekatzétz*   | to trim, cut down            | Hair, budget, branches. **לקצץ שיער** – to trim hair.                 |

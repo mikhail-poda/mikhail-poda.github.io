@@ -1,6 +1,6 @@
 # Topic: Exam, Test
 
-| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+| **Hebrew** | **Transcription** | **Meaning** | **Notes** | **Example** |  
 |---------------|----------------|------------|-----------------|------------|  
 | **בְּחִינָה** | *bechina* | exam, formal test | Standardized tests, school/university exams | **בחינת בגרות** (*bechinat bagrut*) – matriculation exam |  
 | **מִבְחָן** | *mivchan* | test, exam | General term for academic or practical tests | **מבחן נהיגה** (*mivchan nehiga*) – driving test |  

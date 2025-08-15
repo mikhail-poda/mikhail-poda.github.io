@@ -1,6 +1,6 @@
 # Topic: Research and Investigation
 
-| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+| **Hebrew** | **Transcription** | **Meaning** | **Notes** | **Example** |  
 |---------------|----------------|------------|-----------------|-----------------|  
 | **חֵקֶר** | *cheker* | inquiry of, study of | Exact name of study | **חֵקֶר הַמּוֹחַ** |
 | **מֶחְקָר** | *mechkar* | research, study | Act of conducting scientific research | **מחקר חדש** |

@@ -2,7 +2,7 @@
 
 | **Function**                       | **Inside**                                       | **Outside**                                             |
 |------------------------------------|--------------------------------------------------|----------------------------------------------------------|
-| **Adverb**    | **בִּפְנִים** (*bifnim*) – I’m inside             | **בַּחוּץ** (*bachutz*) – He’s outside                   |
+| **Adverb**    | **בִּפְנִים** (*bifnim*) – I'm inside             | **בַּחוּץ** (*bachutz*) – He's outside                   |
 | **Directional Adverb**  | **פְּנִימָה** (*pnimah*) – inward              | **הַחוּצָה** (*hachutzah*) – outward                     |
 | **Preposition**       | **בְּתוֹךְ** (*betoch*) – inside (of)            | **מִחוּץ לְ** (*michutz le-*) – outside (of)            |
 | **Directional Preposition**  | **אֶל תּוֹךְ, לְתוֹךְ** (*el toch, letoch*) – into                     | -     |
@@ -16,4 +16,4 @@
 | **הוא נמצא בִּפְנִים.** – He is inside. | **Adverb** (location) |
 | **הוא יושב בְּתוֹךְ הַבַּיִת.** – He sits inside the house. | **Preposition** |
 | **הוא נכנס לְתוֹךְ הַבַּיִת.** – He entered into the house. | **Directional preposition** |
-| **זו דֶּלֶת פְּנִימִית.** – That’s an inner door. | **Adjective** |
+| **זו דֶּלֶת פְּנִימִית.** – That's an inner door. | **Adjective** |

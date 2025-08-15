@@ -12,7 +12,7 @@
 
 - **להכיל** (*lehachil*) – **Contain something physically or conceptually**.  
 - **לכלול** (*lichlol*) – **Include as part of a set or list**.  
-- **להכליל** (*lehachlil*) – **Generalize or incorporate something broadly**. 
+- **להכליל** (*lehachlil*) – **Generalize or incorporate something broadly**.
 
 ---
 
@@ -64,8 +64,8 @@
 
 **🔹 Common Usage:**
 
-- "You can’t **generalize** all cases like that."  
-- "It’s unfair to **generalize** about all people."  
+- "You can't **generalize** all cases like that."  
+- "It's unfair to **generalize** about all people."  
 - "This research **incorporates** various perspectives."  
 
 **🔹 Examples:**  

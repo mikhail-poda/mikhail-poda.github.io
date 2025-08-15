@@ -1,6 +1,6 @@
 # Topis: Task, Mission, Role, Job
 
-| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** |
+| **Hebrew** | **Transcription** | **Meaning** | **Notes** |
 |--------------|-------------|----------------|----------------------------|------------------|
 | **מַטָּלָה**     | *matala*    | Task            | Homework, work tasks, assignments |
 | **מִשְׁימָה**    | *mishima*   | Mission          | Military, space, humanitarian |

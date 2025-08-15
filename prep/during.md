@@ -1,16 +1,16 @@
 # Topic: During
 
-| **Hebrew**    | **Transcription**     | **Meaning**              | **Context/Usage**                              | **Register/Tone**             |
+| **Hebrew**    | **Transcription**     | **Meaning**              | **Notes**                              | **Register/Tone**             |
 |----------------------|-------------------|---------------------------|-----------------------------------------------|-----------------------------|
-| **בְּמֶשֶׁךְ**         | *b’meshekh*        | During / Over            | General time spans (day, week, event)         | Neutral, very common        |
-| **בְּמַהֲלַךְ**        | *b’mahalakh*       | In the course of         | Formal processes, meetings, structured events | Formal / official           |
-| **תּוֹךְ כְּדֵי**        | *tokh kdei*        | While (doing something)  | Simultaneous action with another verb         | Informal to neutral         |
-| **לְאוֹרֶךְ**          | *le’orekh*         | Throughout               | Entire duration of time or process            | Neutral / literary tone     |
-| **בְּשַׁעַת**          | *b’sha’at*         | At the time of / During  | Specific moment or situation                  | Neutral to formal           |
-| **בְּאֶמְצַע**         | *b’emtsa*          | In the middle of         | Ongoing action / interrupted event            | Very common / casual        |
-| **בְּתַהֲלִיךְ**        | *b’tahalikh*       | In the process of        | Ongoing procedure or change                   | Neutral to formal           |
-| **עֵת / בְּעֵת**         | *et / b’et*         | During / At the time of  | Formal / poetic / biblical                    | Literary                    |
-| **כְּשֶׁ־** (prefix)    | *k’she-*           | When / While             | Very common; leads temporal subordinate clause| Very casual and spoken      |
+| **בְּמֶשֶׁךְ**         | *b'meshech*        | During / Over            | General time spans (day, week, event)         | Neutral, very common        |
+| **בְּמַהֲלַךְ**        | *b'mahalach*       | In the course of         | Formal processes, meetings, structured events | Formal / official           |
+| **תּוֹךְ כְּדֵי**        | *toch kdei*        | While (doing something)  | Simultaneous action with another verb         | Informal to neutral         |
+| **לְאוֹרֶךְ**          | *le'orech*         | Throughout               | Entire duration of time or process            | Neutral / literary tone     |
+| **בְּשַׁעַת**          | *b'sha'at*         | At the time of / During  | Specific moment or situation                  | Neutral to formal           |
+| **בְּאֶמְצַע**         | *b'emtza*          | In the middle of         | Ongoing action / interrupted event            | Very common / casual        |
+| **בְּתַהֲלִיךְ**        | *b'tahalich*       | In the process of        | Ongoing procedure or change                   | Neutral to formal           |
+| **עֵת / בְּעֵת**         | *et / b'et*         | During / At the time of  | Formal / poetic / biblical                    | Literary                    |
+| **כְּשֶׁ־** (prefix)    | *k'she-*           | When / While             | Very common; leads temporal subordinate clause| Very casual and spoken      |
 
 ---
 
@@ -35,7 +35,7 @@
    *While she was speaking, the boy listened attentively.*
 
 7. **בְּשַׁעַת הַתְּקוּפָה הַקָשָׁה הַזּוֹ, נִזְכּוֹר לִהְיוֹת בִּיחַד.**  
-   *During this difficult time, let’s remember to stay together.*
+   *During this difficult time, let's remember to stay together.*
 
 8. **הוּא הִגִּיעַ בְּאֶמְצַע הַסֶּרֶט.**  
    *He arrived in the middle of the movie.*

@@ -1,6 +1,6 @@
 # Topic: to Cancel, Remove
 
-| **Infinitive**        |  **Transcription** | **Meaning**            | **Usage/Notes**                                               |
+| **Infinitive**        |  **Transcription** | **Meaning**            | **Notes**                                               |
 | ---------------------- | -------- | ------------------------------ | ----------------------------------------------------------------------- |
 | **להסיר** | *lehasir*                | to remove, take off, uninstall            | Can be physical or abstract (e.g., להסיר מכשול – remove an obstacle)    |
 | **למחוק** | *limchok*                | to erase, delete               | Often used for files or text (e.g., למחוק קובץ – delete a file)         |

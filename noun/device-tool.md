@@ -1,6 +1,6 @@
 # Topic: Device, Tool
 
-| **Hebrew** | **Transcription** | **Meaning** | **Context/Usage** | **Example** |  
+| **Hebrew** | **Transcription** | **Meaning** | **Notes** | **Example** |  
 |---------------|----------------|------------|-----------------|------------|  
 | **מַכְשִׁיר** | *machshir* | device, apparatus | General term for instruments and appliances | **מכשיר רפואי** (*machshir refu'i*) – medical device |  
 | **מִתְקָן** | *mitkan* | installation, apparatus | Fixed or built-in structures/tools | **מתקן כושר** (*mitkan kosher*) – fitness apparatus |  

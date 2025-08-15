@@ -1,8 +1,8 @@
 # Topic: Component, Ingredient, Detail, Part
 
-| **Hebrew**         | **Transcription** | **Meaning**             | **Context/Usage**                              | **Example** |  
+| **Hebrew**         | **Transcription** | **Meaning**             | **Notes**                              | **Example** |  
 |--------------------|-------------------|--------------------------|------------------------------------------------|-------------|  
-| **רְכִיב**         | *rekhiv*           | component, element       | Technical, electronic, or conceptual component | **רכיב אלקטרוני** (*rekhiv elektroní*) – electronic component |  
+| **רְכִיב**         | *rechiv*           | component, element       | Technical, electronic, or conceptual component | **רכיב אלקטרוני** (*rechiv elektroní*) – electronic component |  
 | **מַרְכִּיב**       | *markiv*           | component, ingredient    | Structural, conceptual or recipe-related       | **מרכיב בסיסי** (*markiv basisí*) – basic component |  
 | **פְּרָט**         | *prat*             | detail, item             | Specific detail in a description or list       | **פרט חשוב** (*prat chashuv*) – an important detail |  
 | **חֵלֶק**          | *chelek*           | part, portion            | Very general – can be physical or abstract     | **חלק מהמכונה** (*chelek mehamechoná*) – part of the machine |  
@@ -23,4 +23,5 @@
 | **הֶרְכֵּב**     | *herkév*           | composition, structure    | **ההרכב הכימי** (*haherkév hakimi*) – the chemical composition |
 
 The word "recipe" is derived from another root:
+
 - **מַתְכּוֹן** (*matkon*) - recipe, **מתכון לאסון** – recipe for disaster
