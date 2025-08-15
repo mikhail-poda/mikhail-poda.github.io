@@ -11,7 +11,6 @@
 | **מְיוּמָּן**    | *meyumán*      | skilled, experienced | **הוא נהג מיומן.** (*Hu nahag meyumán.*) – He is a skilled driver. |  
 | **מְחוֹנָן**    | *mechonán*      | gifted, talented | **הוא מוזיקאי מחונן.** (*Hu muzikai mechonán.*) – He is a gifted musician. |  
 
-
 ## Nouns
 
 **מַשְׂכִּיל** (*maskíl*) can function as both a noun and an adjective, depending on context.

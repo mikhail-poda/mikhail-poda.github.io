@@ -26,6 +26,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Absolutely, Certainly](/adv/absolutely-certainly.md)
 - [Actually, Really](/adv/actually-really.md)
+- [Except, Excluding](/adv/except-excluding.md)
 - [*Interrrogative*](/adv/interrogative.md)
   
 ## Nouns
