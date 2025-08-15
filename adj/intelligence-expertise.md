@@ -1,4 +1,4 @@
-# Topic: Intelligence, Expertise
+# Topic: Intelligence and Expertise
 
 | **Hebrew**       | **Transcription** | **Meaning**         | **Example** |  
 |-----------------|-----------------|-----------------|-----------------|  

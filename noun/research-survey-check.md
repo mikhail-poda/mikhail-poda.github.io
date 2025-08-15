@@ -14,3 +14,4 @@
 | **בִּיקּוֹרֶת** | *bikoret* | criticism, review, inspection | Reviewing a movie, book, workplace, or regulations | **בִּיקּוֹרֶת סַפְרוּתִית** |
 | **תַּצְפִּית** | *tatzpit* | observation, surveillance | Observing behavior, wildlife, or intelligence data | **תַּצְפִּית צִבְרוּרִית** |
 | **הֶעָרָכָה** | *hearachah* | assessment, evaluation | Evaluating job performance, education, or psychology | **הֶעָרָכַת עֲבוֹדָה** |
+| **נִיסּוּי** | *nisuy* | experiment, trial | Scientific or technical experiment; testing a hypothesis or process | **נִיסּוּי בַּמַּעֲבָדָה** |
