@@ -4,7 +4,7 @@
 
 | Hebrew    | Meaning     | Example                        |
 | --------- | ----------- | ------------------------------ |
-| **חַד**   | single-     | חַד-פַּעֲמִי – one-time        |
+| **חַד**   | single-     | חַד-פַּעֲמִי – one-time<br>חד צדדי - unilateral       |
 | **דּוּ**  | double-     | דּוּ-קִיּוּם – co-existence    |
 | **תְלַת** | tri-        | תְלַת אוֹפַן – tricycle        |
 | **רַב**   | multi-      | רַב-פְּעָמִים – multiple times |
