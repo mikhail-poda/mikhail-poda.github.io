@@ -12,6 +12,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Grammar
 
 - [Overview of Imperative Forms](/grammar/imperative.md)
+- [Prefixes](/grammar/prefixes.md)
 - [Preposition vs. Adverb](/grammar/preposition-adverb.md)
 - [Pronominal Suffixes](/grammar/pronominal-suffixes.md)
 
