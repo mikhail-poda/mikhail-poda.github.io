@@ -11,7 +11,7 @@
 
 **מופע vs. הופעה:**
 
-*מופע* is more general (concerts, performances), while *הופעה* is more personal (a singer's live performance).
+**מופע** is more general (concerts, performances), while **הופעה** is more personal (a singer's live performance).
 
 ## 2. Exhibitions & Displays 🖼️🏛️
 
@@ -23,7 +23,7 @@
 
 **תצוגה vs. תערוכה:**
 
-*תצוגה* is more commercial (product displays), while *תערוכה* is for **exhibitions (art, science, etc.)**.  
+**תצוגה** is more commercial (product displays), while **תערוכה** is for **exhibitions (art, science, etc.)**.  
 
 ## 3. Demonstrations & Presentations 📊💡
 
@@ -35,7 +35,7 @@
 
 **מצגת vs. מצג:**
 
-*מצגת* is specifically a **slideshow presentation**, while *מצג* is a **broader visual display**.
+**מצגת** is specifically a **slideshow presentation**, while **מצג** is a **broader visual display**.
 
 ## 4. Artistic & Conceptual Installations 🎨🚀
 
@@ -46,4 +46,4 @@
 
 **מֵיצָג vs. מצג:**
 
-*מֵיצָג* is for **art installations**, while *מצג* is a **general display or representation**.  
+**מֵיצָג** is for **art installations**, while **מצג** is a **general display or representation**.  
