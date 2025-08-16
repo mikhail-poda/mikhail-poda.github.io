@@ -8,3 +8,7 @@
 | **נימוק**          | *nimuk*           | argument, justification, explanation (academic, legal) | |
 | **עילה**           | *ilah*            | legal cause, pretext (formal, legal)   | **עילת גירושין** - grounds for divorce, **עילה סבירה** - probable cause |
 | **מניע**           | *mena'ya*         | motive, motivation         | **מְנִיעַ נִסְתָּר** - ulterior motive |
+
+---
+
+[< Attack, Strike](./attack-strike.md) &nbsp; • &nbsp; [Component, Detail >](./component-detail.md)
