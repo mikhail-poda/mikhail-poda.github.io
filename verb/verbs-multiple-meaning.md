@@ -12,7 +12,7 @@
 
 | **Verb** | **Meaning 1** | **Meaning 2** |
 |---------|----------------|--------------------------|
-| **לָבוֹא** | to come | (colloquial) to feel like *(בא לי)* — “I feel like” |
+| **לָבוֹא** | to come | (colloquial) to feel like *(בא לי)* – “I feel like” |
 | **לָצֵאת** | to leave | to turn out well (*יוצא טוב*) |
 | **לַעֲלוֹת** | to ascend | to cost |
 | **לִשְׂכּוֹר** | to rent (from someone) | to hire (less common) |

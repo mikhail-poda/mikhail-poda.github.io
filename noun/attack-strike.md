@@ -76,4 +76,4 @@
 
 - **תקיפה** (*takifa*) and **התקפה** (*hatkafá*) can **sometimes** be interchangeable in military contexts.  
   - Example: **תקיפה אווירית** (*tekifa avirit*) and **התקפה אווירית** (*hatkafa avirit*) both mean "airstrike," but **תקיפה** feels more like a single strike, while **התקפה** can imply a broader attack.  
-- **מתקפה** (*mitkafá*) is distinct and usually **not interchangeable**—it always implies a **large-scale or prolonged** attack.  
+- **מתקפה** (*mitkafá*) is distinct and usually **not interchangeable**, it always implies a **large-scale or prolonged** attack.  

@@ -87,4 +87,4 @@ Most Hebrew resources focus on vocabulary and grammar, but few compare similar w
 
 ---
 
-Last updated: 24. July 2025
+Last updated: 17. August 2025

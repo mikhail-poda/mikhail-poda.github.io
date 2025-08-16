@@ -76,6 +76,6 @@
 
 ## 🛠 When Can They Be Used Interchangeably?
 
-🔹 **להכיל vs. לכלול:** Not interchangeable—**להכיל** is for **physical or conceptual containment**, while **לכלול** is for **lists or groups**.  
+🔹 **להכיל vs. לכלול:** Not interchangeable, **להכיל** is for **physical or conceptual containment**, while **לכלול** is for **lists or groups**.  
 🔹 **לכלול vs. להכליל:** **Sometimes interchangeable** in the sense of "incorporating" something, but **להכליל** carries a nuance of generalization.  
-🔹 **להכיל vs. להכליל:** Not interchangeable—**להכיל** is about **holding something**, while **להכליל** is about **broadening a category**.  
+🔹 **להכיל vs. להכליל:** Not interchangeable, **להכיל** is about **holding something**, while **להכליל** is about **broadening a category**.  

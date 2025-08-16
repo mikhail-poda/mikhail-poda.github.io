@@ -1,6 +1,6 @@
 # Preposition, Adverb, Adjective
 
-In English, the word **"inside"** can be used in different ways — *"I am inside"* vs. *"I am inside the house."*  
+In English, the word **"inside"** can be used in different ways – *"I am inside"* vs. *"I am inside the house."*  
 These two uses of the same word represent **different parts of speech**: in the first case, it's an **adverb**, and in the second, a **preposition**.  
 In Hebrew, these meanings are **expressed using entirely different words**, depending on the **part of speech**.
 

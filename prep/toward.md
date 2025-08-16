@@ -7,7 +7,7 @@
 | **לְעֵבֶר**      | *le'ever*      | Toward / In direction of   | Literary / formal    | Narration, news, dramatic descriptions        | Implies **directionality**, focus                          |
 | **בְּכִּיוּן**     | *b'kivun*      | In the direction of        | Neutral to formal    | Describing orientation, physical direction    | Used with motion verbs (זז, נָסַע)                           |
 | **כְּלַפֵּי**      | *klapei*       | Toward / Facing            | Formal / technical   | Law, politics, opinions, relationships        | Often **figurative** (e.g., attitude toward someone)       |
-| **נֶגֶד**       | *neged*        | Opposite / Facing          | Neutral              | Spatial relationships, confrontation          | Not movement—**facing** something                          |
+| **נֶגֶד**       | *neged*        | Opposite / Facing          | Neutral              | Spatial relationships, confrontation          | Not movement, **facing** something                          |
 | **לִקְרַאת**     | *likrat*       | Toward / In anticipation of | Literary / expressive | Events, holidays, speeches, symbolic movement | Often implies **expectation**, **preparation**, or **welcoming** |
 
 ---

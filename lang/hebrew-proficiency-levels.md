@@ -8,7 +8,7 @@ Here are the main levels:
 🔹 **Absolute Beginner (A0)**  
 
 - A0 is not officially part of the CEFR.
-- It is often used to describe absolute beginners—people with no prior knowledge of a language.
+- It is often used to describe absolute beginners, people with no prior knowledge of a language.
 
 🔹 **Beginner (A1)**  
 

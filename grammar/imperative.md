@@ -34,7 +34,7 @@
 | **Concept**        | **Explanation** |
 |----------------|-------------|
 | **Infinitive Imperative** | Formal distancing form (e.g., לשבת), used in signs and official speech. |
-| **True Imperative**  | Grammatical ציווי form (e.g., שֵׁב, פְּתַח) — classic imperatives. |
+| **True Imperative**  | Grammatical ציווי form (e.g., שֵׁב, פְּתַח) – classic imperatives. |
 | **Future Imperative**| Future tense verb used as a polite or casual command (e.g., תשב). |
 | **Truncated Future** | Casual spoken shortening of future tense (תשב), pronounced *tshev* (same consonants, vowels clipped). |
 
