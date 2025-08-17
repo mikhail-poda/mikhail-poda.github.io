@@ -11,6 +11,6 @@
 
 ## Note
 
-- Everyday/Emotional Sadness: **צער**, **עצב**
-- Prolonged or Physical Suffering: **סבל**, **ייסורים**
-- Mourning and Deep Grief: **אבל**, **יגון**
+- Everyday/emotional sadness: **צער**, **עצב**
+- Prolonged or physical suffering: **סבל**, **ייסורים**
+- Mourning and deep grief: **אבל**, **יגון**
