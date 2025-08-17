@@ -20,6 +20,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Adjectives
 
 - [Colors](/adj/colors.md)
+- [Complex, Complicated](/adj/complex-complicated.md)
 - [Likely, Due](/adj/likely-due.md)
 - [Needed, Necessary](/adj/needed-necessary.md)
 - [Intelligence, Expertise](/adj/intelligence-expertise.md)
