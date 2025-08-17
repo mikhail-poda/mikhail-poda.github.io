@@ -4,7 +4,7 @@
 
 | Hebrew    | Meaning     | Example                        |
 | --------- | ----------- | ------------------------------ |
-| **חַד**   | single-     | חַד-פַּעֲמִי – one-time (disposable)<br>חד צדדי – unilateral       |
+| **חַד**   | single-     | חַד-פַּעֲמִי – one-time (disposable)<br>חד צדדי – unilateral<br>**אֵם חַד הוֹרִית** – single mother |
 | **דּוּ**  | double-     | דּוּ-לְשׁוֹנִי – bilingual<br>דּוּ-קִיּוּם – co-existence    |
 | **תְלַת** | tri-        | תְלַת אוֹפַן – tricycle<br>תְלַת-מֵמַדִי – three-dimensional        |
 | **רַב**   | multi-      | רַב-פְּעָמִיים – reusable<br>רַב-תַּכְלִיתִי – multipurpose |
@@ -45,6 +45,7 @@
 | ------------- | ------------------ | ------------------------------- |
 | **שָׁוֶוה**    | equi-, homo-, iso-, worth | שָׁוֶוה מֶרְחָק – equidistant    |
 | **מְשׁוּתָף** | co-                | בַּיִת מְשׁוּתָף – shared house<br>מַסָּע מְשׁוּתָף – joint campaign |
+| **כָּל** | omni- | **כָּל יוֹדֵעַ** – omniscient<br>**כל יכול** – omnipotent |
 
 ---
 
@@ -57,7 +58,7 @@
 | **מוּל**    | anti-            | מוּל הָאִיּוּם – against the threat |
 | **חָסֵר**   | -less            | חֲסַר-עֵרֶךְ – worthless<br>חִיסּוּר – subtraction, absence            |
 | **רַע**     | mis-, mal-       | רַע מַזָּל – bad luck               |
-| **אִי-**    | non-, un-        | אי צדק – injustice<br>אי סדר – disorder<br>אִי הֲבָנָה – misunderstanding                  |
+| **אִי-**    | non-, un-;<br>(unrelated meaning "island")  | אי צדק – injustice<br>אי סדר – disorder<br>אִי הֲבָנָה – misunderstanding    |
 | **בִּלתִי** | non-, un-        | בִּלתִי רַגִיל – irregular, extraordinary<br>בִּלתִי אֶפשָׂרִי – impossible<br>בלתי הפיך – irreversible  |
 
 ---
