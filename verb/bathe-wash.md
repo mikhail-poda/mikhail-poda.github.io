@@ -1,6 +1,6 @@
 # Topic: to Bathe, Wash
 
-| **Infinitive**    | **Transcription** | **Meaning**                       | **Notes**                                                      |
+| **Infinitive**    | **Transcription** | **Meaning**                       | **Notes / Example Usage**    |
 | ----------------- | ----------------- | --------------------------------- | --------------------------------------------------------------- |
 | **לְהִתְרַחֵץ**   | *lehitrachétz*    | to bathe, wash oneself            | Reflexive. **להתרחץ באמבטיה** – to bathe in a bathtub.              |
 | **לִרְחוֹץ**      | *lirchótz*        | to wash, clean (body, hands)      | **לרחוץ ידיים** – to wash hands.                          |
@@ -16,4 +16,6 @@
 
 ## Notes
 
-- **לעשות כביסה** is more used then **לְכַבֵּס** - to do the laundry
+- **to do the laundry** is mostly **לעשות כביסה** and not **לְכַבֵּס**
+- **washing mashine** is caled **מְכוֹנַת כְּבִיסָה**
+- **dishwasher** is called **מַדִיחַ כֵּלִים**, from the verb  **לְהָדִיחַ**
