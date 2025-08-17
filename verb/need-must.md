@@ -1,4 +1,4 @@
-# Topic: To Need, Must
+# Topic: to Need, Must
 
 | **Hebrew**             | **Transcription** |  **Meaning**       | **Example** |
 | -------------------- | ----------------- | ------------ | --------------------- |
@@ -6,5 +6,5 @@
 | **ציךְ** (adj.)   | *tzch*      |  colloquial form of צָרִיךְ | **אני ציך תחתונים** – I need underpants.       |
 | **הָיִיתִי צָרִיךְ** | *hayíti tzarích*  |  needed to (past)        | **הייתי צריך ללכת** – I needed to go.  |
 | **לְהִצְטָרֵךְ**     | *lehitztaréch*    |  to need (only future)    | **הוא יצטרך עזרה** – He will need help. |
-| **חַיָּב** (adj.)    | *chayáv*       | must, obligated to      | **אני חייב לדבר איתה** – I must talk to her. |
+| **חַייָּב** (adj.)    | *chayáv*       | must, obligated to      | **אני חייב לדבר איתה** – I must talk to her. |
 | **זָקוּק ל־** (adj.)    | *zakúk*       | in need of (emotional/formal tone) | **היא זקוקה לעזרה** – She is in need of help. |

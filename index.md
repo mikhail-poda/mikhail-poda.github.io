@@ -11,6 +11,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Grammar
 
+- [Adjective Comparison](/grammar/adjective-comparison.md)
 - [Overview of Imperative Forms](/grammar/imperative.md)
 - [Prefixes](/grammar/prefixes.md)
 - [Preposition vs. Adverb](/grammar/preposition-adverb.md)
@@ -33,6 +34,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Nouns
 
 - [Attack, Strike](/noun/attack-strike.md)
+- [Amount, Quantity](/noun/amount-quantity.md)
 - [Cause, Reason](/noun/cause-reason.md)
 - [Component, Detail](/noun/component-detail.md)
 - [Device, Tool](/noun/device-tool.md)
@@ -62,6 +64,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Verbs
 
 - [Announce, Declare](/verb/announce-declare.md)
+- [Bathe, Wash](/verb/bathe-wash.md)
 - [Break, Crash](/verb/break-crash.md)
 - [Cancel, Remove](/verb/cancel-remove.md)
 - [Contain, Comprise](/verb/contain-comprise.md)

@@ -1,6 +1,5 @@
 # Topic: to Cut, Slice
 
-
 | **Infinitive**    | **Transcription** | **Meaning**        | **Notes**                                                   |
 | ----------------- | ------------- | ------------------------- | --------------------------------------------------------------- |
 | **לַחְתּוֹךְ**    | *lachtóch*    | to cut, slice                | Bread, meat, rope. **לחתוך לחם** – to cut bread. |
