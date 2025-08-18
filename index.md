@@ -20,6 +20,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Adjectives
 
 - [Colors](/adj/colors.md)
+- [Common - Rare](/adj/common-rare.md)
 - [Complex, Complicated](/adj/complex-complicated.md)
 - [Likely, Due](/adj/likely-due.md)
 - [Needed, Necessary](/adj/needed-necessary.md)
@@ -36,6 +37,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Attack, Strike](/noun/attack-strike.md)
 - [Amount, Quantity](/noun/amount-quantity.md)
+- [Box, Container](/noun/box-container.md)
 - [Cause, Reason](/noun/cause-reason.md)
 - [Component, Detail](/noun/component-detail.md)
 - [Device, Tool](/noun/device-tool.md)

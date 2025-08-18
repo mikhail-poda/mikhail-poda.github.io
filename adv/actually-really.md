@@ -12,6 +12,7 @@
 | **בִּכְלָל**   | *bichlal*      | at all, even, generally | Used for generalization, negation, or emphasis | **הוא בכלל לא הבין** (*hu bichlal lo hevin*) – He didn't understand at all |  
 | **בְּדִיּוּק**  | *bediyuk*      | exactly, precisely    | Used when something is **precise or matches perfectly** | **זה בדיוק מה שהתכוונתי** (*ze bediyuk ma shehitkavanti*) – That's exactly what I meant |  
 | **בַּמְּצִיאוּת** | *ba-metziut*   | in reality, in real life | Used to contrast reality with expectations | **במציאות, זה יותר קשה** (*ba-metziut, ze yoter kashe*) – In reality, it's harder |  
+| **לַמַּעַן הָאֱמֶת** | *lama'an haemet*   | actually, honestly |  | **למען האמת אין לי מושג** – Frankly, I have no idea |  
 
 ---
 

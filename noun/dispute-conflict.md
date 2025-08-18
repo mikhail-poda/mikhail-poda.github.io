@@ -25,7 +25,7 @@
 
 | **Hebrew** | **Transcription** | **Meaning** | **Notes** | **Example** |  
 |---------------|----------------|------------|-----------------|------------|  
-| **רִיב** | *riv* | quarrel, fight | Small personal argument, usually verbal | **ריב משפחתי** (*riv mishpachti*) – family quarrel |  
+| **רִיב**, **מריבה** | *riv*, *merivà* | quarrel, fight | Small personal argument, usually verbal | **ריב משפחתי** (*riv mishpachti*) – family quarrel |  
 | **סִיכְסוּךְ** | *sichsuch* | conflict, dispute | Long-term personal or political conflict | **סכסוך שכנים** (*sichsuch shchenim*) – neighbor dispute |  
 
 ---
