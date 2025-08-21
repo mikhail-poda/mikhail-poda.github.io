@@ -31,4 +31,4 @@
 | ![Olive](https://placehold.co/15x15/808000/808000.png) | **זַיִת** | olive | - | - |
 | ![Brown](https://placehold.co/15x15/a52a2a/a52a2a.png) | **חוּם** | brown | **חוֹם** | heat |
 | ![Purple](https://placehold.co/15x15/800080/800080.png) | **אַרְגָּמָן** | purple (reddish) | - | - |
-| ![Copper](https://placehold.co/15x15/cd7f32/cd7f32.png) | **נְחוֹשֶׁת** | copper | - | - |
+| ![Copper](https://placehold.co/15x15/cd7f32/cd7f32.png) | **נְחוֹשֶׁת** | copper | **נָחָשׁ** | snake |
