@@ -69,6 +69,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Verbs
 
+- [Adapt, Adjust](/verb/adapt-adjust.md)
 - [Announce, Declare](/verb/announce-declare.md)
 - [Bathe, Wash](/verb/bathe-wash.md)
 - [Break, Crash](/verb/break-crash.md)
