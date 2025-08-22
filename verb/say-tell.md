@@ -16,4 +16,4 @@
 | **לְבַטֵּא**       | *levaté*          | to pronounce                    | **קשה לו לבטא את המילים הארוכות** – He finds it hard to pronounce long words. |
 | **לְהַבִּיעַ**      | *lehabiá*         | to express, state                | **הוא הביע את דעתו בבירור** – He clearly expressed his opinion.            |
 | **לִצְעוֹק**        | *litz’ok*         | to shout, yell                   | **הוא צעק לעזרה** – He shouted for help.                                 |
-| **לָחֳוֹשׁ**         | *lachosh*         | to whisper                          | **היא לחשה לי סוד** – She whispered a secret to me.     |
+| **לָחֳוֹשׁ**         | *lachosh*         | to whisper                          | **היא חָשָׁה לי סוד** – She whispered a secret to me.     |
