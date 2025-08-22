@@ -8,6 +8,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Hebrew Learning Resources](/lang/learning-resources.md)
 - [Hebrew Proficiency Levels](/lang/hebrew-proficiency-levels.md)
 - [Spaced Repetition Methods](/lang/spaced-repetition-methods.md)
+- [Interesting Facts](/lang/interesting-facts.md)
 
 ## Grammar
 
