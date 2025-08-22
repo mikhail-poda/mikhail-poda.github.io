@@ -1,6 +1,6 @@
 # Interesting Facts
 
-## "Water" words with ט
+## "Water" Words with ט
 
 The letter **ט (Tet)** is one of the less commonly used letters in Hebrew, but interestingly, many words related to **water** and **purity** include this letter. While it may just be a coincidence, it's a fun pattern to notice. I once heard a Hebrew teacher refer to **ט** as *"a wet letter"* 😊
 
@@ -22,7 +22,7 @@ The letter **ט (Tet)** is one of the less commonly used letters in Hebrew, but 
 
 ## The Letter פ and Verbs of Splitting, Spreading, and Separating
 
-Another curious pattern in Hebrew is the frequent appearance of the letter **פ (Pe)** in verbs that involve **multiple parts, breaking or spreading**. Verbs with a less obvious connection, like **לפצוע** (to wound), are linked by their root to a rarely used verb **להפציע** (to pierce, break through)".
+Another curious pattern in Hebrew is the frequent appearance of the letter **פ (Pe)** in verbs that involve **multiple parts, breaking or spreading**. Verbs with a less obvious connection, like **לפצוע** (to wound), are linked by their root to a rarely used verb **להפציע** (to pierce, break through).
 
 | **Hebrew**    | **Meaning** | **Root** |
 | ------------- | ----------- | ---------- |
