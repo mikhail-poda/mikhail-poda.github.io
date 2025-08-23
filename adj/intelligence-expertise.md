@@ -8,8 +8,9 @@
 | **מַשְׂכִּיל**    | *maskíl*       | educated, intellectual | **הוא אדם משכיל עם ידע רחב.** (*Hu adam maskíl im yeda rachav.*) – He is an educated person with broad knowledge. |  
 | **בַּקִּי**      | *bakí*         | well-versed, knowledgeable | **הוא בקי בחוקי המדינה.** (*Hu bakí be-chukei ha-mediná.*) – He is well-versed in the country's laws. |  
 | **מִקְצוֹעִי**    | *miktzo'í*     | professional, highly skilled | **הוא שחקן מקצועי.** (*Hu sachkan miktzo'í.*) – He is a professional athlete. |  
-| **מְיוּמָּן**    | *meyumán*      | skilled, experienced | **הוא נהג מיומן.** (*Hu nahag meyumán.*) – He is a skilled driver. |  
 | **מְחוֹנָן**    | *mechonán*      | gifted, talented | **הוא מוזיקאי מחונן.** (*Hu muzikai mechonán.*) – He is a gifted musician. |  
+| **מְיוּמָּן**    | *meyumán*      | skilled, experienced | **הוא נהג מיומן.** (*Hu nahag meyumán.*) – He is a skilled driver. |
+| **מְאוּמָן**   | *me'uman*      | trained | **אנשי מקצוע מיומנים.** – Trained professionals. |  
 
 ## Nouns
 
