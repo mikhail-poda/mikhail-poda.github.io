@@ -88,7 +88,7 @@ In the list below the real all-rouner is the verb **לִפְרוֹס** which fit
 
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
-| **לְהַפִּיל** | to drop; to overthrow; to abort | נ־פ־ל | **הֲפִיכָה** – coup<br>**הַפָּלָה** – abortion<br>**מַפָּל** – waterfall |
+| **לְהַפִּיל** | to drop; to overthrow; to abort | נ־פ־ל | **נְפִילָה** – fall, downfall<br>**הַפָּלָה** – abortion<br>**מַפָּל** – waterfall |
 | **לְנַפֵּץ** | to smash, shatter | נ־פ־ץ | **נָפִיץ** – explosive<br>**נַפָּץ** – detonator|
 | **לְפוֹצֵץ** | to blow up, detonate | פ־צ־ץ | **פִּיצוּץ** – explosion<br>**פְּצָצָה** – bomb |
 | **לְהִתְפּוֹרֵר** | to fall apart, disintegrate | פ־ר־ר | **הִתְפּוֹרְרוּת** – disintegration |
