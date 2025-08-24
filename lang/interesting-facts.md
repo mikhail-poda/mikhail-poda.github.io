@@ -107,7 +107,7 @@ In the list below the real all-rouner is the verb **לִפְרוֹס** which fit
 | **לְהִיפָּרֵד** | to separate | פ־ר־ד | **הַפְרָדָה** – separation. segregation<br>**נִפְרָד** – separate, individual (adj.) |
 | **לִפְרוֹט** | to break (money into small parts) | פ־ר־ט | **פְּרָטִי** – private, personal<br>**מְפוֹרָט** – detailes, specific |
 | **לִפְרוֹם** | to unknit, unravel | פ־ר־ם  |  |
-| **לְפָרֵק** | to dismantle, disassemble | פ־ר־ק | **פֶּרֶק** – chapter<br>**פֵּירוּק** - deconstruction, disassembly<br>**פְּרִיקָה**– discharge, unloading |
+| **לְפָרֵק** | to dismantle, disassemble | פ־ר־ק | **פֶּרֶק** – chapter<br>**פֵּירוּק** – deconstruction, disassembly<br>**פְּרִיקָה**– discharge, unloading |
 
 ---
 
@@ -182,7 +182,7 @@ In the list below the real all-rouner is the verb **לִפְרוֹס** which fit
 | **לְפַגֵּר** | to lag behind | פ־ג־ר | **מְפַגֵּר** – retarded person (slang) |
 | **לְהַפְלוֹת** | to discriminate | פ־ל־ה | **אַפְלָיָה** – discrimination |
 | **לְהַפְרִיךְ** | to disprove, refute, debunk |  פ־ר־ך | **פָּרִיךְ** – crispy, crunchy<br>**פרך** – hard labour |
-| **לְהָפֵר** | to break (a promise, law) | פ־ר־ר | **פֵּירוּר** – (bread) crumb<br>**הֲפָרָה** - violation, breach (of promise, law) |
+| **לְהָפֵר** | to break (a promise, law) | פ־ר־ר | **פֵּירוּר** – (bread) crumb<br>**הֲפָרָה** – violation, breach (of promise, law) |
 | **לִפְסוֹל** | to rule out, disqualify | פ־ס־ל | **פֶּסֶל** – statue |
 | **לְהִתְפַּשֵּׁר** | to compromise | פ־שׁ־ר | **פְּשָׁרָה** – compromise<br>**פּוֹשֵׁר** – lukewarm |
 
@@ -193,7 +193,7 @@ In the list below the real all-rouner is the verb **לִפְרוֹס** which fit
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
 | **לִפְלוֹשׁ** | to invade, break into | פ־ל־שׁ | **פְּלִישָׁה** – invasion |
-| **לִפְרוֹץ** | to hack; break in, breach | פ־ר־ץ | **מִפְרָץ** – gulf, bay<br>**פְּרִיצָה** - burglary<br>**פִּרְצָה** – loophole, breach<br>**פְּרוּצָה** – prostitute |
+| **לִפְרוֹץ** | to hack; break in, breach | פ־ר־ץ | **מִפְרָץ** – gulf, bay<br>**פְּרִיצָה** – burglary<br>**פִּרְצָה** – loophole, breach<br>**פְּרוּצָה** – prostitute |
 
 ---
 
@@ -214,4 +214,4 @@ In the list below the real all-rouner is the verb **לִפְרוֹס** which fit
    * **לפרוס כוחות** – to deploy forces
    * **לפרוס תשתית** – to lay out infrastructure (like cables, network)
 
-4. It also merged with the root פ־ר־שׂ and is used only in the word **מִפְרָשׂ** - sail
+4. It also merged with the root פ־ר־שׂ and is used only in the word **מִפְרָשׂ** – sail
