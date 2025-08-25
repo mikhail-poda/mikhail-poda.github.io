@@ -74,13 +74,15 @@ I once heard a Hebrew teacher refer to **ט** as *"a wet letter"* 😊
 ## The Letter פ and Verbs of Splitting, Spreading, and Separating
 
 Another curious pattern in Hebrew is the appearance of the letter **פ (Pe)**
-as (mostly) the first root letter in almost all verbs that involve **multiple parts, breaking or spreading**.
+as the first root letter in many verbs that belong to the semantic field of **breaking, separating, or spreading into multiple parts**.
 
-* Even when **פ** is not the first root letter, but comes second, it follows one of the so-called “special” letters **נ (Nun)** or **שׁ (Shin)**
-* More then the half of these roots contain also **ר (Resh)** as its second or third root letter.
-* The only exception to this rule is the root **ח־ל־ק** – to share, divide
+* Even when **פ** is not the first root letter, but appears second, it follows one of the so-called “special” letters **נ (Nun)** or **שׁ (Shin)**
+* More then the half of these roots contain also **ר (Resh)** as its second or third consonant.
+* The only exception to this rule is the root **ח־ל־ק** – to share, divide.
+* Many English words in this same semantic field also form a recognizable pattern, typically starting with **s** and containing both **p** and **r**.
+* This semantic field is closely related to a semantic fild with the meaning **to open** which also starts with **פ (Pe)**.
 
-In the list below the real all-rouner is the verb **לִפְרוֹס** which fits into multiple categories.
+In the list below, the true all-rouner is the verb **לִפְרוֹס**, which fits into multiple categories.
 
 ---
 
@@ -128,6 +130,7 @@ In the list below the real all-rouner is the verb **לִפְרוֹס** which fit
 | ------------- | ----------- | ---------- | ---------- |
 | **לְפַעְנֵחַ** | to decipher, figure out, solve | פ־ע־נ־ח | **פִּעַנוּחַ** – decoding |
 | **לְפַצֵּחַ** | to solve (puzzle), crack (password), break (algoritm) | פ־צ־ח | **מַפְצֵחַ** – nutcracker<br>**פִּיצּוּחַ** – cracking (nuts), solving (puzzle) |
+| **לִפְתּוֹר** | to solve | פ־ת־ר | **פִּתְרוֹן** – solution |
 
 ---
 
@@ -158,8 +161,9 @@ In the list below the real all-rouner is the verb **לִפְרוֹס** which fit
 | **לְהִתְפּוֹגֵג** | to dissipate, fade away | פ־ג־ג | **תְּפוּגָה** – expiration  |
 | **לְהַפְגִּיז** | to bombard | פ־ג־ז | **פָּגָז** – artilery shell |
 | **לְפַרְסֵם** | to publish | פ־ר־ס־ם | **מְפוּרְסָם** – famous<br>**פִּירְסוֹמֶת** – advertisement<br>**פִּרְסוּם** – advertising, publication, publicity |
-| **לִשְׁפּוֹךְ** | to pour; spill | שׁ־פ־ך | **שְׁפִיכוּת דָּמִים** – bloodshed |
 | **לִפְרוֹס** | to slice; spread out; deploy | פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
+| **לִשְׁפּוֹךְ** | to pour; spill | שׁ־פ־ך | **שְׁפִיכוּת דָּמִים** – bloodshed |
+| **לִפְעוֹם** | to beat, pulse | שׁ־פ־ך | **פְּעִימָה** – beat, pulse, heartbeat<br>**פַּעַם**– time (occasion); once  |
 
 ---
 
