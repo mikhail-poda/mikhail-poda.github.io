@@ -44,6 +44,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Device, Tool](/noun/device-tool.md)
 - [Difference, Distinction](/noun/difference-distinction.md)
 - [Dispute, Conflict](/noun/dispute-conflict.md)
+- [Efficiency, Productivity](/noun/efficiency-productivity.md)
 - [Exam, Test](/noun/exam-test.md)
 - [Experience](/noun/experience.md)
 - [Feeling, Emotion](/noun/feeling-emotion.md)
