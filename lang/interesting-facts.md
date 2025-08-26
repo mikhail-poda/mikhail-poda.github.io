@@ -163,7 +163,7 @@ In the list below, the true all-rouner is the verb **לִפְרוֹס**, which f
 | **לְפַרְסֵם** | to publish | פ־ר־ס־ם | **מְפוּרְסָם** – famous<br>**פִּירְסוֹמֶת** – advertisement<br>**פִּרְסוּם** – advertising, publication, publicity |
 | **לִפְרוֹס** | to slice; spread out; deploy | פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
 | **לִשְׁפּוֹךְ** | to pour; spill | שׁ־פ־ך | **שְׁפִיכוּת דָּמִים** – bloodshed |
-| **לִפְעוֹם** | to beat, pulse | שׁ־פ־ך | **פְּעִימָה** – beat, pulse, heartbeat<br>**פַּעַם**– time (occasion); once  |
+| **לִפְעוֹם** | to beat, pulse | פ־ע־ם | **פְּעִימָה** – beat, pulse, heartbeat<br>**פַּעַם**– time (occasion); once  |
 
 ---
 
