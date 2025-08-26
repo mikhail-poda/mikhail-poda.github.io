@@ -82,8 +82,6 @@ as the first root letter in many verbs that belong to the semantic field of **br
 * Many English words in this same semantic field also form a recognizable pattern, typically starting with **s** and containing both **p** and **r**.
 * This semantic field is closely related to a semantic fild with the meaning **to open** which also starts with **פ (Pe)**.
 
-In the list below, the true all-rouner is the verb **לִפְרוֹס**, which fits into multiple categories.
-
 ---
 
 ### Break
@@ -103,13 +101,14 @@ In the list below, the true all-rouner is the verb **לִפְרוֹס**, which f
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
 |            |                  | פ־ל־ח | **פֶּלַח** – market share; fruit slice |
-| **לִפְרוֹס** | to slice; spread out; deploy | פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
+| **לִפְרוֹס** | to slice; spread out; deploy | ¹פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
 | **לְהִתְפַּלֵּג** | to split into factions | פ־ל־ג | **פֶּלֶג** – faction<br>**מִפְלָגָה** – political party<br>**הִתְפַּלְּגוּת** – statistical distrubution |
 | **לְפַצֵּל** | to split up, divide | פ־צ־ל | **פִּיצּוּל** – fragmentation |
 | **לְהִיפָּרֵד** | to separate | פ־ר־ד | **הַפְרָדָה** – separation. segregation<br>**נִפְרָד** – separate, individual (adj.) |
-| **לִפְרוֹט** | to break (money into small parts) | פ־ר־ט | **פְּרָטִי** – private, personal<br>**מְפוֹרָט** – detailes, specific |
+| **לִפְרוֹט** | to break (money into small parts) | ¹פ־ר־ט | **פְּרָטִי** – private, personal<br>**מְפוֹרָט** – detailes, specific |
 | **לִפְרוֹם** | to unknit, unravel | פ־ר־ם  |  |
-| **לְפָרֵק** | to dismantle, disassemble | פ־ר־ק | **פֶּרֶק** – chapter<br>**פֵּירוּק** – deconstruction, disassembly<br>**פְּרִיקָה**– discharge, unloading |
+| **לְפָרֵק** | to dismantle, disassemble | ¹פ־ר־ק | **פֶּרֶק** – chapter<br>**פֵּירוּק** – deconstruction, disassembly |
+| **לִפְרוֹק** | to unpack, unload | ²פ־ר־ק | **פְּרִיקָה**– discharge, unloading |
 
 ---
 
@@ -119,8 +118,23 @@ In the list below, the true all-rouner is the verb **לִפְרוֹס**, which f
 | ------------- | ----------- | ---------- | ---------- |
 | **לְהָפִיץ** | to distribute, spread | פ־ו־ץ | **נָפוֹץ** – widespread, common<br>**הֲפָצָה** – distribution, dissemination, spreading |
 | **לְפַזֵּר** | to scatter, disperse | פ־ז־ר |  |
-| **לִפְרוֹס** | to slice; spread out; deploy | פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment<br>**מִפְרָשׂ** – sail|
+| **לְהַפְגִּיז** | to bombard | פ־ג־ז | **פָּגָז** – artilery shell |
+| **לִפְרוֹס** | to slice; spread out; deploy | ²פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment<br>**מִפְרָשׂ** – sail|
 | **לְהִתְפַּשֵּׁט** | to undress; spread (reflexive) | פ־שׁ־ט | **מוּפְשָׁט** – abstract<br>**פָּשׁוּט** – simple |
+
+---
+
+### Emit
+
+| **Hebrew**    | **Meaning** | **Root** | **Related** |
+| ------------- | ----------- | ---------- | ---------- |
+| **לְהַנְפִּיק** | to issue (coint, stock) | נ־פ־ק |   |
+| **לִפְלוֹט** | to emit, output; print | פ־ל־ט | **פָּלִיט** – refugee<br>**פְּלִיטוֹת** – emissions (industrial) |
+| **לְהִתְפּוֹגֵג** | to dissipate, fade away | פ־ג־ג | **תְּפוּגָה** – expiration  |
+| **לְפַרְסֵם** | to publish | פ־ר־ס־ם | **מְפוּרְסָם** – famous<br>**פִּירְסוֹמֶת** – advertisement<br>**פִּרְסוּם** – advertising, publication, publicity |
+| **לִפְרוֹס** | to slice; spread out; deploy | ³פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
+| **לִשְׁפּוֹךְ** | to pour; spill | שׁ־פ־ך | **שְׁפִיכוּת דָּמִים** – bloodshed |
+| **לִפְעוֹם** | to beat, pulse | פ־ע־ם | **פְּעִימָה** – beat, pulse, heartbeat<br>**פַּעַם**– time (occasion); once  |
 
 ---
 
@@ -147,23 +161,8 @@ In the list below, the true all-rouner is the verb **לִפְרוֹס**, which f
 
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
-| **לְפָרֵט** | to detail, elaborate, specify | פ־ר־ט | **פְּרִיט** – item, object<br>**פְּרָט** – detail; individual<br>**פֵּירוּט** – breakdown, detail list |
+| **לְפָרֵט** | to detail, elaborate, specify | ²פ־ר־ט | **פְּרִיט** – item, object<br>**פְּרָט** – detail; individual<br>**פֵּירוּט** – breakdown, detail list |
 | **לְפָרַשׁ** | to interpret, explain | פ־ר־שׁ | **פַּרְשָׁן** – commentator, expert<br>**מְפוֹרָשׁ** – explicit |
-
----
-
-### Emit
-
-| **Hebrew**    | **Meaning** | **Root** | **Related** |
-| ------------- | ----------- | ---------- | ---------- |
-| **לְהַנְפִּיק** | to issue (coint, stock) | נ־פ־ק |   |
-| **לִפְלוֹט** | to emit, output; print | פ־ל־ט | **פָּלִיט** – refugee<br>**פְּלִיטוֹת** – emissions (industrial) |
-| **לְהִתְפּוֹגֵג** | to dissipate, fade away | פ־ג־ג | **תְּפוּגָה** – expiration  |
-| **לְהַפְגִּיז** | to bombard | פ־ג־ז | **פָּגָז** – artilery shell |
-| **לְפַרְסֵם** | to publish | פ־ר־ס־ם | **מְפוּרְסָם** – famous<br>**פִּירְסוֹמֶת** – advertisement<br>**פִּרְסוּם** – advertising, publication, publicity |
-| **לִפְרוֹס** | to slice; spread out; deploy | פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
-| **לִשְׁפּוֹךְ** | to pour; spill | שׁ־פ־ך | **שְׁפִיכוּת דָּמִים** – bloodshed |
-| **לִפְעוֹם** | to beat, pulse | פ־ע־ם | **פְּעִימָה** – beat, pulse, heartbeat<br>**פַּעַם**– time (occasion); once  |
 
 ---
 
