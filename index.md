@@ -23,9 +23,10 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Colors](/adj/colors.md)
 - [Common - Rare](/adj/common-rare.md)
 - [Complex, Complicated](/adj/complex-complicated.md)
+- [Intelligence, Expertise](/adj/intelligence-expertise.md)
 - [Likely, Due](/adj/likely-due.md)
 - [Needed, Necessary](/adj/needed-necessary.md)
-- [Intelligence, Expertise](/adj/intelligence-expertise.md)
+- [Small, Big](/adj/small-big.md)
 
 ## Adverbs
 
@@ -102,4 +103,4 @@ Most Hebrew resources focus on vocabulary and grammar, but few compare similar w
 
 ---
 
-Last updated: 17. August 2025
+Last updated: 28. August 2025
