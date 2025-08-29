@@ -60,6 +60,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Show, Presentation](/noun/show-presentation.md)
 - [Space, Area](/noun/space-area.md)
 - [Task, Mission](/noun/task-mission.md)
+- [Thing, Matter, Issue](/noun/thing-matter.md)
 - [Travel, Trip](/noun/travel-trip.md)
 - [Value, Cost](/noun/value-cost.md)
 
@@ -89,7 +90,6 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Propose, Recommend](/verb/propose-recommend.md)
 - [See, Watch](/verb/see-watch.md)
 - [Say, Tell](/verb/say-tell.md)
-- [Thing, Matter, Issue](/verb/thing-matter.md)
 - [Update, Improve](/verb/update-improve.md)
 - [*Verbs with Multiple Meanings*](/verb/verbs-multiple-meaning.md)
 
