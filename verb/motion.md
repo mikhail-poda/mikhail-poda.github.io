@@ -64,3 +64,14 @@
 | --------------- | ----------------- | ----------------------- | ----------------------------------------------- |
 | **לִבְרוֹחַ**   | *livroach*        | to escape, flee         | **האסיר ברח** – the prisoner escaped.           |
 | **לְהִיתָּקֵל** | *lehitakel*       | to bump into, encounter | **נתקלתי בחבר ישן** – I ran into an old friend. |
+
+---
+
+## Going Up/Down & Turning
+
+| **Hebrew**        | **Transcription** | **Meaning**                  | **Notes**                                                                                                 | **Example**                                                                              |
+| ----------------- | ----------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **לַעֲלוֹת**      | *la’alot*         | to go up, ascend             | Can mean physical ascent (stairs, mountain), or abstract (prices rise, immigration to Israel = “aliyah”). | **לטפס במדרגות ולעלות לקומה שנייה** – to climb the stairs and go up to the second floor. |
+| **לָרֶדֶת**       | *laredet*         | to go down, descend          | Opposite of לעלות. Also abstract (prices drop, to step down from a position).                             | **לרדת מהאוטובוס** – to get off the bus.                                                 |
+| **לִטְפּוֹס**     | *litpos*          | to climb                     | Physical climbing, usually by effort.                                                                     | **לטפס על ההר** – to climb the mountain.                                                 |
+| **לִפְנוֹת**      | *lifnot*          | to turn (direction)          | Turning physically or metaphorically (turning to someone).                                                | **לפנות שמאלה** – to turn left.                                                          |
