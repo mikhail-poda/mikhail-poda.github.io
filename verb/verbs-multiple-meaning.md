@@ -63,3 +63,4 @@
 | **לְהִתְעָרֵב** | to bet | to interfere, intervene |
 | **לְהָעִיר** | to wake someone | to comment |
 | **לְחַבֵּר** | to connect | to compose (e.g. book, music) |
+| **לְהַכִּיר** | to know (someone) | to present (someone) |
