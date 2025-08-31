@@ -25,6 +25,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Complex, Complicated](/adj/complex-complicated.md)
 - [Intelligence, Expertise](/adj/intelligence-expertise.md)
 - [Likely, Due](/adj/likely-due.md)
+- [Middle, Median](/adj/middle-median.md)
 - [Needed, Necessary](/adj/needed-necessary.md)
 - [Small, Big](/adj/small-big.md)
 

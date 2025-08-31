@@ -48,7 +48,6 @@
 | **לִנְהוֹג**    | *linhog*          | to drive, to conduct         | **הוא נוהג במכונית חדשה** – he drives a new car. |
 | **לִרְכּוֹב**    | *lirkov*          | to ride (animal or bicycle)  | **לרכוב על סוס** – to ride a horse. |
 
-
 ---
 
 ## Advancement & Return
