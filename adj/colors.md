@@ -1,12 +1,12 @@
 # Topic: Colors
 
-## Color-Related Words
-
-| Noun | Meaning | Adjective | Meaning |
-|--------------|--------------|--------------|--------------|
-| **צֶבַע** | color| **צִבְעוֹנִי** | colorful; tulip  |
-| **אוֹר** | light | **בָּהִיר** | light |
-| **חוֹשֶׁך** | darkness | **כֵּהֶה** | dark |
+| **Noun**   | **Meaning**     | **Adjective**  | **Meaning**                  |
+| ---------- | --------------- | -------------- | ---------------------------- |
+| **צֶבַע**    | color           | **צִבְעוֹנִי**    | colorful; tulip              |
+| **אוֹר**    | light           | **בָּהִיר**      | light, bright                |
+| **חוֹשֶׁךְ**   | darkness        | **חָשׁוּךְ**      | dark, deprived of light      |
+| **אֲפֵלָה**   | gloom, darkness | **אָפֵל**       | dark, gloomy, obscure        |
+| **חֲשֵׁכָה**   | darkness, dusk  | **כֵּהֶה**       | dim, dull, faint (not vivid) |
 
 ---
 

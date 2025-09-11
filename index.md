@@ -34,6 +34,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Absolutely, Certainly](/adv/absolutely-certainly.md)
 - [Actually, Really](/adv/actually-really.md)
 - [Except, Excluding](/adv/except-excluding.md)
+- [Maybe, Probably](/adv/maybe-probably.md)
 - [*Interrrogative*](/adv/interrogative.md)
   
 ## Nouns
@@ -64,6 +65,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Thing, Matter, Issue](/noun/thing-matter.md)
 - [Travel, Trip](/noun/travel-trip.md)
 - [Value, Cost](/noun/value-cost.md)
+- [View, Perspective](/noun/view-perspective.md)
 
 ## Prepositions
 
