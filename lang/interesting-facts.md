@@ -48,6 +48,23 @@ the **liked person is the subject**, and the one who likes is expressed indirect
 * German: **er gefällt mir** – *he pleases me*
 * Russian: **он мне нравится** – *he is pleasing to me*
 
+## Time Facing the Wrong Way
+
+One of the strangest features of Hebrew is the way it maps **time** and **space**.
+In English and most European languages, we think of the **future** as *ahead* and the **past** as *behind*.
+Hebrew inherited an **older worldview** where the opposite was true.
+
+The root **ק־ד־מ** means *in front, before, east*, 
+while the root **א־ח־ר** means *behind, after, late*.
+
+| **Root**          | **Spatial Meaning** | **Temporal Meaning** | **Spatial Examples**                                                                                                                                |
+| ----------------- | ------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ק־ד־מ**        | front, east         | before, previous     | **קָדִימָה** (*kadima*) – forward<br>**מוּקְדָּם** (*mukdam*) – early<br>**הַקּוֹדֵם** (*hakodem*) – the previous one<br>**קֶדֶם** (*kedem*) – antiquity, east |
+| **א־ח־ר**        | behind, backwards   | after, later         | **אָחוֹרָה** (*ahora*) – backward<br>**מְאוּחָר** (*meuchar*) – late<br>**אַחֲרוֹן** (*aharon*) – last, final<br>**אַחֲרֵי** (*acharei*) – after               |
+
+In ancient thought, the **past was in front of us** (visible, already known),
+while the **future was behind us** (hidden, not yet seen).
+
 ## "Water" Words with ט
 
 The letter **ט (Tet)** is one of the less commonly used letters in Hebrew,
