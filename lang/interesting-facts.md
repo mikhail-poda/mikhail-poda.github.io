@@ -48,22 +48,20 @@ the **liked person is the subject**, and the one who likes is expressed indirect
 * German: **er gefällt mir** – *he pleases me*
 * Russian: **он мне нравится** – *he is pleasing to me*
 
-## Time Facing the Wrong Way
+### Time Facing the Wrong Way
 
-One of the strangest features of Hebrew is the way it maps **time** and **space**.
-In English and most European languages, we think of the **future** as *ahead* and the **past** as *behind*.
-Hebrew inherited an **older worldview** where the opposite was true.
-
-The root **ק־ד־מ** means *in front, before, east*, 
-while the root **א־ח־ר** means *behind, after, late*.
+One interesting feature that Hebrew shares with several European languages is the way it links **time** and **space**.
+Across these languages, the same metaphor repeats: **front = earlier** and **behind = later**.
 
 | **Root**          | **Spatial Meaning** | **Temporal Meaning** | **Spatial Examples**                                                                                                                                |
 | ----------------- | ------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **ק־ד־מ**        | front, east         | before, previous     | **קָדִימָה** (*kadima*) – forward<br>**מוּקְדָּם** (*mukdam*) – early<br>**הַקּוֹדֵם** (*hakodem*) – the previous one<br>**קֶדֶם** (*kedem*) – antiquity, east |
 | **א־ח־ר**        | behind, backwards   | after, later         | **אָחוֹרָה** (*ahora*) – backward<br>**מְאוּחָר** (*meuchar*) – late<br>**אַחֲרוֹן** (*aharon*) – last, final<br>**אַחֲרֵי** (*acharei*) – after               |
 
-In ancient thought, the **past was in front of us** (visible, already known),
-while the **future was behind us** (hidden, not yet seen).
+* In English, *before* is both “in front of” and “earlier,” while *after* is “behind / later.”
+* In German, *vor* means “in front of / before,” and *nach* means “behind / after.”
+* In Russian, *перед* (*pered*) is “in front of / before,” while *после* (*posle*) is “after.”
+* In Italian, the connection is weaker: *prima* and *dopo* are only temporal, while *davanti* and *dietro* are only spatial.
 
 ## "Water" Words with ט
 
