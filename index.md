@@ -33,6 +33,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Absolutely, Certainly](/adv/absolutely-certainly.md)
 - [Actually, Really](/adv/actually-really.md)
+- [Although](/adv/although.md)
 - [Except, Excluding](/adv/except-excluding.md)
 - [Maybe, Probably](/adv/maybe-probably.md)
 - [*Interrrogative*](/adv/interrogative.md)
