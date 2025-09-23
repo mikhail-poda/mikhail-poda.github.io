@@ -23,6 +23,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Colors](/adj/colors.md)
 - [Common - Rare](/adj/common-rare.md)
 - [Complex, Complicated](/adj/complex-complicated.md)
+- [Forced, Compelled](/adj/forced-compelled.md)
 - [Intelligence, Expertise](/adj/intelligence-expertise.md)
 - [Likely, Due](/adj/likely-due.md)
 - [Middle, Median](/adj/middle-median.md)
