@@ -64,6 +64,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Show, Presentation](/noun/show-presentation.md)
 - [Skill, Ability](/noun/skill-ability.md)
 - [Space, Area](/noun/space-area.md)
+- [Summary, Conclusion](/noun/summary-conclusion.md)
 - [Task, Mission](/noun/task-mission.md)
 - [Thing, Matter, Issue](/noun/thing-matter.md)
 - [Travel, Trip](/noun/travel-trip.md)
