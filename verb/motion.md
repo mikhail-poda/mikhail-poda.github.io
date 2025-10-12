@@ -13,9 +13,10 @@
 
 | **Hebrew**   | **Transcription** | **Meaning**                | **Example**                                    |
 | ------------ | ----------------- | -------------------------- | ---------------------------------------------- |
-| **לַעֲקוֹף** | *la’akof*         | to bypass, overtake        | **לעקוף את הפקק** – to bypass the traffic jam. |
-| **לַעֲבוֹר** | *la’avor*         | to pass, cross, go through | **לעבור את הכביש** – to cross the street.      |
-| **לַחֲצוֹת** | *lachatzot*       | to cross, cut across       | **לחצות את הנהר** – to cross the river.        |
+| **לַעֲקוֹף** | *la’akof*         | to bypass, overtake        | **לעקוף את הפקק** – to bypass the traffic jam.        |
+| **לַעֲבוֹר** | *la’avor*         | to pass, cross, go through | **לעבור את הכביש** – to cross the street.             |
+| **לַחֲצוֹת** | *lachatzot*       | to cross, cut across       | **לחצות את הנהר** – to cross the river.               |
+| **לַחֲלוֹף** | *lakhlof*         | to pass by                 | **הרכבת חלפה בתחנה** – the train passed the station.  |
 
 ---
 
@@ -74,7 +75,7 @@
 | ----------------- | ----------------- | ------------------------------------ | ------------------ |
 | **לַעֲלוֹת**      | *la’alot*         | to go up, ascend              | **לטפס במדרגות ולעלות לקומה שנייה** – to climb the stairs and go up to the second floor. |
 | **לָרֶדֶת**       | *laredet*         | to go down, descend           | **לרדת מהאוטובוס** – to get off the bus.                                                 |
-| **לִטְפּוֹס**      | *litpos*          | to climb                      | **לטפס על ההר** – to climb the mountain.                                                 |
+| **לְטַפֵּס**       | *letapes*         | to climb                      | **לטפס על ההר** – to climb the mountain.                                                 |
 | **לִפְנוֹת**      | *lifnot*          | to turn (direction)           | **לפנות שמאלה** – to turn left.                                                          |
 
 ---
