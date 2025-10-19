@@ -88,6 +88,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Cancel, Remove](/verb/cancel-remove.md)
 - [Contain, Comprise](/verb/contain-comprise.md)
 - [Cut, Slice](/verb/cut-slice.md)
+- [Deny, Refuse](/verb/deny-refuse.md)
 - [Explain, Clarify](/verb/explain-clarify.md)
 - [Fear, Worry](/verb/fear-worry.md)
 - [Flying](/verb/flying.md)
