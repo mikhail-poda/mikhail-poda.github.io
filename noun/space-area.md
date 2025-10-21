@@ -5,6 +5,7 @@
 | **חָלָל** | *chalal* | space, outer space, empty space | Astronomy, physics, vast emptiness | **חלל החיצון** (*chalal hachitzon*) – outer space |  
 | **מֶרְחָב** | *merchav* | open/wide space | Physical vastness, freedom, personal space | **מרחב פתוח** (*merchav patuach*) – open space |  
 | **אֵזוֹר** | *ezor* | region, area, zone | Geography, administrative divisions, city areas | **אזור מגורים** (*ezor megurim*) – residential area |  
+| **רוֹבַע** | *rova* | district, quarter | Neighbourbood of a city | **הרובע היהודי** (*harova hayehudi*) – the Jewish Quarter |  
 | **שֶׁטַח** | *shetach* | territory, land, surface | Military, geography, real estate | **שטח בנוי** (*shetach banui*) – built-up area |  
 | **מִגזָר** | *migzar* | sector (social, economic) | Society, economy, population groups | **מגזר עסקי** (*migzar iski*) – business sector |  
 | **מָחוֹז** | *machoz* | district, province | Governmental administrative regions | **מחוז דרומי** (*machoz dromi*) – southern district |  
