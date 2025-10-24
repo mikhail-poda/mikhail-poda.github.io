@@ -97,6 +97,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Hit, Injure](/verb/hit-injure.md)
 - [Increase, Expand](/verb/increase-expand.md)
 - [Live, Dwell](/verb/live-dwell.md)
+- [Meet, Encounter](/verb/meet-encounter.md)
 - [Motion](/verb/motion.md)
 - [Need, Must](/verb/need-must.md)
 - [Propose, Recommend](/verb/propose-recommend.md)
@@ -109,6 +110,12 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [ר־שׁ־ם](/root/r-sh-m.md)
 - [XYXY](root/xyxy.md)
+
+## ToDo
+
+- List of professions
+- List of exeptions in nouns
+- List of patterns in verbs (like guttural sound in the root)
 
 ## About
 
