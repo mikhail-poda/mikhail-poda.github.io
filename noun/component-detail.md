@@ -28,11 +28,11 @@ There are two other important nouns:
 - **מַרְכִּיב** (*markív*) is both a noun meaning "ingredient" or "component" – and is also the masculine singular form of the verb **להַרְכִּיב** (*leharkiv*) – "to assemble" or "to compose". For example: **הוא מַרְכִּיב מחשבים** – *He assembles computers*  
 - There are two other important nouns:
 
-| **Hebrew**     | **Transcription** | **Meaning**             | **Example** |
+| **Hebrew**     | **Transcription** | **Meaning**              | **Example** |
 |----------------|-------------------|--------------------------|-------------|
-| **הַרְכָּבָה**   | *harkavá*          | assembly, composition     | **הרכבת מחשב** (*harkavat machshev*) – computer assembly |
-| **הֶרְכֵּב**     | *herkév*           | composition, structure    | **ההרכב הכימי** (*haherkév hakimi*) – the chemical composition |
-
+| **הַרְכָּבָה**      | *harkavá*          | assembly, composition     | **הרכבת מחשב** (*harkavat machshev*) – computer assembly |
+| **הֶרְכֵּב**       | *herkév*           | composition, structure    | **ההרכב הכימי** (*haherkév hakimi*) – the chemical composition |
+| **תִּרְכּוֹבֶת**     | *tirkòvet*         | (chemical) compound       | **התכונות הכימיות של תרכובת זו** - the chemical properties of this compound |
 The word "recipe" is derived from another root:
 
 - **מַתְכּוֹן** (*matkon*) - recipe, **מתכון לאסון** – recipe for disaster

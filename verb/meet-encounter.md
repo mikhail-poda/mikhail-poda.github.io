@@ -8,6 +8,8 @@
 | **לִפְגּוֹשׁ**       | *lifgosh*         | to meet (someone)                                                    | **מחר אפגוש את הלקוח.** – Tomorrow I’ll meet the client.             |
 | **לְהִיפָּגֵשׁ**      | *lehipagesh*      | to meet (by arrangement), to get together                            | **ניפגש בשעה שמונה בבית הקפה.** – We’ll meet at eight at the café.   |
 
+---
+
 ## Non-literal senses
 
 | **Hebrew**        | **Transcription** | **Meaning**                                      | **Example**                                                                                                   |
