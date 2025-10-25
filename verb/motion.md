@@ -33,11 +33,12 @@
 
 | **Hebrew**        | **Transcription** | **Meaning**                         | **Example**                                                |
 | ----------------- | ----------------- | ----------------------------------- | ---------------------------------------------------------- |
+| **לְסַיֵּר**      | *lesayer*         | to patrol, scout                    | **החיילים סיירו באזור** – the soldiers patrolled the area. |
+| **לְטַיֵּל**      | *letayel*         | to stroll, travel                   | **לטייל בפארק** – to stroll in the park.                   |
 | **לִנְדּוֹד**     | *lindod*          | to wander, roam                     | **הוא נדד ממקום למקום** – he wandered from place to place. |
 | **לְשׁוֹטֵט**     | *leshotet*        | to roam, stroll, browse             | **שוטטנו בעיר העתיקה** – we strolled in the Old City.      |
 | **לְהִסְתּוֹבֵב**   | *lehisto’vev*     | to turn around, hang around, wander | **הוא הסתובב בעיר** – he wandered around the city.         |
-| **לְסַיֵּר**      | *lesayer*         | to patrol, scout                    | **החיילים סיירו באזור** – the soldiers patrolled the area. |
-| **לְטַיֵּל**      | *letayel*         | to stroll, travel                   | **לטייל בפארק** – to stroll in the park.                   |
+| **לעשות סיבוב** | *la'asot sivuv* | to walk around                      | **הם החליטו לעשות סיבוב סביב האגם** - they decided to take a walk around the lake |
 
 ---
 

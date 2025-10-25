@@ -113,9 +113,12 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## ToDo
 
-- List of professions
-- List of exeptions in nouns
-- List of patterns in verbs (like guttural sound in the root)
+- professions
+- exeptions in nouns
+- patterns in verbs (like guttural sound in the root)
+- proverbs
+- expressions
+- tongue twisters 
 
 ## About
 
