@@ -123,8 +123,18 @@
 | **נְטִיָּה**      |    | tendency |  |
 | **מִסְגֶּרֶת**     |    | framework |  |
 | **יְעִילוּת**    | *ye'ilut*   | efficiency |   |
-| **שִׁימּוּשׁ**     |  |  use, usage  | | 
- 
+| **שִׁימּוּשׁ**     |    |  use, usage  | | 
+| **סָפֵק**       |    | doubt |  |
+| **צְדָקָה**      |    | justification |  |
+| **יִתְרוֹן**     |    | advantage, benefit |  |
+| **חִסָּרוֹן**     |    | disadvantage, drawback |  |
+| **סַף**        | *saf*                     | threshold                      | **סף גילוי.**                    |
+| **הֲכָּרָה**      | *hakarah*                 | consciousness, recognition          | **הכרה תפיסתית.**                |
+| **שָׁלָב**       |  | step, stage, phase |  |
+| **שְׁלִילָה**     |  | negation |  |
+| **שִׁכְפּוּל**     |  | replication, duplication |  |
+| **שִׁלּוּב**      |  | combination, integration |  |
+| **אַחְדוּת**     |
 
 ## todo
 
@@ -139,7 +149,5 @@
 | שְׁקִילוּת             | *shkilut*                 | deliberation, judiciousness    | **שקילות הדעת הכריעה.**          |
 | הַצְדָּקָה             | *hatzdakah*               | justification                  | **הצדקה אפיסטמית.**              |
 | הַצְמָדָה              | *hatsmadah*               | coupling, attachment           | **הצמדה בין תהליכים.**           |
-| הֲכָּרָה               | *hakarah*                 | cognition/recognition          | **הכרה תפיסתית.**                |
-| תְּבוּנָה / בִּינָה    | *tevunah / binah*         | reason, intellect              | **כוח התבונה.**                  |
+| תְּבוּנָה / בִּינָה     | *tevunah / binah*         | reason, intellect              | **כוח התבונה.**                  |
 | שִׁחְזוּר              | *shikhzur*                | replication/reproduction       | **שחזור ממצאים.**                |
-| סַף                    | *saf*                     | threshold                      | **סף גילוי.**                    |
