@@ -62,6 +62,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Origin, Source](/noun/origin-source.md)
 - [Path, Route](/noun/path-route.md)
 - [Permission, Authorization](/noun/permission-authorization.md)
+- [Product, Commodity](/noun/product-commodity.md)
 - [Research, Survey, Check](/noun/research-survey-check.md)
 - [Show, Presentation](/noun/show-presentation.md)
 - [Skill, Ability](/noun/skill-ability.md)
