@@ -109,7 +109,8 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Roots
 
 - [ר־שׁ־ם](/root/r-sh-m.md)
-- [XYXY](root/xyxy.md)
+- [Splitting, Spreading, and Separating](/root/pe-X-Y.md)
+- [XYXY](/root/xyxy.md)
 
 ## ToDo
 
@@ -126,4 +127,4 @@ Most Hebrew resources focus on vocabulary and grammar, but few compare similar w
 
 ---
 
-Last updated: 22. October 2025 • מיכאל רז
+Last updated: 26. October 2025 • מיכאל רז
