@@ -52,6 +52,10 @@
 | **מָבוֹא**          | *mavó*               | preface, introduction     |                                       |
 | **הַקְדָמָה**         | *hakdamá*            | preface, introduction     | **הקדמה המו"ל** – publisher’s preface |
 | **תוֹכֶן עִנְיָנִים**   | *tochen inyaním*     | table of contents         | **תוכן עניינים מפורט**              |
+| **הַקְדָּשָׁה**         | *hakdashà*           | dedication                |            |
+| **תּוֹדוֹת**         | *todot*              | acknowledgements          |            |
+| **מילון מוּנָּחִים** | *milon munachim*      | glossary                  |           |
+| **צִטּוּט**          | *tsitut*             | quotation, citation       |           |
 | **נִסְפָּח**          | *nispákh*            | appendix                  | **נספח א’**                           |
 | **הַעֲרַת שׁוּלַיִים**   | *he’arat shuláyim*   | footnote                  | **הערת שוליים 12**                   |
 | **הֵעַרְתָּ סִיּוּם**     | *he’arat siyum*      | endnote                   |                                       |
@@ -91,9 +95,9 @@
 | **עוֹרֵךְ לָשׁוֹן**             | *orékh lashón*          | copyeditor               | **עורך לשון מקצועי.**                |
 | **מַגִּיהַּ / מַגִּיהָה**          | *magía / magihá*        | proofreader              | **המגיה מצא טעויות דפוס.**          |
 | **מְאַיֵּר / מְאַיֶּרֶת**          | *me'ayér / me'ayerét*   | illustrator              | **מאיירת ספרי ילדים.**               |
-| **מְעַצֵּב עֲטִיפָה**            | *me'atzév atifá*        | cover designer           | **מעצב העטיפה.**                     |
+| **מְעַצֵּב עֲטִיפָה**            | *me'atsév atifá*        | cover designer           | **מעצב העטיפה.**                     |
 | **מַדְפִּיס / מַדְפִּיסָה**        | *madpís / madpisá*      | printer (operator)       | **המדפיס מפעיל את המכונה.**         |
-| **מַפִּיץ / מַפִּיצָה**          | *mafíts / mafitzá*      | distributor              | **המפיץ מסר לחנויות.**               |
+| **מַפִּיץ / מַפִּיצָה**          | *mafíts / mafitsá*      | distributor              | **המפיץ מסר לחנויות.**               |
 | **סוֹכֵן סְפָרוּתִי**           | *sochén sfarutí*        | literary agent           | **סוכן ספרותי מייצג את הסופרת.**    |
 | **מַעֲרֶכֶת (כְּתַב־עֵת/מוֹל)**    | *ma'arekhét*            | editorial staff, board   | **מערכת כתב־העת.**                   |
 | **עוֹרֵךְ רָאשִׁי**             | *orékh rashí*           | editor-in-chief           | **העורך הראשי אישר לפרסום.**        |

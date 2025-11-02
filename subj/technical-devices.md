@@ -2,14 +2,16 @@
 
 | **Hebrew**          | **Transcription** | **Meaning**                          | **Example**                                           |
 | ------------------- | ----------------- | ------------------------------------ | ----------------------------------------------------- |
+| **מָנוֹעַ**            | *manóaʿ*          | engine; motor                        | **מנוע דיזל** – a diesel engine                       |
+| **מנוע בעירה פנימית** |                | internal combustion engine           |       |
+| **מוֹנוֹעַ בּוּכְנָה**    |                   | piston engine                        |       |
 | **סִילוֹן**           | *silón*           | jet (stream); jet (aviation context) | **סילון מים בלחץ גבוה** – a high-pressure water jet   |
 | **מֶדְחֵף**            | *madchéf*         | propeller; impeller                  | **מדחף הספינה נשבר** – the ship’s propeller broke     |
 | **מַדְחֵס**            | *madchés*         | compressor                           | **מדחס אוויר תעשייתי** – an industrial air compressor |
 | **מַשְׁאַבָּה**           | *mash'evá*        | pump                                 | **משאבת דלק** – a fuel pump                           |
-| **מָנוֹעַ**            | *manóaʿ*          | engine; motor                        | **מנוע דיזל** – a diesel engine                       |
 | **תֵּיבַת הִילּוּכִים**   | *teivát hiluchím* | gearbox; transmission                | **תיבת הילוכים אוטומטית** – an automatic transmission |
 | **מְסַנֵּן**            | *mesanén*         | filter                               | **מסנן שמן סתום.**           |
-| **גַּלְגַּל שִׁינַּייִם**    | *galgál shináyim*  | gear (cogwheel)                      | **גלגל שיניים שבור.**        |
+| **גַּלְגַּל שִׁינַּייִם**    | *galgál shináyim* | gear (cogwheel)                      | **גלגל שיניים שבור.**        |
 
 ---
 

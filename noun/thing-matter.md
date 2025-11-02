@@ -11,3 +11,4 @@
 | **רַעְייוֹן**  | *ra’ayon*         | idea, concept          | General idea, plan, or concept.                                            | **רעיון חדש** – a new idea.                   |
 | **שְׁאֵלָה**    | *she’ela*         | question, issue        | Literal question or figurative issue to be solved.                         | **שאלה משפטית** – a legal issue.              |
 | **בְּעָיָה**    | *be’aya*          | problem, difficulty    | Standard everyday word for a problem (practical or abstract).              | **בעיה חברתית** – a social problem.           |
+| **תְּפִיסָה**   | *tfisa*           | concept; preception; catch | cognitive perception/mental grasp                                      | **תפיסה תיאורטית חדשה** - new thoretical concept |

@@ -86,7 +86,7 @@
 | **הֶמְשֵׁכִיּוּת**   |    | continuity |   |
 | **נְתוּנִים**    |    | data |   |
 | **מִיקּוּד**     |    | focus |   |
-| **הַשְׁעָרָה**     |    | hypothesis |   |
+| **הַשְׁעָרָה**     |    | hypothesis, thory, conjecture |   |
 | **תַּחֲזִית**     |    | forecast, prediction |    |
 | **סיבה**      | *siba*            | reason, cause              | **סיבה טובה** - good reason |
 | **גורם**      | *gorem*           | factor, cause (technical, analytical) | **גורם סיכון** - risk factor |
@@ -120,7 +120,7 @@
 | **תְּכוּנָה**     |    | characteristic, feature, trait, property |  |
 | **סֵמֶל**       |    | symbol |  |
 | **תֶּקֶן**       |    | standard |  |
-| **נְטִיָּה**      |    | tendency |  |
+| **נְטִיָּה**      |    | tendency, predisposition |  |
 | **מִסְגֶּרֶת**     |    | framework |  |
 | **יְעִילוּת**    | *ye'ilut*   | efficiency |   |
 | **שִׁימּוּשׁ**     |    |  use, usage  | | 
@@ -134,7 +134,27 @@
 | **שְׁלִילָה**     |  | negation |  |
 | **שִׁכְפּוּל**     |  | replication, duplication |  |
 | **שִׁלּוּב**      |  | combination, integration |  |
-| **אַחְדוּת**     |
+| **אַחְדוּת**     | *achdut* | unity |  |
+| **תְּפִיסָה**     | *tfisa*   | concept; preception; catch | **תפיסה תיאורטית חדשה** - new thoretical concept |
+| **הֶקְשֵׁר**      | *heksher* | context  |  |
+| **רָמָה**       |  | level, degree |   |
+| **מַדְרֵגָה**     |  | degree; step  |  |
+| **מוּנָּח**      |  | term, specific word |   |
+| **הַשְׁווָאָה**    |  | comparison, analogy |   |
+| **דְּפוּס**      |  | pattern             |   |
+| **מִידָּה**      |  | size, measure, extent |  |
+| **טִוּוּחַ**      |  | range, scope, reach |  |
+| **מֵידָע**      |  | information, data |  |
+| **מָקוֹר**      |  | source, origin    |  |
+| **מַאֲמָץ**      |  | effort            |  |
+| **כַּמּוּת**      |  | quantity, amount  |  |
+| **אֵיכוּת**     |  | quality           |  |
+| **מְגַמָּה**      |  | trend, tendency   |  |
+| **כִּיוּוּן**     |  | direction         |  |
+| **תּוֹחֶלֶת**     |  | expectancy, span  |  |
+| **טְווָח**      |  | range             |  |
+
+
 
 ## todo
 
