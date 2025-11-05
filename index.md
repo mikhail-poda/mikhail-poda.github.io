@@ -47,6 +47,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Box, Container](/noun/box-container.md)
 - [Cause, Reason](/noun/cause-reason.md)
 - [Component, Detail](/noun/component-detail.md)
+- [Danger, Risk](/noun/danger-risk.md)
 - [Device, Tool](/noun/device-tool.md)
 - [Difference, Distinction](/noun/difference-distinction.md)
 - [Dispute, Conflict](/noun/dispute-conflict.md)
