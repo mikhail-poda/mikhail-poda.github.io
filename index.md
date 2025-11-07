@@ -115,6 +115,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Word Lists
 
+- [Abstract Concepts](/subj/abstract-concepts.md)
 - [IDF Ranks](/subj/idf-ranks.md)
 - [Technical Devices](/subj/technical-devices.md)
 - [Text, Book, Publishing](/subj/text-book.md)
