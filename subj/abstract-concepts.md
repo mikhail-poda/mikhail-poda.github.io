@@ -1,5 +1,8 @@
 # Topic: Abstract Scientific & Analytic Concepts
 
+Scope note: native Hebrew terms only; international/loanwords commonly used in Hebrew
+ (e.g., פונקציה, מודל, אלגוריתם, דיאגרמה) are excluded.
+
 ## Ontology (Identity, Existence, Modality)
 
 | **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
@@ -10,6 +13,11 @@
 | **אֶפְשָׁרוּת**  | *efsharut*    | possibility | **אפשרות לוגית.**             |
 | **הֶכְרֵחַ**    | *hechre'ach*  | necessity   | **הכרח מתמטי.**               |
 | **מְצִיאוּת**  | *metziut*     | reality     | **טיב המציאות.**              |
+| **נוֹכְחוּת**  | *nochechut*   | presence      | **נוכחות גורם במערכת.**      |
+| **היעדר**   | *he'eder*     | absence       | **העדר ראיות אינו ראיה להיעדר.** |
+| **חוסר**    | *choser*      | lack, deficiency    | **חוסר איזון.**           |
+| **ריקנות**  | *rekanut*     | emptiness, voidness | **תחושת ריקנות קיומית.**      |
+
 
 ---
 
@@ -114,6 +122,7 @@
 
 | **Hebrew**    | **Transcription** | **Meaning**     | **Example**      |
 | ------------- | ------------- | ------------------- | ----------------------------- |
+| **הַשְׁעָרָה**     | *hash'ara*    | hypothesis, conjecture | **השערה מדעית.**     |
 | **הַנָּחָה**      | *hanacha*     | assumption         | **הנחת עבודה.**               |
 | **הוֹכָחָה**     | *hochacha*    | proof              | **הוצגה הוכחה מלאה.**         |
 | **מַסְקָנָה**     | *maskana*     | conclusion         | **המסקנה מתבקשת מן הנתונים.** |
@@ -148,6 +157,7 @@
 | **פַּרְשָׁנוּת**  | *parshanut*   | interpretation               | **פרשנות מדויקת של נתונים.**    | 
 | **עֵרֶךְ**     | *erech*       | value                        | **סולם ערכים.**             |
 | **עוּבְדָּה**   | *uvda*        | fact                         | **עובדה ניתנת לבדיקה.**     |
+| **רְאָיָה**    | *re'aya*      | evidence                     | **ראיות אמפיריות תומכות בהשערה** |
 
 ---
 
@@ -158,7 +168,6 @@
 | **תֵּיאוּר**  | *te'ur*       | description            | **תיאור ללא הסבר.**  |
 | **הֶסְבֵּר**   | *hesber*      | explanation            | **הסבר סיבתי.**      |
 | **נִיבּוּי**  | *nibuy*       | prediction             | **ניבוי תוצאות.**    |
-| **הַשְׁעָרָה**  | *hash'ara*    | hypothesis, conjecture | **השערה מדעית.**     |
 | **תַּחֲזִית**  | *tachazit*    | forecast               | **תחזית מזג אוויר.** |
 
 ---
@@ -197,7 +206,7 @@
 | ---------- | ------------- | -------------- | ---------------- |
 | **שִׁיטָה**  | *shita*       | method, system | **שיטה מדעית.**  |
 | **גִּישָׁה**  | *gisha*       | approach       | **גישה חדשנית.** |
-| **אוֹפֶן**  | *ofan*        | manner         | **אופן פעולה.**  |
+| **אוֹפֶן**  | *ofen*        | manner         | **אופן פעולה.**  |
 | **סִגְנוֹן** | *signon*      | style          | **סגנון ניתוח.** |
 
 ---
