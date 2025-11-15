@@ -2,9 +2,11 @@
 
 ## YouTube Channels
 
-[הדרך הקלה](https://www.youtube.com/@ezway) Interesting and intellectual content presented in simple language.
+[הדרך הקלה](https://www.youtube.com/@ezway) Interesting and intellectual content presented in simple language. Usual length about 10 minutes.
 
-[באים אל הפרופסורים](https://www.youtube.com/@AlexTseitlin) Features many interviews and lectures.
+[באים אל הפרופסורים](https://www.youtube.com/@AlexTseitlin) Features many interviews and lectures. Usual length about 40 minutes.
+
+[TED-Ed - השארו סקרנים](https://www.youtube.com/@TEDEdHebrew) TED in Hebrew. Usual length about 5 minutes.
 
 ## Podcasts
 
