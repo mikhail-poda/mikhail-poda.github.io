@@ -99,6 +99,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Guess, Assume](/verb/guess-assume.md)
 - [Hit, Injure](/verb/hit-injure.md)
 - [Increase, Expand](/verb/increase-expand.md)
+- [Kill, Murder](/verb/kill-murder.md)
 - [Live, Dwell](/verb/live-dwell.md)
 - [Meet, Encounter](/verb/meet-encounter.md)
 - [Motion](/verb/motion.md)

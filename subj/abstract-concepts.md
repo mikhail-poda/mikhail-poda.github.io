@@ -221,6 +221,7 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **שִׁכְפּוּל**   | *shikpul*     | replication, duplication    | **שכפול ניסוי.**          |
 | **תַּעֲרוֹבֶת**  | *ta'arovet*   | mixture, blend              | **תערובת כימית.**         |
 | **עִיצּוּב**   | *itzuv*       | design                      | **עיצוב הממשק.**          |
+| **רֶכֶב**     | *rechev*      | composition                  | **הֶרְכֵּב כִּימִי.**          |
 
 ---
 
