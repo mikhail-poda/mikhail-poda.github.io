@@ -38,7 +38,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Although](/adv/although.md)
 - [Except, Excluding](/adv/except-excluding.md)
 - [Maybe, Probably](/adv/maybe-probably.md)
-- [*Interrrogative*](/adv/interrogative.md)
+- [*Interrogative*](/adv/interrogative.md)
   
 ## Nouns
 
@@ -65,7 +65,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Product, Commodity](/noun/product-commodity.md)
 - [Research, Survey, Check](/noun/research-survey-check.md)
 - [Show, Presentation](/noun/show-presentation.md)
-- [SIlence](/noun/silence.md)
+- [Silence](/noun/silence.md)
 - [Skill, Ability](/noun/skill-ability.md)
 - [Space, Area](/noun/space-area.md)
 - [Summary, Conclusion](/noun/summary-conclusion.md)
