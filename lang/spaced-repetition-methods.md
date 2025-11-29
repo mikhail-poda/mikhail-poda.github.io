@@ -83,3 +83,18 @@ The index-based scheduling method eliminates overdue backlogs, seamlessly integr
 ## Lessons Learned: Simplicity Improves Learning
 
 Another key insight from using both apps was that displaying less information led to better learning outcomes. Initially, I included extra details such as synonyms and related root words, assuming they would reinforce memory. However, I found that these additional elements often distracted from active recall and the quick assessment of word knowledge. By simplifying the learning process, throughput increased at least twofold, while the cognitive load for each new word decreased, making learning more efficient and less mentally taxing.
+
+# TODO
+
+## About learning
+
+- Differnt complex words need different approaches
+- It is ok to have a learning approach that workds on 90% ow words, the "unlearnable" words must be first identified as such
+
+## Further Learning Techniques
+
+### Multiple choice
+- take 2-4 similar sounding words, which is what
+
+### Inverting
+- instead of a Hebrew word with few English translation - single English word with few Hebrew translations

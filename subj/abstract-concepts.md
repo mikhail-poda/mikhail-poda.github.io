@@ -146,7 +146,7 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **Hebrew**   | **Transcription** | **Meaning**     | **Example**      |
 | ------------ | ------------ | ---------------------------- | --------------------------- |
 | **מוּשָׂג**    | *musag*       | concept                      | **מושג המקריות.**           |
-| **מוּנָּח**    | *munach*      | term                         | **מונח טכני מדויק.**        |
+| **מוּנָּח**    | *munach*      | term<br/>(also: placed on)   | **מונח טכני מדויק.**        |
 | **הֶקְשֵׁר**    | *heksher*     | context                      | **הקשר היסטורי.**           |
 | **יְדִיעָה**   | *yedi'a*      | knowledge                    | **גבולות הידיעה.**          |
 | **הֲבָנָה**    | *havana*      | understanding                | **הבנת הטקסט.**             |
