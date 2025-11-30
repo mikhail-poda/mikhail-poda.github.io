@@ -102,7 +102,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Kill, Murder](/verb/kill-murder.md)
 - [Live, Dwell](/verb/live-dwell.md)
 - [Meet, Encounter](/verb/meet-encounter.md)
-- [Motion](/verb/motion.md)
+- [*Motion*](/verb/motion.md)
 - [Need, Must](/verb/need-must.md)
 - [Propose, Recommend](/verb/propose-recommend.md)
 - [See, Watch](/verb/see-watch.md)

@@ -326,8 +326,11 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 
 ## Scope, Limits & Approximation
 
-| **Hebrew**      | **Transcription** | **Meaning**     | **Example**    |
-| -------- | ------------- | --------------- | ------------------------- |
-| **הֶיקֵּף** | *hekef*       | scope, extent   | **היקף המחקר הוגבל.**   |
-| **גְּבוּל** | *gvul*        | limit, boundary | **גבול השיטה ברור.**    |
-| **קִרּוּב** | *kiruv*       | approximation   | **פתרון בקירוב ראשון.** |
+| **Hebrew**  | **Transcription** | **Meaning**     | **Example**    |
+| --------- | ------------- | --------------- | ------------------------- |
+| **הֶיקֵּף**  | *hekef*       | scope, extent   | **היקף המחקר הוגבל.**   |
+| **גְּבוּל**  | *gvul*        | limit, boundary | **גבול השיטה ברור.**    |
+| **קִרּוּב**  | *kiruv*       | approximation   | **פתרון בקירוב ראשון.** |
+| **אִילּוּץ** | *ilutz*       | constraint      | **אילוץ מפתח זר**       |
+| **מֶחְדָּל**  | *mechdal*     | default (value) | **הגדר את ערך ברירת המחדל** |
+| **הַפְנָיָה** | *hafnaya*     | reference       | **הֶפְנֵיָה מַעְגָּלִית**        |
