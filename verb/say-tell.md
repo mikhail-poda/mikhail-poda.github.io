@@ -21,7 +21,7 @@
 | **לְהִתְוַכֵּחַ**    | *lehitvakéach*    | to argue, debate          | **הם התווכחו על פוליטיקה.** |
 | **לְפַטְפֵּט**     | *lepatpét*        | to chat, chatter          | **הם פטפטו כל הערב.**       |
 | **לְקַשְׁקֵשׁ**     | *lekashkésh*      | to babble, talk nonsense  | **הוא מקשקש שטויות.**       |
-| **לִפְנוֹת**     | *lifnot*          | to speak to, apporach, address<br/>to turn  | **לפנות אל הקהל.**    |
+| **לִפְנוֹת**     | *lifnot*          | to speak to, approach, address;<br/>(also: to turn)  | **לפנות אל הקהל.**    |
 
 ---
 
