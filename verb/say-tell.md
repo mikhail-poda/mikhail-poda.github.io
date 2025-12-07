@@ -8,6 +8,7 @@
 | **לוֹמַר**     | *lomár*           | to say, tell, mean | **הוא אמר לי.**          |
 | **לְהַגִּיד**    | *lehagíd*         | to say, tell       | **אני רוצה להגיד משהו.** |
 | **לְסַפֵּר**     | *lesapér*         | to tell, narrate   | **לספר סיפור.**          |
+| **לִנְאוֹם**    | *lin'om*          | to give a speech   | **לנאום בפני הקהל**      |
 
 ---
 
@@ -19,7 +20,8 @@
 | **לָדוּן**      | *ladún*           | to discuss                | **לדון בנושא.**             |
 | **לְהִתְוַכֵּחַ**    | *lehitvakéach*    | to argue, debate          | **הם התווכחו על פוליטיקה.** |
 | **לְפַטְפֵּט**     | *lepatpét*        | to chat, chatter          | **הם פטפטו כל הערב.**       |
-| **לְקַשְׁקֵשׁ**     | *lekashkésh*      | to babble, talk nonsense | **הוא מקשקש שטויות.**       |
+| **לְקַשְׁקֵשׁ**     | *lekashkésh*      | to babble, talk nonsense  | **הוא מקשקש שטויות.**       |
+| **לִפְנוֹת**     | *lifnot*          | to speak to, apporach, address<br/>to turn  | **לפנות אל הקהל.**    |
 
 ---
 
