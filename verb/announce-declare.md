@@ -10,6 +10,9 @@
 | **לִמְסוֹר**     | *limsór*          | to deliver a message                 | **הוא מסר לי את החדשות** – He passed the news to me.                              |
 | **לְדַוֵּוחַ**     | *leda'veach*      | to report                            | **הוא דיווח על הבעיה למנהל** – He reported the problem to the manager.            |
 | **לְתַקְשֵׁר**     | *letaksér*        | to communicate                       | **הארגון לא תקשר את ההחלטה.** |
+| **לְהוֹדוֹת**    | *lehodot*         | to admit, acknowledge, confess; to thank | **לְהוֹדוֹת בְּאַשְׁמָה.** – To plead guilty |
+
+Note: verbs **לְהוֹדִיעַ** (to inform) and **לְהוֹדוֹת** (to admit) have similar sound.
 
 ---
 
