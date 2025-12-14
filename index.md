@@ -94,6 +94,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Contain, Comprise](/verb/contain-comprise.md)
 - [Cut, Slice](/verb/cut-slice.md)
 - [Deny, Refuse](/verb/deny-refuse.md)
+- [Dicover, Invent](/verb/discover-invent.md)
 - [Explain, Clarify](/verb/explain-clarify.md)
 - [Fear, Worry](/verb/fear-worry.md)
 - [Flying](/verb/flying.md)
