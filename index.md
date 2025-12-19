@@ -44,40 +44,60 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
   
 ## Nouns
 
-- [Attack, Strike](/noun/attack-strike.md)
+### Abstract
+
 - [Amount, Quantity](/noun/amount-quantity.md)
-- [Box, Container](/noun/box-container.md)
 - [Cause, Reason](/noun/cause-reason.md)
-- [Component, Detail](/noun/component-detail.md)
-- [Danger, Risk](/noun/danger-risk.md)
-- [Device, Tool](/noun/device-tool.md)
 - [Difference, Distinction](/noun/difference-distinction.md)
-- [Dispute, Conflict](/noun/dispute-conflict.md)
 - [Efficiency, Productivity](/noun/efficiency-productivity.md)
-- [Exam, Test](/noun/exam-test.md)
-- [Experience](/noun/experience.md)
-- [Feeling, Emotion](/noun/feeling-emotion.md)
 - [Goal, Aim, Purpose](/noun/goal-aim-purpose.md)
-- [Grief, Sadness](/noun/grief-sadness.md)
-- [Love, Passion](/noun/love-passion.md)
-- [Meeting, Gathering](/noun/meeting-gathering.md)
-- [Nation](/noun/nation.md)
 - [Origin, Source](/noun/origin-source.md)
-- [Path, Route](/noun/path-route.md)
-- [Permission, Authorization](/noun/permission-authorization.md)
-- [Product, Commodity](/noun/product-commodity.md)
-- [Research, Survey, Check](/noun/research-survey-check.md)
-- [Show, Presentation](/noun/show-presentation.md)
-- [Silence](/noun/silence.md)
-- [Skill, Ability](/noun/skill-ability.md)
 - [Space, Area](/noun/space-area.md)
 - [Summary, Conclusion](/noun/summary-conclusion.md)
-- [Sunrise, Sunset](/noun/sunrise-sunset.md)
-- [Task, Mission](/noun/task-mission.md)
 - [Thing, Matter, Issue](/noun/thing-matter.md)
-- [Travel, Trip](/noun/travel-trip.md)
 - [Value, Cost](/noun/value-cost.md)
+
+### Conflict
+
+- [Attack, Strike](/noun/attack-strike.md)
+- [Dispute, Conflict](/noun/dispute-conflict.md)
+- [Danger, Risk](/noun/danger-risk.md)
+
+### Education
+
+- [Exam, Test](/noun/exam-test.md)
+- [Research, Survey, Check](/noun/research-survey-check.md)
+- [Skill, Ability](/noun/skill-ability.md)
+
+### Emotional
+
+- [Experience](/noun/experience.md)
+- [Feeling, Emotion](/noun/feeling-emotion.md)
+- [Grief, Sadness](/noun/grief-sadness.md)
+- [Love, Passion](/noun/love-passion.md)
+
+### Nature
+
+- [Sunrise, Sunset](/noun/sunrise-sunset.md)
+
+### Social
+
+- [Meeting, Gathering](/noun/meeting-gathering.md)
+- [Nation](/noun/nation.md)
+- [Permission, Authorization](/noun/permission-authorization.md)
+- [Show, Presentation](/noun/show-presentation.md)
+- [Silence](/noun/silence.md)
+- [Task, Mission](/noun/task-mission.md)
+- [Travel, Trip](/noun/travel-trip.md)
 - [View, Perspective](/noun/view-perspective.md)
+
+### Technical
+
+- [Box, Container](/noun/box-container.md)
+- [Component, Detail](/noun/component-detail.md)
+- [Device, Tool](/noun/device-tool.md)
+- [Path, Route](/noun/path-route.md)
+- [Product, Commodity](/noun/product-commodity.md)
 
 ## Prepositions
 
