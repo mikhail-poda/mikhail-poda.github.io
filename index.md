@@ -86,30 +86,48 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Verbs
 
+### Change
+
 - [Adapt, Adjust](/verb/adapt-adjust.md)
+- [Discover, Invent](/verb/discover-invent.md)
+- [Update, Improve](/verb/update-improve.md)
+
+### Communication
+
 - [Announce, Declare](/verb/announce-declare.md)
-- [Bathe, Wash](/verb/bathe-wash.md)
-- [Break, Crash](/verb/break-crash.md)
-- [Cancel, Remove](/verb/cancel-remove.md)
-- [Contain, Comprise](/verb/contain-comprise.md)
-- [Cut, Slice](/verb/cut-slice.md)
 - [Deny, Refuse](/verb/deny-refuse.md)
-- [Dicover, Invent](/verb/discover-invent.md)
 - [Explain, Clarify](/verb/explain-clarify.md)
-- [Fear, Worry](/verb/fear-worry.md)
-- [Flying](/verb/flying.md)
 - [Guess, Assume](/verb/guess-assume.md)
-- [Hit, Injure](/verb/hit-injure.md)
-- [Increase, Expand](/verb/increase-expand.md)
-- [Kill, Murder](/verb/kill-murder.md)
+- [Mention, Refer](/verb/mention-refer.md)
+- [Propose, Recommend](/verb/propose-recommend.md)
+- [Say, Tell](/verb/say-tell.md)
+
+### Human Activity
+
+- [Bathe, Wash](/verb/bathe-wash.md)
+- [Fear, Worry](/verb/fear-worry.md)
 - [Live, Dwell](/verb/live-dwell.md)
 - [Meet, Encounter](/verb/meet-encounter.md)
-- [*Motion*](/verb/motion.md)
 - [Need, Must](/verb/need-must.md)
-- [Propose, Recommend](/verb/propose-recommend.md)
 - [See, Watch](/verb/see-watch.md)
-- [Say, Tell](/verb/say-tell.md)
-- [Update, Improve](/verb/update-improve.md)
+
+### Negative
+
+- [Cancel, Remove](/verb/cancel-remove.md)
+- [Break, Crash](/verb/break-crash.md)
+- [Hit, Injure](/verb/hit-injure.md)
+- [Kill, Murder](/verb/kill-murder.md)
+
+### Technical
+
+- [Contain, Comprise](/verb/contain-comprise.md)
+- [Cut, Slice](/verb/cut-slice.md)
+- [Increase, Expand](/verb/increase-expand.md)
+
+### Broad Collections
+
+- [*Verbs related to Flying*](/verb/flying.md)
+- [*Motion Verbs*](/verb/motion.md)
 - [*Verbs with Multiple Meanings*](/verb/verbs-multiple-meaning.md)
 
 ## Roots
