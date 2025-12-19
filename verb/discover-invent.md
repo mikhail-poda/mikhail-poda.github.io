@@ -10,3 +10,5 @@
 | **לְפַתֵּחַ**        | *lefatéach*       | to develop (something)                    |
 | **לְהִתְפַּתֵּחַ**      | *lehitpatéach*    | to develop, evolve (by itself)         |
 | **לִפְתּוֹר**       | *liftór*          | to solve, resolve                      |
+| **לְבָרֵר**        | *levarer*         | to find out, clarify                    |
+| **לְהַבְהִיר**      | *lehavhir*        | to clarify                      |
