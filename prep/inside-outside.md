@@ -1,12 +1,12 @@
 # Topic: Inside, Outside
 
-| **Function**                       | **Inside**                                       | **Outside**                                             |
-|------------------------------------|--------------------------------------------------|----------------------------------------------------------|
-| **Adverb**    | **בִּפְנִים** (*bifnim*) – I'm inside             | **בַּחוּץ** (*bachutz*) – He's outside                   |
-| **Directional Adverb**  | **פְּנִימָה** (*pnimah*) – inward              | **הַחוּצָה** (*hachutzah*) – outward                     |
-| **Preposition**       | **בְּתוֹךְ** (*betoch*) – inside (of)            | **מִחוּץ לְ** (*michutz le-*) – outside (of)            |
-| **Directional Preposition**  | **אֶל תּוֹךְ, לְתוֹךְ** (*el toch, letoch*) – into                     | -     |
-| **Adjective**                | **פְּנִימִי** (*pnimi*) – inner                   | **חִיצוֹנִי** (*chitzoni*) – outer                       |
+| **Function**                | **Inside**                                  | **Outside**                                  |
+|-----------------------------|--------------------------------------------|-----------------------------------------------|
+| **Adverb**                  | **בִּפְנִים** (*bifnim*) – I'm inside          | **בַּחוּץ** (*bachutz*) – He's outside          |
+| **Directional Adverb**      | **פְּנִימָה** (*pnimah*) – inward              | **הַחוּצָה** (*hachutzah*) – outward            |
+| **Preposition**             | **בְּתוֹךְ** (*betoch*) – inside (of)          | **מִחוּץ לְ־** (*michutz le-*) – outside (of)    |
+| **Directional Preposition** | **לְתוֹךְ ה־** (*letoch ha-*) – into   | -     |
+| **Adjective**               | **פְּנִימִי** (*pnimi*) – inner                 | **חִיצוֹנִי** (*chitzoni*) – outer             |
 
 ## Example for “Inside”
 
