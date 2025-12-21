@@ -74,6 +74,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Experience](/noun/experience.md)
 - [Feeling, Emotion](/noun/feeling-emotion.md)
 - [Grief, Sadness](/noun/grief-sadness.md)
+- [Joy, Pleasure](/noun/joy-pleasure.md)
 - [Love, Passion](/noun/love-passion.md)
 
 ### Nature
