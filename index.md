@@ -42,6 +42,10 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Soon](adv/soon.md)
 - [*Interrogative*](/adv/interrogative.md)
   
+## Conjunctions
+
+- [In Order To](/conj/in-order-to.md)
+
 ## Nouns
 
 ### Abstract
