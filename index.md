@@ -117,6 +117,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Adapt, Adjust](/verb/adapt-adjust.md)
 - [Discover, Invent](/verb/discover-invent.md)
+- [Take Place](/verb/take-place.md)
 - [Update, Improve](/verb/update-improve.md)
 
 ### Communication
