@@ -112,8 +112,8 @@ as the first root letter in many verbs that belong to the semantic field of **br
 | **לְפַגֵּר** | to lag behind | פ־ג־ר | **מְפַגֵּר** – retarded person (slang) |
 | **לְהַפְלוֹת** | to discriminate | פ־ל־ה | **אַפְלָיָה** – discrimination |
 | **לְהַפְרִיךְ** | to disprove, refute, debunk |  פ־ר־ך | **פָּרִיךְ** – crispy, crunchy<br>**פרך** – hard labour |
-| **לְהָפֵר** | to break (a promise, law) | פ־ר־ר | **פֵּירוּר** – (bread) crumb<br>**הֲפָרָה** – violation, breach (of promise, law) |
-| **לִפְסוֹל** | to rule out, disqualify | פ־ס־ל | **פֶּסֶל** – statue |
+| **לְהָפֵר** | to break (a contract, promise, law) | פ־ר־ר | **פֵּירוּר** – (bread) crumb<br>**הֲפָרָה** – violation, breach (of promise, law) |
+| **לִפְסוֹל** | to rule out, disqualify | פ־ס־ל | **פֶּסֶל** – statue<br>**פְּסוֹלֶת** - waste, debris |
 | **לְהִתְפַּשֵּׁר** | to compromise | פ־שׁ־ר | **פְּשָׁרָה** – compromise<br>**פּוֹשֵׁר** – lukewarm |
 
 ---
