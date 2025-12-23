@@ -129,7 +129,6 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Guess, Assume](/verb/guess-assume.md)
 - [Mention, Refer](/verb/mention-refer.md)
 - [Propose, Recommend](/verb/propose-recommend.md)
-- [Recognize](/verb/recognize.md)
 - [Say, Tell](/verb/say-tell.md)
 
 ### Human Activity
@@ -139,6 +138,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Live, Dwell](/verb/live-dwell.md)
 - [Meet, Encounter](/verb/meet-encounter.md)
 - [Need, Must](/verb/need-must.md)
+- [Recognize](/verb/recognize.md)
 - [See, Watch](/verb/see-watch.md)
 
 ### Negative
