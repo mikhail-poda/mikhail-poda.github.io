@@ -36,6 +36,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Absolutely, Certainly](/adv/absolutely-certainly.md)
 - [Actually, Really](/adv/actually-really.md)
 - [Although](/adv/although.md)
+- [Clearly, Explicitly](/adv/clearly-explicitly.md)
 - [Except, Excluding](/adv/except-excluding.md)
 - [Maybe, Probably](/adv/maybe-probably.md)
 - [Particularly, Especially](adv/particularly-especially.md)
@@ -128,6 +129,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Guess, Assume](/verb/guess-assume.md)
 - [Mention, Refer](/verb/mention-refer.md)
 - [Propose, Recommend](/verb/propose-recommend.md)
+- [Recognize](/verb/recognize.md)
 - [Say, Tell](/verb/say-tell.md)
 
 ### Human Activity
