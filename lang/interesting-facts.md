@@ -48,27 +48,12 @@ the **liked person is the subject**, and the one who likes is expressed indirect
 * German: **er gefällt mir** – *he pleases me*
 * Russian: **он мне нравится** – *he is pleasing to me*
 
-### Time Facing the Wrong Way
-
-One interesting feature that Hebrew shares with several European languages is the way it links **time** and **space**.
-Across these languages, the same metaphor repeats: **front = earlier** and **behind = later**.
-
-| **Root**          | **Spatial Meaning** | **Temporal Meaning** | **Spatial Examples**                                                                                                                                |
-| ----------------- | ------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ק־ד־מ**        | front, east         | before, previous     | **קָדִימָה** (*kadima*) – forward<br>**מוּקְדָּם** (*mukdam*) – early<br>**הַקּוֹדֵם** (*hakodem*) – the previous one<br>**קֶדֶם** (*kedem*) – antiquity, east |
-| **א־ח־ר**        | behind, backwards   | after, later         | **אָחוֹרָה** (*ahora*) – backward<br>**מְאוּחָר** (*meuchar*) – late<br>**אַחֲרוֹן** (*aharon*) – last, final<br>**אַחֲרֵי** (*acharei*) – after               |
-
-* In English, *before* is both “in front of” and “earlier,” while *after* is “behind / later.”
-* In German, *vor* means “in front of / before,” and *nach* means “behind / after.”
-* In Russian, *перед* (*pered*) is “in front of / before,” while *после* (*posle*) is “after.”
-* In Italian, the connection is weaker: *prima* and *dopo* are only temporal, while *davanti* and *dietro* are only spatial.
-
 ## "Water" Words with ט
 
 The letter **ט (Tet)** is one of the less commonly used letters in Hebrew,
 but interestingly, many words related to **water** and **purity** include this letter.
 While it may just be a coincidence, it's a fun pattern to notice.
-I once heard a Hebrew teacher refer to **ט** as *"a wet letter"* 😊
+I once heard a Hebrew teacher referring to **ט** as *"a wet letter"* 💧.
 
 | **Hebrew** | **Meaning** |
 |------------|-------------|
