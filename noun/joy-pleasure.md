@@ -10,7 +10,7 @@
 | **תַּעֲנוּג**   | *ta’anúg*         | delight, a treat, great pleasure (often “what a treat”)      | **הקינוח היה תענוג.** (*ha-kinuach haya ta’anug*) – The dessert was a delight.                |
 | **כֵּיף**     | *kef*             | fun (informal, everyday)                                     | **היה כיף אתמול.** (*haya kef etmol*) – It was fun yesterday.                                 |
 | **עֹנֶג**     | *oneg*            | pleasure, bliss (more elevated; also “a pleasure to…”)       | **זה היה עונג לפגוש אותך.** (*ze haya oneg lifgosh otcha*) – It was a pleasure to meet you.   |
-| **גִּיל**     | *gil*             | joy, exultation (poetic / elevated)                          | **הוא קפץ מגיל.** (*hu kaftz mi-gil*) – He jumped for joy.                                    |
+| **גִּיל**     | *gil*             | joy, exultation (poetic/elevated)                            | **הוא קפץ מגיל.** (*hu kaftz mi-gil*) – He jumped for joy.                                    |
 | **שָׂשׂוֹן**    | *sason*           | gladness, rejoicing (biblical/poetic; often in set phrases)  | **קול ששון ושמחה.** (*kol sason ve-simcha*) – A sound/voice of rejoicing and joy.             |
 
 ### Entertainment & Leisure

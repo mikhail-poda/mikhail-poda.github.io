@@ -135,6 +135,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Bathe, Wash](/verb/bathe-wash.md)
 - [Fear, Worry](/verb/fear-worry.md)
+- [Handle, Manage](/verb/handle-manage.md)
 - [Live, Dwell](/verb/live-dwell.md)
 - [Meet, Encounter](/verb/meet-encounter.md)
 - [Need, Must](/verb/need-must.md)
