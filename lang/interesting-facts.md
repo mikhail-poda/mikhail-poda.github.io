@@ -48,6 +48,8 @@ the **liked person is the subject**, and the one who likes is expressed indirect
 * German: **er gefällt mir** – *he pleases me*
 * Russian: **он мне нравится** – *he is pleasing to me*
 
+---
+
 ## "Water" Words with ט
 
 The letter **ט (Tet)** is one of the less commonly used letters in Hebrew,
@@ -70,3 +72,18 @@ I once heard a Hebrew teacher referring to **ט** as *"a wet letter"* 💧.
 | **לְשַׁייֵּט**  | to sail        |
 | **לִשְׁטוֹף**  | to wash, rinse |
 | **לְהַטְבִּיעַ** | to drown, sink |
+
+---
+
+## The Letter פ and Verbs of Splitting, Spreading, and Separating
+
+A curious pattern in Hebrew is the appearance of the letter **פ (Pe)**
+as the first root letter in many verbs that belong to the semantic field of 
+**breaking, separating, or spreading into multiple parts**, see [the whole list here](/verb/split-spread.md).
+
+* When **פ** is not the first root letter, but appears second, it follows either **נ (Nun)** or **שׁ (Shin)**
+* More then the half of these roots contain also **ר (Resh)** as its second or third consonant.
+* The only exception to this rule is the root **ח־ל־ק** – to share, divide.
+* The verb **לִשְׁבּוֹר** - to break is not really exceptional because **בּ** sounds like **פ**.
+* Many English words in this same semantic field also form a recognizable pattern, typically starting with **s** and containing both **p** and **r**.
+* This semantic field is closely related to a semantic fild with the meaning **to open** which also starts with **פ (Pe)**.

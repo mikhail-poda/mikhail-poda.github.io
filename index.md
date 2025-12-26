@@ -157,8 +157,9 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ### Broad Collections
 
-- [*Verbs related to Flying*](/verb/flying.md)
-- [*Motion Verbs*](/verb/motion.md)
+- [*Flying*](/verb/flying.md)
+- [*Motion*](/verb/motion.md)
+- [*Splitting, Spreading, Separating*](/verb/split-spread.md)
 - [*Verbs with Multiple Meanings*](/verb/verbs-multiple-meaning.md)
 
 ## Roots
@@ -172,7 +173,6 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [IDF Ranks](/subj/idf-ranks.md)
 - [Technical Devices](/subj/technical-devices.md)
 - [Text, Book, Publishing](/subj/text-book.md)
-- [Splitting, Spreading, and Separating](/subj/separating.md)
 
 ## ToDo
 

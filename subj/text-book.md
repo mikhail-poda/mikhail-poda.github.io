@@ -59,7 +59,7 @@
 | **נִסְפָּח**          | *nispákh*            | appendix                  | **נספח א’**                           |
 | **הַעֲרַת שׁוּלַיִים**   | *he’arat shuláyim*   | footnote                  | **הערת שוליים 12**                   |
 | **הֵעַרְתָּ סִיּוּם**     | *he’arat siyum*      | endnote                   |                                       |
-| **מַפְתֵּחַ**          | *mafteáḥ*            | index                     | **מפתח שמות** – name index            |
+| **מַפְתֵּחַ**          | *mafteách*            | index                     | **מפתח שמות** – name index            |
 | **רְשִׁימַת מְקוֹרוֹת**  | *r’shimat mekorót*   | bibliography, references  | **רשימת מקורות**                     |
 | **אַחֲרִית דָּבָר**     | *acharit davár*      | afterword, epilogue       | **אחרית דבר המחבר**                  |
 | **עַמּוּד הַשַּׁעַר**     | *amud hashá’ar*      | title page                | **עמוד השער של הספר**                |

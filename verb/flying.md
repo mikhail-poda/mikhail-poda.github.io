@@ -35,7 +35,7 @@
 | **לְרַחֵף**      | *lerachef*        | to hover, float  | Helicopters, drones, or figurative hovering. | **המסוק ריחף מעל העיר** – the helicopter hovered above the city. |
 | **לְדַאוֹת**     | *leda’ot*         | to glide, soar   | Smooth motion without wing-flap.             | **הנשר דאה מעל ההרים** – the eagle soared above the mountains.   |
 | **לְהִתְעוֹפֵף**   | *lehit’ofef*      | to flutter, flit | Light/repeated flying (butterflies, papers). | **הפרפר התעופף בגינה** – the butterfly fluttered in the garden.  |
-| **לִפְרוֹחַ**     | *lifroaḥ*         | to blossom, flourish, (poetic) to soar | Usually “to bloom,” but in compounds also for flight. | **כַּדוּר פּוֹרֵחַ** – hot-air balloon.       |
+| **לִפְרוֹחַ**     | *lifroach*         | to blossom, flourish, (poetic) to soar | Usually “to bloom,” but in compounds also for flight. | **כַּדוּר פּוֹרֵחַ** – hot-air balloon.       |
 
 ---
 

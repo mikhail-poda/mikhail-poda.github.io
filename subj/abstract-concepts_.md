@@ -2,11 +2,11 @@
 
 | **Hebrew**    | **Transcription**         | **Meaning**                    | **Example**                      |
 | ------------- | ------------------------- | ------------------------------ | -------------------------------- |
-| **מַטָּרָה**      | *matarah*                 | goal, aim                      | **מטרת המחקר מוגדרת היטב.**      |
+| **מַטָּרָה**      | *matara*                 | goal, aim                      | **מטרת המחקר מוגדרת היטב.**      |
 | **יָעַד**       | *yaʿad*                   | target, objective              | **הוגדר יעד שנתי.**              |
 | **תַּכְלִית**     | *takhlit*                 | purpose                        | **מה תכלית הניסוי?**             |
-| **כַּווָּנָה**     | *kavanah*                 | intention                      | **כוונת המחבר איננה חד־משמעית.** |
-| **תּוֹפָעָה**     | *tofaʿah*                 | phenomenon                     | **תופעה טבעית עונתית.**          |
+| **כַּווָּנָה**     | *kavana*                 | intention                      | **כוונת המחבר איננה חד־משמעית.** |
+| **תּוֹפָעָה**     | *tofaʿa*                 | phenomenon                     | **תופעה טבעית עונתית.**          |
 | **תַּהֲלִיךְ**     | *tahalikh*                | process                        | **התהליך איטי אך יציב.**         |
 | **הִשְׁתַּלְשְׁלוּת**  | *hishtalshelut*           | chain, sequence                | **השתלשלות האירועים תועדה.**     |
 | **מַעֲרֶכֶת**     | *maʿarechet*              | system                         | **מערכת פתוחה.**                 |
@@ -14,18 +14,18 @@
 | **הַסְתַּבְּרוּת**   | *hastab’rut*              | formal probability                    | **הסתברות גבוהה לתוצאה.**        |
 | **סבירות**    |                           | likelyhood, probability           |           |
 | **מְמוּצָּע**     | *memutza*                 | average                        | **חישבנו ממוצע משוקלל.**         |
-| **חֲצִיוֹן**     | *ḥatzion*                 | median                         | **החציון עמיד לחריגים.**         |
+| **חֲצִיוֹן**     | *chatzion*                 | median                         | **החציון עמיד לחריגים.**         |
 | **שׁוֹנוּת**     | *shonut*                  | variance                       | **השונות עלתה.**                 |
-| **סְטִייָּה**     | *stiyah*                  | deviation                      | **סטיית התקן ירדה.**             |
+| **סְטִייָּה**     | *stiya*                  | deviation                      | **סטיית התקן ירדה.**             |
 | **תַּצְפִּית**     | *tatzpit*                 | observation                    | **בוצעה תצפית שדה.**             |
 | **נִסּוּי**      | *nisui*                   | experiment                     | **ניסוי מבוקר.**                 |
-| **בַּקָּרָה**      | *bakarah*                 | control, monitoring            | **בקרה רציפה על הנתונים.**       |
-| **מְדִידָה**     | *medidah*                 | measurement                    | **מדידה חוזרת לאימות.**          |
+| **בַּקָּרָה**      | *bakara*                 | control, monitoring            | **בקרה רציפה על הנתונים.**       |
+| **מְדִידָה**     | *medida*                 | measurement                    | **מדידה חוזרת לאימות.**          |
 | **מַדָּד**       | *madad*                   | index, metric                  | **מדד אמינות.**                  |
-| **הַנָּחָה**      | *hanachah*                | assumption                     | **הנחה סמויה.**                  |
+| **הַנָּחָה**      | *hanacha*                | assumption                     | **הנחה סמויה.**                  |
 | **הוֹכָחָה**     | *hochacha*                | proof                          | **הציג הוכחה מלאה.**             |
-| **מַסְקָנָה**     | *maskanah*                | conclusion                     | **המסקנה מתבקשת מן הנתונים.**    |
-| **טְעָנָה**      | *teʿanah*                 | claim, proposition             | **הטענה ניתנת לבדיקה.**          |
+| **מַסְקָנָה**     | *maskana*                | conclusion                     | **המסקנה מתבקשת מן הנתונים.**    |
+| **טְעָנָה**      | *teʿana*                 | claim, proposition             | **הטענה ניתנת לבדיקה.**          |
 | **הַגְדָּרָה**     | *hagdara*                 | definition                     | **הגדרה תפעולית.**               |
 | **מוּשָׂג**      | *musag*                   | concept                        | **מושג המקריות.**                |
 | **עִקָּרוֹן**     | *ikaron*                  | principle                      | **עיקרון החסכנות.**              |
@@ -38,24 +38,24 @@
 | **עַצְמָאוּת**    | *atzma’ut*                | independence                   | **מדידה בעוצמה ועצמאות.**        |
 | **מִתְאָם**      | *mit’am*                  | correlation                    | **נמצא מתאם חלש.**               |
 | **סִיּבָּתִיּוּת**   | *sibatiyut*               | causality                      | **בחינת סיבתיות.**               |
-| **תּוֹצָאָה**     | *totsa’ah*                | effect, result                 | **תוצאה עקבית.**                 |
+| **תּוֹצָאָה**     | *totsa’a*                | effect, result                 | **תוצאה עקבית.**                 |
 | **תְּנַאי הֶכְרֵחִי** | *tnai hechrachi*         | necessary condition            | **X תנאי הכרחי ל־Y.**            |
 | **תְּנַאי מַסְפִּיק** | *tnai maspik*            | sufficient condition           | **X תנאי מספיק ל־Y.**            |
-| **הַפְרָדָה**     | *hafradah*                | separation                     | **הפרדת משתנים.**                |
+| **הַפְרָדָה**     | *hafrada*                | separation                     | **הפרדת משתנים.**                |
 | **סִיּוּוּג**     | *sivug*                   | classification                 | **סיווג לפי מאפיינים.**          |
 | **מִיּוּן**      | *miyun*                   | sorting                        | **מיון הנתונים.**                |
-| **חֻלּוּקָה**     | *ḥalukah*                 | partition, division            | **חלוקת קבוצות.**                |
-| **הַכְלָלָה**     | *hakhlalah*               | generalization                 | **הכללה זהירה מן המדגם.**        |
-| **הַבְחָנָה**     | *havchanah*               | distinction, differentiation   | **הבחנה בין מין לסוג.**          |
+| **חֻלּוּקָה**     | *chaluka*                 | partition, division            | **חלוקת קבוצות.**                |
+| **הַכְלָלָה**     | *hakhlala*               | generalization                 | **הכללה זהירה מן המדגם.**        |
+| **הַבְחָנָה**     | *havchana*               | distinction, differentiation   | **הבחנה בין מין לסוג.**          |
 | **זֶהוּת**      | *zehut*                   | identity                       | **זהות פריט לאורך זמן.**         |
 | **מַהוּת**      | *mahut*                   | essence                        | **מהות המושג שנויה במחלוקת.**    |
 | **קִיּוּם**      | *kiyum*                   | existence                      | **טענת קיום.**                   |
 | **אֶפְשָׁרוּת**    | *efsharut*                | possibility                    | **אפשרות לוגית.**                |
-| **הֶכְרֵחַ**      | *hekhréaḥ*                | necessity                      | **הכרח מתמטי.**                  |
+| **הֶכְרֵחַ**      | *hekhréach*                | necessity                      | **הכרח מתמטי.**                  |
 | **מְצִיאוּת**    | *metziut*                 | reality                        | **טיב המציאות.**                 |
-| **יְדִיעָה**     | *yediʿah*                 | knowledge                      | **גבולות הידיעה.**               |
-| **הֲבָנָה**      | *havanah*                 | understanding                  | **הבנת הטקסט.**                  |
-| **אֱמוּנָה**     | *emunah*                  | belief                         | **הבחנה בין אמונה לידיעה.**      |
+| **יְדִיעָה**     | *yediʿa*                 | knowledge                      | **גבולות הידיעה.**               |
+| **הֲבָנָה**      | *havana*                 | understanding                  | **הבנת הטקסט.**                  |
+| **אֱמוּנָה**     | *emuna*                  | belief                         | **הבחנה בין אמונה לידיעה.**      |
 | **עֶרֶךְ**       | *erekh*                   | value                          | **סולם ערכים.**                  |
 | **עֻבְדָּה**      | *uvda*                    | fact                           | **עובדה ניתנת לבדיקה.**          |
 | **מַשְׁמָעוּת**    | *mashmaʿut*               | meaning                        | **משמעות המונח.**                |
@@ -65,9 +65,9 @@
 | **תּוֹקֶף**      | *tokef*                   | validity                       | **תוקף פנימי.**                  |
 | **מְהֵימָנוֹת**   | *mehemanut*               | reliability                    | **מהימנות המדידה.**              |
 | **עִקְבִיּוּת**    | *akviyut*                 | consistency                    | **עקביות לוגית.**                |
-| **סְתִירָה**     | *stirah*                  | contradiction                  | **סתירה בין הנחות.**             |
+| **סְתִירָה**     | *stira*                  | contradiction                  | **סתירה בין הנחות.**             |
 | **כִּשָּׁלוֹן**     | *kishalon*                | failure                        | **נתגלה כשל היסק.**              |
-| **הַטָּיָה**      | *hatayah*                 | bias                           | **הטיית מדגם.**                  |
+| **הַטָּיָה**      | *hataya*                 | bias                           | **הטיית מדגם.**                  |
 | **עוֹצְמָה**      | *otzma*                  | power, strength     | **עצימות האות.**                 |
 | **תְּחוּם**      | *tchum*                   | domain, field, area            | **תחום ההגדרה של הפונקציה.**     |
 | **טִוּוּחַ**      | *tvach*                   | range, span                    | **טווח הערכים.**                 |
@@ -76,7 +76,7 @@
 | **יִיּשּׂוּם**     | *yisum*                   | implementation, application    |          |
 | **יִיצּוּג**     | *yitzug*                  | representation                 | **ייצוג הנתונים בגרף.**          |
 | **סִימּוּן**     | *simun*                   | notation, marking               | **סימון מוסכם.**                 |
-| **הֲכְרָעָה**     | *hachraʿah*               | decision, verdict          | **שאלת הכרעה חישובית.**          |
+| **הֲכְרָעָה**     | *hachraʿa*               | decision, verdict          | **שאלת הכרעה חישובית.**          |
 | **סִיבּוּכִיּוּת**  | *sibuchiyut*              | complexity                     | **סיבוכיות זמן.**                |
 | **רֶצֶף**       |    | sequence  |  |
 | **סדר**       |    | order  |  |
@@ -91,7 +91,7 @@
 | **גורם**      | *gorem*           | factor, cause (technical, analytical) | **גורם סיכון** - risk factor |
 | **טעם**       | *ta'am*           | reason, justification (formal, literary)     | **אין טעם ל־** - there is no reason to ..., **אין טעם ש־** - there is no reason that ... |
 | **נימוק**     | *nimuk*           | argument, justification, explanation (academic, legal) | |
-| **עילה**      | *ilah*            | legal cause, pretext (formal, legal)   | **עילת גירושין** - grounds for divorce, **עילה סבירה** - probable cause |
+| **עילה**      | *ila*            | legal cause, pretext (formal, legal)   | **עילת גירושין** - grounds for divorce, **עילה סבירה** - probable cause |
 | **מניע**      | *mena'ya*         | motive, motivation         | **מְנִיעַ נִסְתָּר** - ulterior motive |
 | **מִקְרֶה**      |    | case  |  |
 | **דֵּרוּג**      |    | rating |  |
@@ -128,7 +128,7 @@
 | **יִתְרוֹן**     |    | advantage, benefit |  |
 | **חִסָּרוֹן**     |    | disadvantage, drawback |  |
 | **סַף**        | *saf*                     | threshold                      | **סף גילוי.**                    |
-| **הֲכָּרָה**      | *hakarah*                 | consciousness, recognition          | **הכרה תפיסתית.**                |
+| **הֲכָּרָה**      | *hakara*                 | consciousness, recognition          | **הכרה תפיסתית.**                |
 | **שָׁלָב**       |  | step, stage, phase |  |
 | **שְׁלִילָה**     |  | negation |  |
 | **שִׁכְפּוּל**     |  | replication, duplication |  |

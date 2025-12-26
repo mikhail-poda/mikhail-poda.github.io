@@ -34,4 +34,4 @@
 | **תַּחְבִּיב**        | *tachbív*         | hobby              | **צילום הוא התחביב שלי.** – Photography is my hobby.                  |
 | **תְּחוּם עִנְיָין**   | *tchúm inyán*     | area of interest   | **בלשנות היא תחום העניין שלי.** – Linguistics is my area of interest. |
 | **עִנְיָין**        | *inyán*           | interest           | **יש לי עניין במדע.** – I’m interested in science.                    |
-| **הַעֲדָפָה**        | *ha’adáfah*       | preference         | **ההעדפה שלי היא תה.** – My preference is tea.                        |
+| **הַעֲדָפָה**        | *ha’adáfa*       | preference         | **ההעדפה שלי היא תה.** – My preference is tea.                        |

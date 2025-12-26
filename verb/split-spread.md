@@ -1,15 +1,4 @@
-# The Letter פ and Verbs of Splitting, Spreading, and Separating
-
-A curious pattern in Hebrew is the appearance of the letter **פ (Pe)**
-as the first root letter in many verbs that belong to the semantic field of **breaking, separating, or spreading into multiple parts**.
-
-* Even when **פ** is not the first root letter, but appears second, it follows one of the so-called “special” letters **נ (Nun)** or **שׁ (Shin)**
-* More then the half of these roots contain also **ר (Resh)** as its second or third consonant.
-* The only exception to this rule is the root **ח־ל־ק** – to share, divide.
-* Many English words in this same semantic field also form a recognizable pattern, typically starting with **s** and containing both **p** and **r**.
-* This semantic field is closely related to a semantic fild with the meaning **to open** which also starts with **פ (Pe)**.
-
----
+# Topic: Split, Spread, and Separate
 
 ## Break
 

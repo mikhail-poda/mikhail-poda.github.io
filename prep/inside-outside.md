@@ -3,7 +3,7 @@
 | **Function**                | **Inside**                                  | **Outside**                                  |
 |-----------------------------|--------------------------------------------|-----------------------------------------------|
 | **Adverb**                  | **בִּפְנִים** (*bifnim*) – I'm inside          | **בַּחוּץ** (*bachutz*) – He's outside          |
-| **Directional Adverb**      | **פְּנִימָה** (*pnimah*) – inward              | **הַחוּצָה** (*hachutzah*) – outward            |
+| **Directional Adverb**      | **פְּנִימָה** (*pnima*) – inward              | **הַחוּצָה** (*hachutza*) – outward            |
 | **Preposition**             | **בְּתוֹךְ** (*betoch*) – inside (of)          | **מִחוּץ לְ־** (*michutz le-*) – outside (of)    |
 | **Directional Preposition** | **לְתוֹךְ ה־** (*letoch ha-*) – into   | -     |
 | **Adjective**               | **פְּנִימִי** (*pnimi*) – inner                 | **חִיצוֹנִי** (*chitzoni*) – outer             |

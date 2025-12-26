@@ -28,7 +28,7 @@
 | **וִיכּוּחַ**  | *vikuach* | argument, debate | Intellectual disagreement, not necessarily hostile | **ויכוח פוליטי** (*vikuach politi*) – political debate |  
 | **מַחֲלוֹקֶת** | *machloket* | dispute, controversy | Ideological or political disagreement | **מחלוקת ציבורית** (*machloket tziburit*) – public controversy |  
 | **נִיגּוּד**  | *nigud* | contradiction, opposition | Logical or ideological contrast | **ניגוד אינטרסים** (*nigud interesim*) – conflict of interest |  
-| **סְתִירָה**  | *stirah* | contradiction, inconsistency | Logical or factual contradiction | **סתירה פנימית** (*stirah pnimiyt*) – internal contradiction |  
+| **סְתִירָה**  | *stira* | contradiction, inconsistency | Logical or factual contradiction | **סתירה פנימית** (*stirah pnimiyt*) – internal contradiction |  
 
 ---
 
