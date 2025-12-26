@@ -6,4 +6,4 @@
 | **לְהַזְכִּיר**  | *lehazkír*          | to mention; to remind                           |
 | **לְצַטֵּט**    | *letsatét*          | to quote, cite                                   |
 | **לְהִתְיַיחֵס** | *lehityachés*       | to refer to, address (a topic), relate to        |
-| **לְהִתְחַבֵּר**  | *lehitkhabér*       | to “relate”, resonate (with)<br>(also: to connect)  |
+| **לְהִתְחַבֵּר**  | *lehitchabér*       | to “relate”, resonate (with)<br>(also: to connect)  |

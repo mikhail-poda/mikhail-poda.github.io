@@ -11,6 +11,6 @@
 * **סכנת חיים** (*sakanat chayím*) – mortal danger
 * **גורם סיכון** (*górem sikún*) – risk factor
 * **רמת סיכון / דרגת איום** (*ramat sikún / dargat iyúm*) – risk/threat level
-* **הערכת סיכונים** (*ha’árakhat sikuním*) – risk assessment
+* **הערכת סיכונים** (*ha’árachat sikuním*) – risk assessment
 * **ניהול סיכונים** (*nihúl sikuním*) – risk management
 * **הפחתת סיכון** (*hafchatat sikún*) – risk mitigation

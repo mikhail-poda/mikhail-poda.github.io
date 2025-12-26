@@ -16,7 +16,7 @@
 | **לַעֲקוֹף** | *la’akof*         | to bypass, overtake        | **לעקוף את הפקק** – to bypass the traffic jam.        |
 | **לַעֲבוֹר** | *la’avor*         | to pass, cross, go through | **לעבור את הכביש** – to cross the street.             |
 | **לַחֲצוֹת** | *lachatzot*       | to cross, cut across       | **לחצות את הנהר** – to cross the river.               |
-| **לַחֲלוֹף** | *lakhlof*         | to pass by                 | **הרכבת חלפה בתחנה** – the train passed the station.  |
+| **לַחֲלוֹף** | *lachlof*         | to pass by                 | **הרכבת חלפה בתחנה** – the train passed the station.  |
 
 ---
 
@@ -113,7 +113,7 @@
 
 | **Hebrew**   | **Transcription** | **Meaning**           | **Example**                                                             |
 | ------------ | ----------------- | --------------------- | ----------------------------------------------------------------------- |
-| **לָלֶכֶת**     | *lalekhet*        | to go, walk      |  **אני הולך לבית הספר** – I am going to school.                          |
+| **לָלֶכֶת**     | *lalechet*        | to go, walk      |  **אני הולך לבית הספר** – I am going to school.                          |
 | **לִצְעוֹד**    | *litz’od*         | to march, stride |  **החיילים צעדו ברחוב הראשי** – the soldiers marched on the main street. |
 
 ---

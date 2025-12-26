@@ -9,7 +9,7 @@ Here’s a compact table for the semantic field **“Product / Erzeugnis”**:
 | **תּוֹצָר**      | *tozár*           | output; product (econ./industrial)       | **התוצר התעשייתי עלה השנה.**           |
 | **תְּפוּקָה**     | *tfuká*           | output; yield                            | **תפוקת המפעל עלתה.**                   |
 | **סְחוֹרָה**     | *s’chorá*         | merchandise; goods                       | **הסחורה הגיעה למחסן.**                 |
-| **מִצְרָךְ**      | *mitzrákh*        | commodity; staple                        | **לחם הוא מצרך בסיסי.**                 |
+| **מִצְרָךְ**      | *mitzrách*        | commodity; staple                        | **לחם הוא מצרך בסיסי.**                 |
 | **יִבּוּל**      | *yivúl*           | crop, harvest                            | **יבול החיטה השנה גבוה.**               |
 | **יְצִירָה**     | *yetzirá*         | creation; work (artistic product)        | **היצירה זכתה בפרס.**                   |
 | **פְּרִי**       | *prí*             | fruit; (fig.) product of                 | **פרי עמלו התפרסם כספר.**               |

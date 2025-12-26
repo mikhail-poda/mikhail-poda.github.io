@@ -13,5 +13,5 @@
 
 | **Hebrew**  | **Transcription** | **Meaning**            | **Example**                                                                            |
 | ----------- | ----------------- | ---------------------- | -------------------------------------------------------------------------------------- |
-| **לְהַכְרִיחַ**  | *lehachrîach*     | to force, compel       | **אני מוכרח ללכת עכשיו.** (*ani mukhrach lalechet achshav*) – I must go now.         |
+| **לְהַכְרִיחַ**  | *lehachrîach*     | to force, compel       | **אני מוכרח ללכת עכשיו.** (*ani muchrach lalechet achshav*) – I must go now.         |
 | **לְהֵיאָלֵץ**  | *lehe'aletz*      | to be forced, compeled | **היא נאלצת לעבוד הערב.** (*hi ne’elétset la’avod ha-erev*) – She must work tonight. |

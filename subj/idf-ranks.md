@@ -9,7 +9,7 @@
 | רס״ל       |    רַב־סָמָל      | *rav-samal*           | Sergeant First Class                        |
 | רס״ר       | רַב־סָמָל רִאשׁוֹן   | *rav-samal rishon*    | Master Sergeant                             |
 | רס״מ       | רַב־סָמָל מִתְקַדֵּם   | *rav-samal mitkadem*  | Senior Master Sergeant                      |
-| רס״ב       | רַב־סָמָל בָּכִיר    | *rav-samal bakhir*    | Sergeant Major / Command Sergeant Major     |
+| רס״ב       | רַב־סָמָל בָּכִיר    | *rav-samal bachir*    | Sergeant Major / Command Sergeant Major     |
 | סג״ם       |   סֶגֶן מִשְׁנֶה       | *segen mishneh*       | Second Lieutenant                         |
 | —          | סֶגֶן                | *segen*               | Lieutenant                               |
 | —          | סֶרֶן                | *seren*               | Captain                                  |

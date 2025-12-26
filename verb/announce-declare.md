@@ -9,7 +9,7 @@
 | **לְעַדְכֵּן**     | *le'adkén*        | to update, to inform of changes      | **עדכנתי אותו בפרטים החדשים** – I updated him on the new details.                 |
 | **לִמְסוֹר**     | *limsór*          | to deliver a message                 | **הוא מסר לי את החדשות** – He passed the news to me.                              |
 | **לְדַוֵּוחַ**     | *leda'veach*      | to report                            | **הוא דיווח על הבעיה למנהל** – He reported the problem to the manager.            |
-| **לְתַקְשֵׁר**     | *letakhsér*       | to communicate                       | **הארגון לא תקשר את ההחלטה.** |
+| **לְתַקְשֵׁר**     | *letachsér*       | to communicate                       | **הארגון לא תקשר את ההחלטה.** |
 | **לְהוֹדוֹת**    | *lehodot*         | to admit, acknowledge, confess;<br/>to thank | **לְהוֹדוֹת בְּאַשְׁמָה.** – To plead guilty |
 
 Note: verbs **לְהוֹדִיעַ** (to inform) and **לְהוֹדוֹת** (to admit) have similar sound.

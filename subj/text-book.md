@@ -31,7 +31,7 @@
 | **גִּילְיוֹן** | *gilyón*          | sheet; magazine issue  | **גיליון מיוחד** – special issue    |
 | **חוֹבֶרֶת**  | *choveret*        | booklet; issue         | **חוברת מס' 3** – issue no. 3       |
 | **מַחְבֶּרֶת**  | *machberet*       | notebook               | **מחברת צבעונית** – colored notebook |
-| **כֶּרֶךְ**    | *kérekh*          | volume (book)          | **כרך א’** – Vol. I                 |
+| **כֶּרֶךְ**    | *kérech*          | volume (book)          | **כרך א’** – Vol. I                 |
 | **סִדְרָה**   | *sidrá*           | series (book, journal) | **סדרת מחקרים** – research series   |
 | **מַהֲדוּרָה** | *mahadurá*        | edition                | **מהדורה מתוקנת** – revised ed.     |
 | **כְּתַב־עֵת** | *ktav-ét*         | periodical, academic journal | **כתב־עת מדעי** – scholarly journal |
@@ -56,7 +56,7 @@
 | **תּוֹדוֹת**         | *todot*              | acknowledgements          |            |
 | **מילון מוּנָּחִים** | *milon munachim*      | glossary                  |           |
 | **צִטּוּט**          | *tsitut*             | quotation, citation       |           |
-| **נִסְפָּח**          | *nispákh*            | appendix                  | **נספח א’**                           |
+| **נִסְפָּח**          | *nispách*            | appendix                  | **נספח א’**                           |
 | **הַעֲרַת שׁוּלַיִים**   | *he’arat shuláyim*   | footnote                  | **הערת שוליים 12**                   |
 | **הֵעַרְתָּ סִיּוּם**     | *he’arat siyum*      | endnote                   |                                       |
 | **מַפְתֵּחַ**          | *mafteách*            | index                     | **מפתח שמות** – name index            |
@@ -77,7 +77,7 @@
 | **חֲנוּת סְפָרִים**     | *chanút sfarím*         | bookstore               | **חנות ספרים עצמאית.**              |
 | **סִפְרִיָּה**          | *sifriyá*               | library                 | **השאלת ספרים בספרייה.**            |
 | **בֵּית דְּפוּס**       | *beit dfús*             | printing house          | **הספר נשלח לבית הדפוס.**           |
-| **זְכוּיּוֹת יוֹצְרִים** | *zekhuyót yotzrím*      | copyright               | **כל הזכויות שמורות.**               |
+| **זְכוּיּוֹת יוֹצְרִים** | *zechuyót yotzrím*      | copyright               | **כל הזכויות שמורות.**               |
 | **מס׳ ISBN**       | *mispar ISBN*            | ISBN                    | **מספר ה-ISBN מופיע בעמוד הזכויות.** |
 
 ---
@@ -91,14 +91,14 @@
 | **סוֹפֵר / סוֹפֶרֶת**          | *sofér / soféret*       | writer, author           | **סופרת צעירה.**                     |
 | **מְחַבֵּר / מְחַבֶּרֶת**          | *mechabér / mechaberét* | author (formal)          | **שם המחבר.**                        |
 | **מְתַרְגֵּם / מְתַרְגֶּמֶת**        | *metargém / metargémet* | translator               | **מתרגם מאנגלית לעברית.**           |
-| **עוֹרֵךְ / עוֹרֶכֶת**          | *orékh / orékhet*       | editor                   | **עורכת הספר.**                      |
-| **עוֹרֵךְ לָשׁוֹן**             | *orékh lashón*          | copyeditor               | **עורך לשון מקצועי.**                |
+| **עוֹרֵךְ / עוֹרֶכֶת**          | *oréch / oréchet*       | editor                   | **עורכת הספר.**                      |
+| **עוֹרֵךְ לָשׁוֹן**             | *oréch lashón*          | copyeditor               | **עורך לשון מקצועי.**                |
 | **מַגִּיהַּ / מַגִּיהָה**          | *magía / magihá*        | proofreader              | **המגיה מצא טעויות דפוס.**          |
 | **מְאַיֵּר / מְאַיֶּרֶת**          | *me'ayér / me'ayerét*   | illustrator              | **מאיירת ספרי ילדים.**               |
 | **מְעַצֵּב עֲטִיפָה**            | *me'atsév atifá*        | cover designer           | **מעצב העטיפה.**                     |
 | **מַדְפִּיס / מַדְפִּיסָה**        | *madpís / madpisá*      | printer (operator)       | **המדפיס מפעיל את המכונה.**         |
 | **מַפִּיץ / מַפִּיצָה**          | *mafíts / mafitsá*      | distributor              | **המפיץ מסר לחנויות.**               |
 | **סוֹכֵן סְפָרוּתִי**           | *sochén sfarutí*        | literary agent           | **סוכן ספרותי מייצג את הסופרת.**    |
-| **מַעֲרֶכֶת (כְּתַב־עֵת/מוֹל)**    | *ma'arekhét*            | editorial staff, board   | **מערכת כתב־העת.**                   |
-| **עוֹרֵךְ רָאשִׁי**             | *orékh rashí*           | editor-in-chief           | **העורך הראשי אישר לפרסום.**        |
+| **מַעֲרֶכֶת (כְּתַב־עֵת/מוֹל)**    | *ma'arechét*            | editorial staff, board   | **מערכת כתב־העת.**                   |
+| **עוֹרֵךְ רָאשִׁי**             | *oréch rashí*           | editor-in-chief           | **העורך הראשי אישר לפרסום.**        |
 | **מְבַקֵּר סִפְרוּת**            | *mevakér sifrút*        | literary critic, reviewer | **מבקר ספרות כתב ביקורת.**          |

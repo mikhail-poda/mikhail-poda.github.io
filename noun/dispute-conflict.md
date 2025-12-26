@@ -36,7 +36,7 @@
 
 | **Hebrew**    | **Transcription** | **Meaning** | **Notes**                                 | **Example**                                      |
 | ------------- | ----------------- | ----------- | ----------------------------------------- | ------------------------------------------------ |
-| **חִיכּוּךְ**    | *chikukh*         | friction    | Minor everyday tensions, often ongoing.   | **חיכוך מתמשך** – ongoing friction.              |
+| **חִיכּוּךְ**    | *chikuch*         | friction    | Minor everyday tensions, often ongoing.   | **חיכוך מתמשך** – ongoing friction.              |
 | **עוֹיְנוּת**   | *oynut*           | hostility   | Emotional animosity, not always physical. | **עוינות בין עמים** – hostility between nations. |
 
 ---
@@ -88,13 +88,13 @@
 | **יָרִיב**      | *yariv*              | rival, adversary                | **יריב פוליטי**            |
 | **מִתְנַגֵּד**     | *mitnaged*           | opponent                        | **הוא מתנגד לרפורמה**      |
 | **אוֹיֵב**      | *oyev*               | enemy                           | **אויב חיצוני**            |
-| **מִתְחָרֶה**     | *mitkhareh*          | competitor                      | **מוצר מתחרה**             |
+| **מִתְחָרֶה**     | *mitchareh*          | competitor                      | **מוצר מתחרה**             |
 | **תּוֹקֵף**      | *tokef*              | attacker, aggressor             | **התוקף נעצר**             |
 | **מוּתְקָף**     | *mutkaf*             | (the) attacked, target          | **המותקף נפצע**            |
-| **צַד (בַּסִּכְסוּךְ)** | *tzad (ba-sichsukh)* | party/side (to a dispute)     | **שני הצדדים בסכסוך**      |
+| **צַד (בַּסִּכְסוּךְ)** | *tzad (ba-sichsuch)* | party/side (to a dispute)     | **שני הצדדים בסכסוך**      |
 | **לוֹחֵם**      | *lochem*             | fighter, combatant              | **לוחם ביחידה מיוחדת**     |
 | **חַיָּל**       | *chayal*             | soldier                         | **חייל בשירות סדיר**       |
 | **בַּעַל בְּרִית**  | *ba‘al brit*         | ally                            | **בעלי ברית אזוריים**      |
-| **תּוֹמֵךְ**      | *tomekh*             | supporter, backer               | **תומכי המהלך**            |
+| **תּוֹמֵךְ**      | *tomech*             | supporter, backer               | **תומכי המהלך**            |
 | **קוֹרְבָּן**     | *korban*             | victim                          | **קורבן אלימות**           |
 | **נִפְגָּע**      | *nifga*              | injured/affected party          | **נפגע תאונה**             |

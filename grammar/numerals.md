@@ -30,9 +30,9 @@ Forms: **אֶחָד** (m), **אַחַת** (f).
 | **לְהִתְיַחֵד**       | *lehit’yached*      | to be alone with; commune                       |
 | **הִתְיַחֲדוּת**      | *hityachadut*       | seclusion; “conjugal visit”                     |
 | **יִחוּד**         | *yichud*            | singling out; mystical “unification”; seclusion |
-| **יִיחוּדִי**       | *yikhudi*           | unique; particular                              |
-| **יִיחוּדִיּוּת**    | *yikhudiyut*         | uniqueness; particularity                       |
-| **מְיוּחָד**        | *meyukhad*          | special; distinctive                            |
+| **יִיחוּדִי**       | *yichudi*           | unique; particular                              |
+| **יִיחוּדִיּוּת**    | *yichudiyut*         | uniqueness; particularity                       |
+| **מְיוּחָד**        | *meyuchad*          | special; distinctive                            |
 
 ### Root א־ג־ד
 
@@ -54,8 +54,8 @@ Forms: **אֶחָד** (m), **אַחַת** (f).
 | **חֲדָא**            | *chada*           | one (fem., Aramaic)             |
 | **הֲדָדִי**           | *chadedi*         | mutual, reciprocal   |
 | **הֲדָדִיּוּת**         | *hadadiyut*       | reciprocity, mutuality   |
-| **לְחוּד**           | *lekhud*          | separately; apart               |
-| **בִּלְחוּד**          | *bilkhud*         | alone; only                     |
+| **לְחוּד**           | *lechud*          | separately; apart               |
+| **בִּלְחוּד**          | *bilchud*         | alone; only                     |
 | **חַד־פְּעַמִּי**        | *chad-pa’ami*     | one-time; single-use            |
 | **חַד־מַשְׁמָעִי**       | *chad-mashma’i*   | unequivocal; unambiguous        |
 | **חַד־יוֹמִי**        | *chad-yomi*       | one-day; single-day             |

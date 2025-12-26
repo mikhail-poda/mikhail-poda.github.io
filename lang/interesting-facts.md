@@ -8,7 +8,7 @@ it has some features that look strikingly familiar compared with other languages
 ### The Infinitive – like English
 
 Hebrew not only has the same concept of the infinitive, but it is even formed in the same way as in English:
-by adding the particle **to**/**ל־** at the front. Just as English uses **to + eat** Hebrew uses **ל + אכול** (*le’ekhol* – to eat).
+by adding the particle **to**/**ל־** at the front. Just as English uses **to + eat** Hebrew uses **ל + אכול** (*le’echol* – to eat).
 
 In Modern Hebrew, the verb form without **ל־** (the infinitive absolute) still exists, but it is rarely used.
 

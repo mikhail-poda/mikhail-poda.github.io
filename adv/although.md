@@ -5,7 +5,7 @@
 | **Hebrew** | **Transcription** | **Meaning**  | **Register**      | **Example**                                                                              |
 | ---------- | ----------------- | ------------ | ----------------- | ---------------------------------------------------------------------------------------- |
 | **אֲבָל**    | *aval*            | but          | neutral, everyday | **רציתי לבוא, אבל הייתי עסוק** – I wanted to come, but I was busy                        |
-| **אַךְ**     | *akh*             | but, however | formal, written   | **רצינו לעזור, אך איחרנו** – we wanted to help, but we were late                         |
+| **אַךְ**     | *ach*             | but, however | formal, written   | **רצינו לעזור, אך איחרנו** – we wanted to help, but we were late                         |
 | **אוּלָם**   | *ulam*            | however, yet | formal, literary  | **רצינו לסיים מוקדם, אולם התעכבנו** – we wanted to finish early, however we were delayed |
 
 ---
