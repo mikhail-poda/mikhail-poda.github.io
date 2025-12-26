@@ -13,6 +13,8 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Grammar
 
 - [Adjective Comparison](/grammar/adjective-comparison.md)
+- [Conditional and Corrleative Expressions](/grammar/correlative-expression.md)
+- [Multi-Word Function Phrases](/grammar/multi-word.md)
 - [Overview of Imperative Forms](/grammar/imperative.md)
 - [Prefixes](/grammar/prefixes.md)
 - [Preposition vs. Adverb](/grammar/preposition-adverb.md)

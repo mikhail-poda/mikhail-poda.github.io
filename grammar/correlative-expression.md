@@ -1,0 +1,37 @@
+# Topic: Conditional and Corrleative Expressions
+
+## Conditional Expressions
+
+| **Pattern**                  | **Meaning**                           | **Example**                                                                                |
+| ---------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **לָמָּה …? כִּי …**              | why …? because …                      | **למה אתה עייף? כי לא ישנתי.** – Why are you tired? Because I didn’t sleep.                |
+| **מַדוּעַ …? מִפְּנֵי שֶׁ־ …**        | why …? because … (more formal)        | **מדוע הוא כועס? מפני שהוא חיכה הרבה.** – Why is he angry? Because he waited a lot.        |
+| **מָתַי …? כַּאֲשֶׁר …**            | when …? when/whenever … (more formal) | **מתי זה קורה? כאשר יורד גשם.** – When does it happen? When it rains.                      |
+| **מָתַי …? כְּשֶׁ־ …**             | when …? when … (common)               | **מתי נצא? כשאתה מוכן.** – When do we leave? When you’re ready.                            |
+
+## Correlative Expressions
+
+| **Pattern**                 | **Meaning**                           | **Example**                                                                                |
+| --------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **אִם … אָז …**               | if … then …                           | **אם תרצה, אז נעשה את זה.** – If you want, then we’ll do it.                               |
+| **מ־… עַד …**                | from … until/to …                     | **מ־8 עד 10 אני בעבודה.** – From 8 to 10 I’m at work.                                      |
+| **מ־… ל־ …**                | from … to … (change/range)            | **זה עלה מ־50 ל־70.** – It went from 50 to 70.                                             |
+| **לֹא … אַף …**               | not … any / not even one              | **לא ראיתי אף אחד.** – I didn’t see anyone.                                                |
+| **אֵין … אַף …**              | there isn’t … any                     | **אין לי אף רעיון.** – I don’t have any idea.                                              |
+| **כְּדֵי … כְּדַאי …**            | in order to …, it’s advisable to …    | **כדי להצליח, כדאי להתאמן.** – To succeed, it’s good to practice.                          |
+| **בֵּין … וּבֵין …**            | between … and …                       | **בין הבית ובין העבודה יש פארק.** – Between home and work there’s a park.                  |
+| **בֵּין … לְ־ …**              | between … and …                       | **בין 3 ל־4 אני פנוי.** – Between 3 and 4 I’m free.                                        |
+| **או … או …**               | either … or …                         | **או אתה או אני.** – Either you or me.                                                     |
+| **לֹא … וְלֹא …**              | neither … nor …                       | **לא קפה ולא תה.** – Neither coffee nor tea.                                               |
+| **לֹא רַק … אֶלָא גַּם …**        | not only … but also …                 | **לא רק הוא בא, אלא גם היא.** – Not only he came, but she also did.                        |
+| **לֹא … אֶלָא …**              | not … but rather …                    | **זה לא יקר, אלא סביר.** – It’s not expensive, but rather reasonable.                      |
+| **גַּם … וְגַם …**              | both … and …                          | **גם הוא וגם היא באו.** – Both he and she came.                                             |
+| **כְּמוֹ … כָּךְ …**              | just as … so …                        | **כמו שהוא עוזר לי, כך אני עוזר לו.** – Just as he helps me, so I help him.                 |
+| **בֵּין אִם … או …**           | whether … or …                        | **בין אם תבוא או לא—נתחיל.** – Whether you come or not, we’ll start.                       |
+| **בֵּין אִם … וּבֵין אִם …**      | whether … or whether …                | **בין אם זה נכון ובין אם לא—נבדוק.** – Whether it’s true or not, we’ll check.              |
+| **כְּכָל שֶׁ־ … כָּךְ …**           | the more … the more …                 | **ככל שאתה לומד, כך אתה יודע יותר.** – The more you learn, the more you know.              |
+| **לֹא פָּחוֹת … מֵאֲשֶׁר …**        | no less … than …                      | **זה לא פחות חשוב מאשר כסף.** – This is no less important than money.                      |
+| **קוֹדֶם …, אַחַר כָּךְ …**        | first …, then …                       | **קודם נאכל, אחר כך נצא.** – First we’ll eat, then we’ll go out.                           |
+| **לַמְרוֹת שֶׁ־ … בְּכָל זֹאת …**    | even though … nevertheless …          | **למרות שהיה קשה, בכל זאת הצלחנו.** – Even though it was hard, nevertheless we succeeded.  |
+| **מִצַּד אֶחָד … מִצַּד שֵׁנִי …**     | on the one hand … on the other hand … | **מצד אחד זה יקר, מצד שני זה איכותי.** – On the one hand it’s expensive; on the other hand it’s high quality. |
+| **בִּכְלָל … בִּפְרָט …**           | in general … in particular …          | **בכלל זה מעניין, ובפרט ההתחלה.** – In general it’s interesting, especially the beginning. |
