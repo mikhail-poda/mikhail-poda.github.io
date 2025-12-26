@@ -1,4 +1,4 @@
-# Topic: Conditional and Corrleative Expressions
+# Topic: Conditional and Correlative Expressions
 
 ## Conditional Expressions
 
