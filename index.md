@@ -5,10 +5,10 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Language Learning
 
 - [Introduction](/lang/about-language-learnig.md)
+- [Interesting Facts](/lang/interesting-facts.md)
 - [Hebrew Learning Resources](/lang/learning-resources.md)
 - [Hebrew Proficiency Levels](/lang/hebrew-proficiency-levels.md)
 - [Spaced Repetition Methods](/lang/spaced-repetition-methods.md)
-- [Interesting Facts](/lang/interesting-facts.md)
 
 ## Grammar
 

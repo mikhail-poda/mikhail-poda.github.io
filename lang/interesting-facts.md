@@ -79,7 +79,7 @@ I once heard a Hebrew teacher referring to **ט** as *"a wet letter"* 💧.
 
 A curious pattern in Hebrew is the appearance of the letter **פ (Pe)**
 as the first root letter in many verbs that belong to the semantic field of 
-**breaking, separating, or spreading into multiple parts**, see [the whole list here](/verb/split-spread.md).
+**breaking, separating, or spreading into multiple parts**, see [the whole list here](../verb/split-spread.md).
 
 * When **פ** is not the first root letter, but appears second, it follows either **נ (Nun)** or **שׁ (Shin)**
 * More then the half of these roots contain also **ר (Resh)** as its second or third consonant.
