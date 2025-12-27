@@ -42,7 +42,7 @@
 | **עִם זֹאת**       | *im zot*          | however; that said  | **זה יקר. עם זאת, אקנה.** – It’s expensive. However, I’ll buy it.           |
 | **אֶלָּא אִם כֵּן**    | *ela im ken*      | unless              | **אני לא אבוא, אלא אם כן תקרא לי.** – I won’t come unless you call me.      |
 | **כָּל עוֹד**       | *kol od*          | as long as          | **כל עוד אתה כאן, הכול טוב.** – As long as you’re here, everything is fine. |
-| **בֵּין אִם**       | *bein im*         | whether (…or…)      | **בין אם תבוא ובין אם לא—נתחיל.** – Whether you come or not—we’ll start.    |
+| **בֵּין אִם**       | *bein im*         | whether (…or…)      | **בין אם תבוא ובין אם לא - נתחיל.** – Whether you come or not - we’ll start.    |
 
 ---
 
