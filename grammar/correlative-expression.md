@@ -2,7 +2,7 @@
 
 ## Conditional Expressions
 
-| **Pattern**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Meaning**                           | **Example**                                                                                |
+| **Pattern** <img width="150" height="1"> | **Meaning**                           | **Example**                                                                                |
 | ---------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------ |
 | &lrm;**לָמָּה …? כִּי …**&rlm;              | why …? because …                      | **למה אתה עייף? כי לא ישנתי.** – Why are you tired? Because I didn’t sleep.                |
 | &lrm;**מַדוּעַ …? מִפְּנֵי שֶׁ־ …**&rlm;        | why …? because … (more formal)        | **מדוע הוא כועס? מפני שהוא חיכה הרבה.** – Why is he angry? Because he waited a lot.        |
@@ -11,7 +11,7 @@
 
 ## Correlative Expressions
 
-| **Pattern**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Meaning**                           | **Example**                                                                                |
+| **Pattern** <img width="150" height="1"> | **Meaning**                           | **Example**                                                                                |
 | --------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------ |
 | &lrm;**אִם … אָז …**&rlm;                | if … then …                           | **אם תרצה, אז נעשה את זה.** – If you want, then we’ll do it.                               |
 | &lrm;**מ־… עַד …**&rlm;                 | from … until/to …                     | **מ־8 עד 10 אני בעבודה.** – From 8 to 10 I’m at work.                                      |
@@ -27,8 +27,8 @@
 | &lrm;**לֹא … אֶלָא …**&rlm;               | not … but rather …                    | **זה לא יקר, אלא סביר.** – It’s not expensive, but rather reasonable.                      |
 | &lrm;**גַּם … וְגַם …**&rlm;               | both … and …                          | **גם הוא וגם היא באו.** – Both he and she came.                                             |
 | &lrm;**כְּמוֹ … כָּךְ …**&rlm;               | just as … so …                        | **כמו שהוא עוזר לי, כך אני עוזר לו.** – Just as he helps me, so I help him.                 |
-| &lrm;**בֵּין אִם … או …**&rlm;            | whether … or …                        | **בין אם תבוא או לא—נתחיל.** – Whether you come or not, we’ll start.                       |
-| &lrm;**בֵּין אִם … וּבֵין אִם …**&rlm;       | whether … or whether …                | **בין אם זה נכון ובין אם לא—נבדוק.** – Whether it’s true or not, we’ll check.              |
+| &lrm;**בֵּין אִם … או …**&rlm;            | whether … or …                        | **בין אם תבוא או לא - נתחיל.** – Whether you come or not, we’ll start.                       |
+| &lrm;**בֵּין אִם … וּבֵין אִם …**&rlm;       | whether … or whether …                | **בין אם זה נכון ובין אם לא - נבדוק.** – Whether it’s true or not, we’ll check.              |
 | &lrm;**כְּכָל שֶׁ־ … כָּךְ …**&rlm;            | the more … the more …                 | **ככל שאתה לומד, כך אתה יודע יותר.** – The more you learn, the more you know.              |
 | &lrm;**לֹא פָּחוֹת … מֵאֲשֶׁר …**&rlm;         | no less … than …                      | **זה לא פחות חשוב מאשר כסף.** – This is no less important than money.                      |
 | &lrm;**קוֹדֶם …, אַחַר כָּךְ …**&rlm;         | first …, then …                       | **קודם נאכל, אחר כך נצא.** – First we’ll eat, then we’ll go out.                           |
