@@ -24,8 +24,9 @@
 
 | **Hebrew**       | **Transcription** | **Meaning**                   | **Example**                                                 |
 | ---------------- | ----------------- | ----------------------------- | ----------------------------------------------------------- |
-| **אַחַר כָּךְ**      | *achar kach*      | later, then                   | **נדבר אחר כך.** – We’ll talk later.                        |
 | **לִפְנֵי כֵּן**     | *lifnei ken*      | before that, previously       | **לפני כן גרתי בברלין.** – Before that I lived in Berlin.   |
+| **לְאַחַר מִכֵּן**    | *lachar miken*    | later, then                   | **הוא לא היה אותו אדם לאחר מכן.** – He wasn't the same man after that. |                       |
+| **אַחַר כָּךְ**      | *achar kach*      | later, then                   | **נדבר אחר כך.** – We’ll talk later.                        |
 | **עוֹד מְעַט**     | *od me’at*        | soon, shortly                 | **עוד מעט נצא.** – We’ll leave soon.                        |
 | **מִדֵּי פַּעַם**     | *midei pa’am*     | occasionally                  | **מדי פעם אני רץ בפארק.** – Occasionally I run in the park. |
 | **תּוֹךְ כְּדֵי**     | *toch kedei*      | during; while; in the process | **תוך כדי הליכה דיברנו.** – We talked while walking.        |
