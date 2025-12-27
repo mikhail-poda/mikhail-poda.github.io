@@ -2,7 +2,7 @@
 
 ## Conditional Expressions
 
-| **Pattern** <img width="150" height="1"> | **Meaning**                           | **Example**                                                                                |
+| **Pattern** <img width="130" height="1"> | **Meaning**                           | **Example**                                                                                |
 | ---------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------ |
 | &lrm;**לָמָּה …? כִּי …**&rlm;              | why …? because …                      | **למה אתה עייף? כי לא ישנתי.** – Why are you tired? Because I didn’t sleep.                |
 | &lrm;**מַדוּעַ …? מִפְּנֵי שֶׁ־ …**&rlm;        | why …? because … (more formal)        | **מדוע הוא כועס? מפני שהוא חיכה הרבה.** – Why is he angry? Because he waited a lot.        |
@@ -11,7 +11,7 @@
 
 ## Correlative Expressions
 
-| **Pattern** <img width="150" height="1"> | **Meaning**                           | **Example**                                                                                |
+| **Pattern** <img width="180" height="1"> | **Meaning**                           | **Example**                                                                                |
 | --------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------ |
 | &lrm;**אִם … אָז …**&rlm;                | if … then …                           | **אם תרצה, אז נעשה את זה.** – If you want, then we’ll do it.                               |
 | &lrm;**מ־… עַד …**&rlm;                 | from … until/to …                     | **מ־8 עד 10 אני בעבודה.** – From 8 to 10 I’m at work.                                      |
