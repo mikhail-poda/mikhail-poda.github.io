@@ -44,6 +44,7 @@
 | **אֶלָּא אִם כֵּן**    | *ela im ken*      | unless              | **אני לא אבוא, אלא אם כן תקרא לי.** – I won’t come unless you call me.      |
 | **כָּל עוֹד**       | *kol od*          | as long as          | **כל עוד אתה כאן, הכול טוב.** – As long as you’re here, everything is fine. |
 | **בֵּין אִם**       | *bein im*         | whether (…or…)      | **בין אם תבוא ובין אם לא - נתחיל.** – Whether you come or not - we’ll start.    |
+| **יֵתֶר עַל כֵּן**    | *yeter al ken*    | moreover, furthemore | **יתר על כן זה מראה שאיכפת לך.** - Rather, it shows that you care. |
 
 ---
 
