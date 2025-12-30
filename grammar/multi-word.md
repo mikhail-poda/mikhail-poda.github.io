@@ -37,6 +37,7 @@
 
 | **Hebrew**        | **Transcription** | **Meaning**         | **Example**                                                                 |
 | ----------------- | ----------------- | ------------------- | --------------------------------------------------------------------------- |
+| **אִם כִּי**        | *im ki*           | although, even though | **אם כי קשה, ננסה שוב** – although it’s hard, we’ll try again                |
 | **אַף עַל פִּי שֶׁ־**  | *af al pi she-*   | although            | **אף על פי שירד גשם, יצאנו.** – Although it rained, we went out.            |
 | **אַף עַל פִּי כֵן**  | *af al pi ken*    | nevertheless        | **היה קשה; אף על פי כן הצלחנו.** – It was hard; nevertheless we succeeded.  |
 | **בְּכָל זֹאת**      | *bekhol zot*      | nevertheless; still | **דיברנו מעט, ובכל זאת הבנו.** – We talked little, yet we understood.       |

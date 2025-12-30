@@ -2,8 +2,8 @@
 
 | **Hebrew**     | **Transcription**    | **Meaning**                     | **Example**                                                           |
 | -------------- | -------------------- | ------------------------------- | --------------------------------------------------------------------- |
-| **לְהַכְחִישׁ**     | *lehach'chish*        | to deny (a fact/accusation)     | **הנאשם הכחיש את החשדות.** – the defendant denied the allegations.    |
-| **לְהִתְכַּחֵשׁ**     | *lehit'kachesh*       | to disavow; deny any connection | **הוא התכחש לקשר לפרשה.** – he disavowed any connection to the case.  |
+| **לְהַכְחִישׁ**     | *lehach'chish*       | to deny (a fact/accusation)     | **הנאשם הכחיש את החשדות.** – the defendant denied the allegations.    |
+| **לְהִתְכַּחֵשׁ**     | *lehit'kachesh*      | to disavow; deny any connection | **הוא התכחש לקשר לפרשה.** – he disavowed any connection to the case.  |
 | **לִמְנוֹעַ**      | *limnoa*             | to prevent                      | **החוק מונע עישון כאן.** – the law prevents smoking here.             |
 | **לִשְׁלוֹל**      | *lishlol*            | to negate; rule out; revoke     | **הרופא שלל דלקת ריאות.** – the doctor ruled out pneumonia.           |
 | **לִדְחוֹת**      | *lidchot*            | to reject; (also: postpone)     | **בית־המשפט דחה את הערעור.** – the court rejected the appeal.         |
