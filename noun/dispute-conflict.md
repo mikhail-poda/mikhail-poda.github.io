@@ -45,9 +45,9 @@
 
 | **Hebrew**    | **Transcription** | **Meaning** | **Notes** | **Example** |  
 |---------------|----------------|------------|-----------------|------------|  
-| **רִיב**, **מריבה** | *riv*, *merivà* | quarrel, fight | Small personal argument, usually verbal | **ריב משפחתי** (*riv mishpachti*) – family quarrel |  
-| **סִיכְסוּךְ**    | *sichsuch* | conflict, dispute | Long-term personal or political conflict | **סכסוך שכנים** (*sichsuch shchenim*) – neighbor dispute |  
-| **התנגשות**   | *hitnagshut*      | clash, collision | Can be literal (cars) or figurative (political). | **התנגשות בין מפלגות** – clash between parties.  |
+| **רִיב**       | *riv*          | quarrel, fight | Small personal argument, usually verbal | **ריב משפחתי** (*riv mishpachti*) – family quarrel |  
+| **סִיכְסוּךְ**    | *sichsuch*     | conflict, dispute | Long-term personal or political conflict | **סכסוך שכנים** (*sichsuch shchenim*) – neighbor dispute |  
+| **התנגשות**   | *hitnagshut*   | clash, collision | Can be literal (cars) or figurative (political). | **התנגשות בין מפלגות** – clash between parties.  |
 
 ---
 
@@ -93,7 +93,8 @@
 | **מוּתְקָף**     | *mutkaf*             | (the) attacked, target          | **המותקף נפצע**            |
 | **צַד (בַּסִּכְסוּךְ)** | *tzad (ba-sichsuch)* | party/side (to a dispute)     | **שני הצדדים בסכסוך**      |
 | **לוֹחֵם**      | *lochem*             | fighter, combatant              | **לוחם ביחידה מיוחדת**     |
-| **חַיָּל**       | *chayal*             | soldier                         | **חייל בשירות סדיר**       |
+| **חַיָּיל**      | *chayal*             | soldier                         | **חייל בשירות סדיר**       |
+| **חַיִל**       | *chail*              | force, corps                    | **חיל האוויר מסתמך על עבודת צוות**       |
 | **בַּעַל בְּרִית**  | *ba‘al brit*         | ally                            | **בעלי ברית אזוריים**      |
 | **תּוֹמֵךְ**      | *tomech*             | supporter, backer               | **תומכי המהלך**            |
 | **קוֹרְבָּן**     | *korban*             | victim                          | **קורבן אלימות**           |
