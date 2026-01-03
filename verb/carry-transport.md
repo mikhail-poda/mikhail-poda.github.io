@@ -1,0 +1,8 @@
+# Topic: to Carry, Transport
+
+| **Hebrew**   | **Transcription** | **Meaning**                                                       | **Example**                                                                                                                                                                  |
+| ------------ | ----------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **לְהַסִּיעַ**    | *lehasí’a*        | to drive (someone), to take (by vehicle), to transport passengers | **אני אסיע אותך לתחנה** (*aní así’a otkha la-tachanà*) – I’ll drive you to the station.                                                                                      |
+| **לְהַעֲבִיר**   | *leha’avír*       | to transfer, move over; to transport                              | **החברה מעבירה נוסעים בין העיר לשדה התעופה** (*ha-chevrá ma’avirá nos’ím ben ha-‘ír la-sdé ha-te’ufá*) – The company transports passengers between the city and the airport. |
+| **לְהוֹבִיל**   | *lehovíl*         | to transport, to carry (as cargo); to lead                        | **המשאית מובילה ציוד לאתר** (*ha-mash’ít movilá tsiyúd la-’atár*) – The truck transports equipment to the site.                                                              |
+| **לָשֵׂאת**     | *lasét*           | to carry, bear; (formal) to carry passengers                      | **האוטובוס נושא עד 50 נוסעים** (*ha-otobús nosé ‘ad chamishím nos’ím*) – The bus carries up to 50 passengers.                                                                |

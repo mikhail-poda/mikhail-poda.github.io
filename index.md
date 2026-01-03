@@ -155,6 +155,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ### Technical
 
+- [Carry, Transport](/verb/carry-transport.md)
 - [Contain, Comprise](/verb/contain-comprise.md)
 - [Cut, Slice](/verb/cut-slice.md)
 - [Increase, Expand](/verb/increase-expand.md)
