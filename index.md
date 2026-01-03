@@ -106,6 +106,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Device, Tool](/noun/device-tool.md)
 - [Path, Route](/noun/path-route.md)
 - [Product, Commodity](/noun/product-commodity.md)
+- [Section, Fragment](/noun/section-fragment.md)
 
 ## Prepositions
 
