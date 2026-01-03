@@ -65,3 +65,9 @@ Forms: **אֶחָד** (m), **אַחַת** (f).
 ## Two
 
 The “two is special - 
+
+##
+
+##
+
+רְבִיעַ - quadrant
