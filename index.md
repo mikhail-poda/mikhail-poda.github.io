@@ -104,6 +104,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Box, Container](/noun/box-container.md)
 - [Component, Detail](/noun/component-detail.md)
 - [Device, Tool](/noun/device-tool.md)
+- [Expansion, Extension](/noun/expansion-extension.md)
 - [Path, Route](/noun/path-route.md)
 - [Product, Commodity](/noun/product-commodity.md)
 - [Section, Fragment](/noun/section-fragment.md)
