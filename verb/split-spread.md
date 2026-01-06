@@ -17,14 +17,14 @@
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
 | **-**       | **-**            | פ־ל־ח | **פֶּלַח** – market share; fruit slice |
-| **לִפְרוֹס** | to slice; spread out; deploy | ¹פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
+| **לִפְרוֹס** | to slice; spread out; deploy | ¹פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment |
 | **לְהִתְפַּלֵּג** | to split into factions | פ־ל־ג | **פֶּלֶג** – faction<br>**מִפְלָגָה** – political party<br>**הִתְפַּלְּגוּת** – statistical distrubution |
 | **לְפַצֵּל** | to split up, divide | פ־צ־ל | **פִּיצּוּל** – fragmentation |
 | **לְהִיפָּרֵד** | to separate | פ־ר־ד | **הַפְרָדָה** – separation. segregation<br>**נִפְרָד** – separate, individual (adj.) |
 | **לִפְרוֹט** | to break (money into small parts) | ¹פ־ר־ט | **פְּרָטִי** – private, personal<br>**מְפוֹרָט** – detailes, specific |
 | **לִפְרוֹם** | to unknit, unravel | פ־ר־ם  |  |
 | **לְפָרֵק** | to dismantle, disassemble | ¹פ־ר־ק | **פֶּרֶק** – chapter<br>**פֵּירוּק** – deconstruction, disassembly |
-| **לִפְרוֹק** | to unpack, unload | ²פ־ר־ק | **פְּרִיקָה**– discharge, unloading |
+| **לִפְרוֹק** | to unpack, unload | ²פ־ר־ק | **פְּרִיקָה** – discharge, unloading |
 
 ---
 
@@ -35,7 +35,7 @@
 | **לְהָפִיץ** | to distribute, spread | פ־ו־ץ | **נָפוֹץ** – widespread, common<br>**הֲפָצָה** – distribution, dissemination, spreading |
 | **לְפַזֵּר** | to scatter, disperse | פ־ז־ר |  |
 | **לְהַפְגִּיז** | to bombard | פ־ג־ז | **פָּגָז** – artilery shell |
-| **לִפְרוֹס** | to slice; spread out; deploy | ²פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment<br>**מִפְרָשׂ** – sail|
+| **לִפְרוֹס** | to slice; spread out; deploy | ²פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment<br>**מִפְרָשׂ** – sail|
 | **לְהִתְפַּשֵּׁט** | to undress; spread (reflexive) | פ־שׁ־ט | **מוּפְשָׁט** – abstract<br>**פָּשׁוּט** – simple |
 
 ---
@@ -48,9 +48,9 @@
 | **לִפְלוֹט** | to emit, output; print | פ־ל־ט | **פָּלִיט** – refugee<br>**פְּלִיטוֹת** – emissions (industrial) |
 | **לְהִתְפּוֹגֵג** | to dissipate, fade away | פ־ג־ג | **תְּפוּגָה** – expiration  |
 | **לְפַרְסֵם** | to publish | פ־ר־ס־ם | **מְפוּרְסָם** – famous<br>**פִּירְסוֹמֶת** – advertisement<br>**פִּרְסוּם** – advertising, publication, publicity |
-| **לִפְרוֹס** | to slice; spread out; deploy | ³פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה**– layout; deployment |
+| **לִפְרוֹס** | to slice; spread out; deploy | ³פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment |
 | **לִשְׁפּוֹךְ** | to pour; spill | שׁ־פ־ך | **שְׁפִיכוּת דָּמִים** – bloodshed |
-| **לִפְעוֹם** | to beat, pulse | פ־ע־ם | **פְּעִימָה** – beat, pulse, heartbeat<br>**פַּעַם**– time (occasion); once  |
+| **לִפְעוֹם** | to beat, pulse | פ־ע־ם | **פְּעִימָה** – beat, pulse, heartbeat<br>**פַּעַם** – time (occasion); once  |
 
 ---
 

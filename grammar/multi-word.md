@@ -17,6 +17,7 @@
 | **עַד כֹּה**       | *ad ko*           | so far, up to now             | **עד כה הכול בסדר.** – So far everything is fine.           |
 | **עַד לִפְנֵי**     | *ad lifnei*       | until, up to (a past point)   | **עד לפני שנה גרתי שם.** – Until a year ago I lived there.  |
 | **עַד לָאַחֲרוֹנָה**  | *ad la’achrona*   | until recently                | **עד לאחרונה עבדתי שם.** – Until recently I worked there.   |
+| **עַד לֹא מִזְּמַן**  | *ad lo mizman*    | until recently                | **היא הייתה נשואה עד לא מזמן** – She was married until recently. |
 
 ---
 
