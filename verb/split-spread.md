@@ -18,10 +18,10 @@
 | ------------- | ----------- | ---------- | ---------- |
 | **-**       | **-**            | פ־ל־ח | **פֶּלַח** – market share; fruit slice |
 | **לִפְרוֹס** | to slice; spread out; deploy | ¹פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment |
-| **לְהִתְפַּלֵּג** | to split into factions | פ־ל־ג | **פֶּלֶג** – faction<br>**מִפְלָגָה** – political party<br>**הִתְפַּלְּגוּת** – statistical distrubution |
+| **לְהִתְפַּלֵּג** | to split into factions | פ־ל־ג | **פֶּלֶג** – faction<br>**מִפְלָגָה** – political party<br>**הִתְפַּלְּגוּת** – statistical distribution |
 | **לְפַצֵּל** | to split up, divide | פ־צ־ל | **פִּיצּוּל** – fragmentation |
 | **לְהִיפָּרֵד** | to separate | פ־ר־ד | **הַפְרָדָה** – separation. segregation<br>**נִפְרָד** – separate, individual (adj.) |
-| **לִפְרוֹט** | to break (money into small parts) | ¹פ־ר־ט | **פְּרָטִי** – private, personal<br>**מְפוֹרָט** – detailes, specific |
+| **לִפְרוֹט** | to break (money into small parts) | ¹פ־ר־ט | **פְּרָטִי** – private, personal<br>**מְפוֹרָט** – details, specific |
 | **לִפְרוֹם** | to unknit, unravel | פ־ר־ם  |  |
 | **לְפָרֵק** | to dismantle, disassemble | ¹פ־ר־ק | **פֶּרֶק** – chapter<br>**פֵּירוּק** – deconstruction, disassembly |
 | **לִפְרוֹק** | to unpack, unload | ²פ־ר־ק | **פְּרִיקָה** – discharge, unloading |
@@ -34,7 +34,7 @@
 | ------------- | ----------- | ---------- | ---------- |
 | **לְהָפִיץ** | to distribute, spread | פ־ו־ץ | **נָפוֹץ** – widespread, common<br>**הֲפָצָה** – distribution, dissemination, spreading |
 | **לְפַזֵּר** | to scatter, disperse | פ־ז־ר |  |
-| **לְהַפְגִּיז** | to bombard | פ־ג־ז | **פָּגָז** – artilery shell |
+| **לְהַפְגִּיז** | to bombard | פ־ג־ז | **פָּגָז** – artillery shell |
 | **לִפְרוֹס** | to slice; spread out; deploy | ²פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment<br>**מִפְרָשׂ** – sail|
 | **לְהִתְפַּשֵּׁט** | to undress; spread (reflexive) | פ־שׁ־ט | **מוּפְשָׁט** – abstract<br>**פָּשׁוּט** – simple |
 
@@ -44,7 +44,7 @@
 
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
-| **לְהַנְפִּיק** | to issue (coint, stock) | נ־פ־ק |   |
+| **לְהַנְפִּיק** | to issue (coin, stock) | נ־פ־ק |   |
 | **לִפְלוֹט** | to emit, output; print | פ־ל־ט | **פָּלִיט** – refugee<br>**פְּלִיטוֹת** – emissions (industrial) |
 | **לְהִתְפּוֹגֵג** | to dissipate, fade away | פ־ג־ג | **תְּפוּגָה** – expiration  |
 | **לְפַרְסֵם** | to publish | פ־ר־ס־ם | **מְפוּרְסָם** – famous<br>**פִּירְסוֹמֶת** – advertisement<br>**פִּרְסוּם** – advertising, publication, publicity |
@@ -68,7 +68,7 @@
 
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
-| **לְהַפְרוֹת** | to fertilize | פ־ר־ה | **פְּרִי** – fruit<br>**פּוֹרֶה** – productuve, fertile<br>**פִּרְיוֹן** – productivity, fertility |
+| **לְהַפְרוֹת** | to fertilize | פ־ר־ה | **פְּרִי** – fruit<br>**פּוֹרֶה** – productive, fertile<br>**פִּרְיוֹן** – productivity, fertility |
 | **לִפְרוֹחַ** | to bloom; hover | פ־ר־ח | **פֶּרַח** – flower<br>**אֶפְרוֹחַ** – young chicken |
 
 ---
@@ -102,7 +102,7 @@
 | **לְהַפְלוֹת** | to discriminate | פ־ל־ה | **אַפְלָיָה** – discrimination |
 | **לְהַפְרִיךְ** | to disprove, refute, debunk |  פ־ר־ך | **פָּרִיךְ** – crispy, crunchy<br>**פרך** – hard labour |
 | **לְהָפֵר** | to break (a contract, promise, law) | פ־ר־ר | **פֵּירוּר** – (bread) crumb<br>**הֲפָרָה** – violation, breach (of promise, law) |
-| **לִפְסוֹל** | to rule out, disqualify | פ־ס־ל | **פֶּסֶל** – statue<br>**פְּסוֹלֶת** - waste, debris |
+| **לִפְסוֹל** | to rule out, disqualify | פ־ס־ל | **פֶּסֶל** – statue<br>**פְּסוֹלֶת** – waste, debris |
 | **לְהִתְפַּשֵּׁר** | to compromise | פ־שׁ־ר | **פְּשָׁרָה** – compromise<br>**פּוֹשֵׁר** – lukewarm |
 
 ---
