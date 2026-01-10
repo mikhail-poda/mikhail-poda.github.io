@@ -90,6 +90,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ### Social
 
+- [Human Relashionships](/noun/human-relashionships.md)
 - [Leader, Ruler](/noun/leader-ruler.md)
 - [Meeting, Gathering](/noun/meeting-gathering.md)
 - [Nation](/noun/nation.md)
