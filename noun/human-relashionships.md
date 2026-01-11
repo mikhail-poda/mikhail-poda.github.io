@@ -29,6 +29,8 @@
 | **לָקוּחַ / לָקוּחָה**   | *lakúach / lakuchá*   | client; customer                              |
 | **אוֹרֵחַ / אוֹרַחַת**   | *oré'ach / oráchat*   | guest                                        |
 | **מְטַפֶּלֶת**          | *metapélet*           | caregiver; nanny                              |
+| **אוֹיֵב / אוֹיֶבֶת**   | *oyév / oyévet*       | enemy                                        |
+| **יָרִיב / יְרִיבָה**   | *yaríva / yerivá*     | rival                                        |
 
 ## Family and Romantic
 
@@ -44,4 +46,4 @@
 | **קְרוֹב / קְרוֹבָה**   | *krov / krová*        | relative                                      |
 | **קָרוֹב מִשְׁפָּחָה**     | *karóv mishpachá*     | close family member / close relative          |
 | **קָרוֹב רָחוֹק**      | *karóv rachók*        | distant relative                              |
-| **בֶּן/בַּת מִשְׁפָּחָה**    | *ben/bat mishpachá*   | family member                                       |
+| **בֶּן/בַּת מִשְׁפָּחָה**    | *ben/bat mishpachá*   | family member                                 |
