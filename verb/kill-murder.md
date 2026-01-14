@@ -12,3 +12,4 @@
 | **לִשְׁחוֹט**     | *lishchót*        | to slaughter (esp. animals)  |
 | **לִטְבּוֹחַ**     | *litbóach*        | to massacre, butcher         |
 | **לַעֲרוֹף**     | *la'aróf*         | to behead, decapitate        |
+| **להתנקש**    | *lehitnakèsh*     | to assassinate               |

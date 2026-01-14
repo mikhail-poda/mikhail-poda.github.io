@@ -84,14 +84,18 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Joy, Pleasure](/noun/joy-pleasure.md)
 - [Love, Passion](/noun/love-passion.md)
 
+### Human
+
+- [Fan, Admirer](/noun/fan-admirer.md)
+- [Human Relashionships](/noun/human-relashionships.md)
+- [Leader, Ruler](/noun/leader-ruler.md)
+
 ### Nature
 
 - [Sunrise, Sunset](/noun/sunrise-sunset.md)
 
 ### Social
 
-- [Human Relashionships](/noun/human-relashionships.md)
-- [Leader, Ruler](/noun/leader-ruler.md)
 - [Meeting, Gathering](/noun/meeting-gathering.md)
 - [Nation](/noun/nation.md)
 - [Permission, Authorization](/noun/permission-authorization.md)

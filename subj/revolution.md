@@ -15,6 +15,7 @@
 | לְהַאִיץ | leha'íts | to accelerate | הַסַּנְקְצְיוֹת הֵאִיצוּ אֶת הַמַּשְׁבֵּר. |
 | להאשים | leha'ashím | to accuse, blame | הוא האשים אותם כסוכנים זרים. |
 | להגיב | lehagív | to respond | ארה״ב תגיב בעוצמה. |
+| לְהַגְלוֹת | lehaglót | to exile | הַשָּׁאה הֻגְלָה מֵאִירָאן. |
 | להדיח | lehadíach | to remove from office | הדיחו בכירים בגלל כשלון. |
 | להוביל ל־ | lehovíl le- | to lead to | השביתה הובילה למחסור באספקה. |
 | לְהוֹדוֹת | lehodót | to admit, acknowledge | הַמֶּמְשָׁלָה הוֹדְתָה בַּמַּצּוּקָה. |
@@ -24,17 +25,22 @@
 | להטיל | lehatíl | to impose | הטילו מצור אינטרנטי. |
 | לְהַכְבִּיד | lehachbíd | to weigh down, burden | הַסַּנְקְצְיוֹת הִכְבִּידוּ עַל הָאֶזְרָחִים. |
 | לְהַכִּיר | lehakír | to recognize, acknowledge | הָרָשׁוּיוֹת הִכִּירוּ בַּבְּעָיָה. |
+| לְהַנְהִיג | lehanhíg | to lead (a movement) | חֻמֵינִי הִנְהִיג אֶת הַמַּהְפֵּכָה מֵהַגּוֹלָה. |
 | להעלות את הרף | leha'alót et haráf | to raise the stakes | טראמפ העלה את הרף בהצהרה. |
 | להפגין | lehafgín | to demonstrate, protest | אנשים הפגינו בבירה. |
+| לַהֲפוֹךְ | lahafóch | to overthrow, invert | הַמַּהְפֵּכָה הָפְכָה אֶת הַשִּׁלְטוֹן הַמְּלַכְדִּי. |
 | להפיל | lehapíl | to topple | הם רוצים להפיל את השלטון. |
 | להצהיר | lehatzhír | to declare | הוא הצהיר שלא ייסוגו. |
 | להצטרף | lehitztaréf | to join | מדינות נוספות הצטרפו ללחץ. |
 | להצית | lehatsít | to set on fire, ignite | הציתו מבני ממשל. |
 | לְהַצְלִיחַ | lehatslíach | to succeed | הַמִּשְׁטָר הִצְלִיחַ לְדַכֵּא מְחָאוֹת קוֹדְמוֹת. |
+| לְהַקְרִיב | lehakrív | to sacrifice | רַבִּים הִקְרִיבוּ חַיֵּיהֶם בְּמַהְפֵּכָה. |
 | להרוג | laharóg | to kill | דווח שכוחות ירו והרגו. |
 | להשבית | lehashbít | to shut down, disable | המשטר השבית את האינטרנט. |
 | להשתיק | lehashtík | to silence | ניסו להשתיק את המחאה. |
 | להתחייב ל־ | lehitchayév le- | to commit, pledge | הנשיא התחייב לפתרונות כלכליים. |
+| לְהִתְנַגֵּד | lehitnagéd | to oppose, resist | הַמּוֹחִים הִתְנַגְּדוּ לַמִּשְׁטָר הָאִיסְלָאמִי. |
+| לְהִתְפַּלֵּג | lehitpalég | to split, factionalize | הָאוֹפּוֹזִיצְיָה הִתְפַּלְּגָה לְקְבוּצוֹת שׁוֹנוֹת. |
 | להתפשט | lehitpashtét | to spread | המחאה התפשטה לערים נוספות. |
 | להתקומם | lehitkomém | to rise up | התושבים התקוממו נגד המשטר. |
 | לוותר | levatér | to give up, concede | הוא לא מוכן לוותר על שלטונו. |
@@ -71,6 +77,7 @@
 | איום | iyúm | threat | האיום הופנה למפגינים. |
 | אִיסּוּר | isúr | ban, prohibition | יֵשׁ אִיסּוּר עַל הִתְקַהֲלוּת. |
 | אלימות | alimút | violence | האלימות הסלימה במהירות. |
+| גּוֹלָה       | golá              | exile                        | חֻמֵינִי חָיָה בְּגוֹלָה בְּצָרְפַת. |
 | גל | gal | wave | גל מחאות חדש פרץ. |
 | דיכוי | dikúy | repression | הדיכוי החריף בחודשים האחרונים. |
 | דרישה | drishá | demand | הדרישה הייתה להפלת המשטר. |
@@ -87,6 +94,7 @@
 | הריגה | harigá | killing (act) | הייתה הריגה במהלך העימותים. |
 | השבתה | hashbatá | shutdown | השבתת אינטרנט נמשכה. |
 | השפעה | hashpa'á | influence | היא ניסתה לשמר השפעה. |
+| הִתְנַגְּדוּת | hitnag'dút        | opposition, resistance       | הַהִתְנַגְּדוּת לַשָּׁאה גָּדְלָה. |
 | התקוממות | hitkomemút | uprising | מקרי התקוממות נרשמו בעיר. |
 | התקפה | hatkafá | attack (broader) | תיארו התקפה משולבת. |
 | חילוניות | chiloníyut | secularism | דיברו על חילוניות. |
@@ -99,7 +107,7 @@
 | מחאה | mecha'a | protest | המחאה נמשכת שבועות. |
 | מחסור | machsór | shortage | נוצר מחסור במים ובאנרגיה. |
 | מטבע | matbéa | currency | המטבע צנח לשפל. |
-| מיליציות | militsyót | militias | גורל המיליציות לא ברור. |
+| מַלְכּוּת     | malkhút           | monarchy                     | הַמַּלְכּוּת נֶהֶרְסָה בְּמַהְפֵּכָה. |
 | מינוי | minúy | appointment | המינוי עורר זעם ציבורי. |
 | ממשל | mimshál | administration | בגיבוי הממשל האמריקאי. |
 | ממשלה | memshalá | government | הממשלה נקטה צעדי מנע. |
@@ -108,6 +116,7 @@
 | מעצר | ma'atzár | arrest, detention | מספר המעצרים עלה. |
 | מפגין | mafgín | protester | מפגינים יצאו לרחובות. |
 | מצור | matzór | siege, blockade | הוטל מצור אינטרנטי. |
+| מֶרֶד         | méred             | rebellion, revolt            | הַמֶּרֶד פָּרַץ בְּעָרִים גְּדוֹלוֹת. |
 | משטר | mishtár | regime | המשטר ניתק את התקשורת. |
 | מתפרע | mitparéa | rioter | המשטר כינה אותם מתפרעים. |
 | נאמן | ne'emán | loyalist | נאמנים למשטר יצאו לרחוב. |
@@ -121,6 +130,7 @@
 | פיחות | pichút | devaluation | הפיחות החריף את המשבר. |
 | פצוע | patzúa | wounded person | מאות פצועים פונו. |
 | פריסה | prisá | deployment | הייתה פריסה של כוחות כבדים. |
+| קִיצוֹנִיּוּת | kitsoniyút        | extremism                    | הַקִּיצוֹנִיּוּת דָּתִית הִשְׁפִּיעָה עַל הַמַּהְפֵּכָה. |
 | קריסה | krisá | collapse | קריסה של המטבע החריפה את המשבר. |
 | רשויות | rashuyót | authorities | הרשויות הודיעו על סגירות. |
 | שביתה | shvitá | strike | הייתה שביתה ארצית. |
@@ -149,11 +159,13 @@
 | סנקציות         | sanktzyót         | sanctions               | הסנקציות הוחרפו.               |
 | אינפלציה        | inflátsya         | inflation               | האינפלציה זינקה.               |
 | אופוזיציה       | opozítsya         | opposition              | האופוזיציה טענה לזיוף.         |
-| תיאוקרטיה       | te'okrátya        | theocracy               | הוקמה תיאוקרטיה שיעית.         |
 | פרלמנט          | parlamént         | parliament              | יו״ר הפרלמנט הגיב.             |
 | קבינט           | kabinét           | cabinet                 | הקבינט דן בנושא.               |
 | סטודנט          | student           | student                 | סטודנטים הצטרפו למחאה.         |
 | מומנטום         | momentum          | momentum                | ניסו לעצור את המומנטום.        |
+| דִיקְטָטוּרָה       | diktaturá         | dictatorship                 | הַשָּׁאה נִרְאָה כְּדִיקְטָטוּרָה. |
+| רֵפוֹרְמָה         | reformá           | reform                       | דְּרִישׁוֹת לְרֵפוֹרְמָה פְּנִימִית. |
+| מיליציות       | militsyót | militias | גורל המיליציות לא ברור. |
 
 ---
 
@@ -168,15 +180,17 @@
 | חלופי | chalufí | alternative | משטר חלופי יעלה במקומו. |
 | חָרִיף | charíf | severe, acute | הָיָה מַשְׁבֵּר כַּלְכָּלִי חָרִיף. |
 | כּוֹשֵׁל | koshél | failing | הַמְּדִינִיּוּת נִרְאֵית כּוֹשֶׁלֶת. |
+| מְלוּכָנִי    | meluchaní          | monarchical                  | הַשִּׁלְטוֹן מְלוּכָנִי נֶהֶרַס. |
 | מסובסד | mesubsád | subsidized | דלק מסובסד התייקר. |
 | מקוון | mekuván | online | אקטיביזם מקוון התגבר. |
+| מַעֲרָבִי    | ma'araví          | Western                      | הִתְנַגְּדוּ לְהַשְׁפָּעָה מַעֲרָבִית. |
 | נאמן | ne'emán | loyal | קבוצה נאמנה למשטר. |
 | נרחב | nircháv | widespread | מחאות בהיקף נרחב. |
 | סמלי | simlí | symbolic | מנהיג סמלי של התנועה. |
 | עצור | atzúr | detained | עיתונאי עצור לא הופיע. |
 | פצוע | patzúa | wounded | יש מפגין פצוע. |
 | קִיּוּמִי | kiyumí | existential | הַמַּאֲבָק הָפַךְ לְקִיּוּמִי. |
-| רפורמיסטי | reformísti | reformist | עיתון רפורמיסטי פרסם. |
+| קִיצוֹנִי     | kitsoní           | extreme, radical             | מַנְהִיגִים קִיצוֹנִיִּים עָלוּ לַשִּׁלְטוֹן. |
 
 ---
 
@@ -222,3 +236,11 @@
 | באזאר         | bazár                 | bazaar, market            | הבאזאר הגדול נסגר.                 |
 | משטרת הצניעות | mishtéret hatzni'út   | Morality police           | משטרת הצניעות עצרה צעירה ברחוב.    |
 | משמרות המהפכה | mishmárot hamahapechá | Revolutionary Guards      | משמרות המהפכה פיזרו את ההפגנות.    |
+| גִ'יהָאד          | jihad             | jihad (holy war)             | דִּבְּרוּ עַל גִ'יהָאד נֶגֶד הַמַּעֲרָב. |
+| אִיסְלָאם          | islám             | Islam                        | הָאִיסְלָאם הָפַךְ לְבָסִיס הַמִּשְׁטָר. |
+| שִׁיעָה            | shi'á             | Shia (branch of Islam)       | הַמַּהְפֵּכָה הָיְתָה שִׁיעִית בְּמָקוֹרָהּ. |
+| סוּנָה            | suná              | Sunni (branch of Islam)      | הַסּוּנָה הִתְנַגְּדָה לַמִּשְׁטָר הַשִּׁיעִי. |
+| תיאוקרטיה       | te'okrátya        | theocracy               | הוקמה תיאוקרטיה שיעית.         |
+| פוּנְדָמֶנְטָלִיזְם    | fundamentalízm    | fundamentalism               | פוּנְדָמֶנְטָלִיזְם דָּתִי שָׁלַט בָּאִירָאן. |
+| פַתְוָוה          | fatwá             | fatwa (religious decree)     | הָאיְתוֹלָה הוֹצִיא פַתְוָוה נֶגֶד הַשָּׁאה. |
+| אִיסְלָאמִיזַצְיָה    | islamizátsya      | Islamization                 | הָאִיסְלָאמִיזַצְיָה שָׁלְטָה בְּכָל תְּחוּמֵי הַחַיִּים. |
