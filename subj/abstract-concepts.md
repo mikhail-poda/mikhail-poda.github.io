@@ -3,10 +3,9 @@
 Scope note: native Hebrew terms only; international/loanwords commonly used in Hebrew
  (e.g., פונקציה, מודל, אלגוריתם, דיאגרמה) are excluded.
 
-## Ontology (Identity, Existence, Modality)
 
 | **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
-| ----------- | ------------- | ----------- | ----------------------------- |
+| ------------- | ------------------------- | ------------------------------ | -------------------------------- |
 | **זֶהוּת**    | *zehut*       | identity    | **זהות פריט לאורך זמן.**      |
 | **מַהוּת**    | *mahut*       | essence     | **מהות המושג שנויה במחלוקת.** |
 | **קִיּוּם**    | *kiyum*       | existence   | **טענת קיום.**                |
@@ -14,52 +13,23 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **הֶכְרֵחַ**    | *hechre'ach*  | necessity   | **הכרח מתמטי.**               |
 | **מְצִיאוּת**  | *metziut*     | reality     | **טיב המציאות.**              |
 | **נוֹכְחוּת**  | *nochechut*   | presence      | **נוכחות גורם במערכת.**      |
-| **היעדר**   | *he'eder*     | absence       | **העדר ראיות אינו ראיה להיעדר.** |
+| **הֵיעָדֵר**   | *he'eder*     | absence       | **העדר ראיות אינו ראיה להיעדר.** |
 | **חוסר**    | *choser*      | lack, deficiency    | **חוסר איזון.**           |
 | **ריקנות**  | *rekanut*     | emptiness, voidness | **תחושת ריקנות קיומית.**      |
-
-
----
-
-## Goals & Intentions
-
-| **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
-| ----------- | ------------ | ----------------- | -------------------------------- |
 | **מַטָּרָה**   | *matara*      | goal, aim         | **מטרת המחקר מוגדרת היטב.**      |
 | **יָעַד**    | *ya'ad*       | target, objective | **הוגדר יעד שנתי.**              |
 | **תַּכְלִית**  | *tachlit*     | purpose           | **מה תכלית הניסוי?**             |
 | **כַּוָּנָה**   | *kavana*      | intention         | **כוונת המחבר איננה חד־משמעית.** |
-
----
-
-## Processes & Phenomena
-
-| **Hebrew**    | **Transcription** | **Meaning**     | **Example**      |
-| ------------- | -------------- | ---------- | ------------------------- |
 | **תּוֹפָעָה**    | *tofa'a*       | phenomenon | **תופעה טבעית עונתית.**   |
 | **תַּהֲלִיךְ**    | *tahalich*     | process    | **התהליך איטי אך יציב.**  |
 | **הֶמְשֵׁכִיּוּת**  | *hemshechiyut* | continuity | **המשכיות התהליך חשובה.** |
-
----
-
-## Sequences, Stages & Temporal Boundaries
-
-| **Hebrew**      | **Transcription** | **Meaning**     | **Example**      |
-| --------------- | --------------- | ------------------ | ---------------------------- |
 | **רֶצֶף**         | *retzef*        | sequence           | **רצף אירועים ליניארי.**     |
-| **הִשְׁתַּלְשְׁלוּת**    | *hishtalshelut* | chain/sequence     | **השתלשלות האירועים תועדה.** |
+| **הִשְׁתַּלְשְׁלוּת**    | *hishtalshelut* | chain, sequence   | **השתלשלות האירועים תועדה.** |
 | **סֵדֶר**         | *seder*         | order, procedure   | **סדר פעולות מוגדר.**        |
 | **שָׁלָב**         | *shalav*        | step, stage        | **שלב ראשון במחקר.**         |
 | **הַתְחָלָה**       | *hatchala*      | start, beginning   | **התחלה של פרויקט.**         |
 | **סוֹף**         | *sof*           | end                | **סוף התהליך.**              |
 | **סִיּוּם**        | *siyum*         | completion, finish | **סיום המחקר.**              |
-
----
-
-## Systems, Structures, States & Frameworks
-
-| **Hebrew**      | **Transcription** | **Meaning**     | **Example**      |
-| --------------- | ---------------- | ---------------- | ------------------------ |
 | **מַעֲרֶכֶת**       | *ma'arechet*     | system           | **מערכת פתוחה.**         |
 | **מִבְנֶה**        | *mivne*          | structure        | **המבנה הלוגי תקין.**    |
 | **מִסְגֶּרֶת**       | *misgeret*       | framework        | **מסגרת תיאורטית.**      |
@@ -68,13 +38,6 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **אִיזּוּן**       | *izun*           | balance          | **איזון בין גורמים.**    |
 | **שִׁוּוּי מִשְׁקָל**   | *shivuy mishkal* | equilibrium      | **שיווי משקל כימי.**     |
 | **אַחְדוּת**       | *achdut*         | unity            | **אחדות המערכת נשמרה.**  |
-
----
-
-## Measurement, Observation & Data
-
-| **Hebrew**   | **Transcription** | **Meaning**     | **Example**      |
-| ------------ | ------------ | --------------------- | ---------------------------- |
 | **תַּצְפִּית**   | *tatzpit*     | observation           | **בוצעה תצפית שדה.**         |
 | **נִסּוּי**    | *nisui*       | experiment            | **ניסוי מבוקר.**             |
 | **בַּקָּרָה**    | *bakara*      | control, monitoring   | **בקרה רציפה על הנתונים.**   |
@@ -92,13 +55,6 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **כַּמּוּת**    | *kamut*       | quantity              | **כמות גדולה של נתונים.**    |
 | **אֵיכוּת**   | *eichut*      | quality               | **איכות גבוהה.**             |
 | **מִיקּוּד**   | *mikud*       | focus                 | **מיקוד בנושא המרכזי.**      |
-
----
-
-## Statistics & Probability
-
-| **Hebrew**     | **Transcription** | **Meaning**     | **Example**      |
-| -------------- | ------------- | ------------------------ | ------------------------- |
 | **הַסְתַּבְּרוּת**   | *hastab'rut*  | (formal) probability     | **הסתברות גבוהה לתוצאה.** |
 | **סְבִירוּת**    | *svirut*      | likelihood, plausibility | **סבירות נמוכה לתרחיש.**  |
 | **מְמוּצָּע**     | *memutzà*     | average                  | **ממוצע משוקלל.**         |
@@ -115,13 +71,6 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **יַחַס**       | *yachas*      | ratio                    | **יחס אות־לרעש.**         |
 | **שִׁיעוּר**     | *shi'ur*      | rate, proportion         | **שיעור גידול שנתי.**     |
 | **עוֹצְמָה**     | *otzma*       | power (signal)           | **עוצמת האות.**           |
-
----
-
-## Logic, Proof & Reasoning (incl. complexity/abstraction)
-
-| **Hebrew**    | **Transcription** | **Meaning**     | **Example**      |
-| ------------- | ------------- | ------------------- | ----------------------------- |
 | **הַשְׁעָרָה**     | *hash'ara*    | hypothesis, conjecture | **השערה מדעית.**     |
 | **הַנָּחָה**      | *hanacha*     | assumption         | **הנחת עבודה.**               |
 | **הוֹכָחָה**     | *hochacha*    | proof              | **הוצגה הוכחה מלאה.**         |
@@ -135,16 +84,9 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **הַפְשָׁטָה**     | *hafshata*    | abstraction        | **הפשטה לוגית.**              |
 | **הֵיבֵּט**      | *hebet*       | aspect             | **היבט תיאורטי.**             |
 | **שְׁלִילָה**     | *shlila*      | negation           | **שלילת הטענה.**              |
-| **אִישּׁוּשׁ**     | *ishush*      | confirmation       | **הטיית האישוש.**              |
+| **אִישּׁוּר**     | *ishur*       | confirmation       | **הטיית האישור.** – Confirmation bias. |
 | **סְתִירָה**     | *stira*       | contradiction      | **סתירה בין הנחות.**          |
 | **אִימּוּת**     | *imut*        | validation, verification    | **אימות קלט.**          |
-
----
-
-## Epistemology, Semantics & Terminology
-
-| **Hebrew**   | **Transcription** | **Meaning**     | **Example**      |
-| ------------ | ------------ | ---------------------------- | --------------------------- |
 | **מוּשָׂג**    | *musag*       | concept                      | **מושג המקריות.**           |
 | **מוּנָּח**    | *munach*      | term<br/>(also: placed on)   | **מונח טכני מדויק.**        |
 | **הֶקְשֵׁר**    | *heksher*     | context                      | **הקשר היסטורי.**           |
@@ -158,37 +100,16 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **עֵרֶךְ**     | *erech*       | value                        | **סולם ערכים.**             |
 | **עוּבְדָּה**   | *uvda*        | fact                         | **עובדה ניתנת לבדיקה.**     |
 | **רְאָיָה**    | *re'aya*      | evidence                     | **ראיות אמפיריות תומכות בהשערה** |
-
----
-
-## Description, Explanation & Prediction
-
-| **Hebrew**  | **Transcription** | **Meaning**       | **Example**      |
-| ----------- | ------------- | --------------------- | -------------------- |
 | **תֵּיאוּר**  | *te'ur*       | description            | **תיאור ללא הסבר.**  |
 | **הֶסְבֵּר**   | *hesber*      | explanation            | **הסבר סיבתי.**      |
 | **נִיבּוּי**  | *nibuy*       | prediction             | **ניבוי תוצאות.**    |
 | **תַּחֲזִית**  | *tachazit*    | forecast               | **תחזית מזג אוויר.** |
-
----
-
-## Relations, Causality & Conditions
-
-| **Hebrew**      | **Transcription** | **Meaning**     | **Example**      |
-| --------------- | ----------------- | --------------------- | --------------------- |
 | **קֶשֶׁר**         | *kesher*          | relation, association | **קשר בין משתנים.**   |
 | **סִיבָּתִיּוּת**     | *sibatiyut*       | causality             | **בחינת סיבתיות.**    |
 | **הַשְׁפָּעָה**       | *hashpa'a*        | influence, effect     | **השפעת המשתנה.**     |
 | **תּוֹצָאָה**       | *totsa'a*         | result, effect        | **תוצאה עקבית.**      |
 | **תְּנַאי הֶכְרֵחִי**  | *tnai hechrechi*  | necessary condition   | **X תנאי הכרחי ל־Y.** |
 | **תְּנַאי מַסְפִּיק**  | *tnai maspik*     | sufficient condition  | **X תנאי מספיק ל־Y.** |
-
----
-
-## Classification, Division & Comparison
-
-| **Hebrew**  | **Transcription** | **Meaning**    | **Example**      |
-| ----------- | ------------ | ------------------- | ----------------------- |
 | **הַפְרָדָה**  | *hafrada*     | separation          | **הפרדת משתנים.**       |
 | **סִיוּוּג**  | *sivug*       | classification      | **סיווג לפי מאפיינים.** |
 | **מִיּוּן**   | *miyun*       | sorting             | **מיון הנתונים.**       |
@@ -197,24 +118,10 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **הַבְחָנָה**  | *havchana*    | distinction         | **הבחנה בין מין לסוג.** |
 | **הַשְׁווָאָה** | *hashva'a*    | comparison, analogy | **השוואה בין שיטות.**   |
 | **מַחְלָקָה**  | *machlaka*    | class; department   | **מחלקת נתונים.**       |
-
----
-
-## Methods, Approaches, Styles & Procedures
-
-| **Hebrew** | **Transcription** | **Meaning**     | **Example**      |
-| ---------- | ------------- | -------------- | ---------------- |
 | **שִׁיטָה**  | *shita*       | method, system | **שיטה מדעית.**  |
 | **גִּישָׁה**  | *gisha*       | approach       | **גישה חדשנית.** |
 | **אוֹפֶן**  | *ofen*        | manner         | **אופן פעולה.**  |
 | **סִגְנוֹן** | *signon*      | style          | **סגנון ניתוח.** |
-
----
-
-## Implementation, Representation & Composition
-
-| **Hebrew**   | **Transcription** | **Meaning**     | **Example**      |
-| ------------ | ------------- | --------------------------- | ------------------------- |
 | **יִישׂוּם**   | *yisum*       | implementation, application | **יישום האלגוריתם בקוד.** |
 | **יִיצּוּג**   | *yitzug*      | representation              | **ייצוג הנתונים בגרף.**   |
 | **שִׁלּוּב**    | *shiluv*      | combination, integration    | **שילוב אלמנטים.**        |
@@ -222,55 +129,20 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **תַּעֲרוֹבֶת**  | *ta'arovet*   | mixture, blend              | **תערובת כימית.**         |
 | **עִיצּוּב**   | *itzuv*       | design                      | **עיצוב הממשק.**          |
 | **רֶכֶב**     | *rechev*      | composition                  | **הֶרְכֵּב כִּימִי.**          |
-
----
-
-## Notation
-
-| **Hebrew**   | **Transcription** | **Meaning**     | **Example**      |
-| ------------ | ------------- | --------------------------- | ------------------------- |
 | **סִימּוּן**    | *simun*       | notation, marking           | **סימון מוסכם.**          |
 | **סִימָן**     | *siman*       | sign, signal                | **סימן אזהרה.**           |
 | **סֵמֶל**      | *semel*       | symbol                      | **סמל מתמטי.**            |
-
----
-
-## Performance & Efficiency
-
-| **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
-| ----------- | ------------- | --------------------- | ----------------- |
 | **יְעִילוּת** | *ye'ilut*     | efficiency             | **יעילות גבוהה.** |
 | **יִתְרוֹן**  | *yitron*      | advantage, benefit     | **יתרון תחרותי.** |
 | **חִסָּרוֹן**  | *chisaron*    | disadvantage, drawback | **חיסרון מרכזי.** |
 | **תֶּקֶן**    | *teken*       | standard               | **תקן בינלאומי.** |
 | **דֵּרוּג**   | *derug*       | rating                 | **דירוג איכות.** |
-
----
-
-## Validity, Reliability & Consistency
-
-| **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
-| ----------- | ------------- | ----------- | ------------------- |
 | **תּוֹקֶף**    | *tokef*       | validity    | **תוקף פנימי.**     |
 | **מְהֵימָנוּת** | *mehemanut*   | reliability | **מהימנות המדידה.** |
 | **עִקְבִיּוּת**  | *akviyut*     | consistency | **עקביות לוגית.**   |
-
----
-
-## Errors, Biases & Uncertainty
-
-| **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
-| ----------- | ------------- | ------- | -------------------- |
 | **כִּשָּׁלוֹן**   | *kishalon*    | failure | **כשל מדידה.**       |
 | **הַטָּיָה**    | *hataya*      | bias    | **הטיית מדגם.**      |
 | **סָפֵק**     | *safek*       | doubt   | **ספק לגבי המסקנה.** |
-
----
-
-## Actions, Performance & Function
-
-| **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
-| ----------- | ------------ | --------------------- | ------------------- |
 | **מַעֲשֶׂה**   | *ma'ase*      | act, action           | **מעשה מחושב.**     |
 | **פְּעוּלָּה**  | *pe'ula*      | action, operation     | **פעולה יעילה.**    |
 | **בִּיצּוּעַ**  | *bitzua*      | performance           | **ביצוע משימה.**    |
@@ -279,13 +151,6 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **דְּרִישָׁה**  | *drisha*      | requirement           | **דרישה מינימלית.** |
 | **שִׁמּוּשׁ**   | *shimush*     | use, usage            | **שימוש בכלי.**     |
 | **מַאֲמָץ**   | *ma'amatz*    | effort                | **הושקע מאמץ רב.**  |
-
----
-
-## Causes, Motivations & Justifications
-
-| **Hebrew** | **Transcription** | **Meaning**     | **Example**      |
-| ---------- | ------------- | ------------------------------ | ----------------- |
 | **סִבָּה**    | *siba*        | reason, cause                  | **סיבה טובה.**    |
 | **גּוֹרֵם**   | *gorem*       | factor, cause                  | **גורם סיכון.**   |
 | **טַעַם**    | *ta'am*       | reason, justification (formal) | **אין טעם ל־…**   |
@@ -293,24 +158,10 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **עִלָּה**    | *ila*         | legal cause, grounds           | **עילת גירושין.** |
 | **מְנִיעַ**   | *meni'a*      | motive                         | **מניע נסתר.**    |
 | **הַצְדָקָה**  | *hatsdaka*    | justification                  | **הצדקה לטענה.**  |
-
----
-
-## Cases, Scenarios & Implications
-
-| **Hebrew**      | **Transcription** | **Meaning**     | **Example**      |
-| ---------- | ------------- | ------------------------ | ---------------- |
 | **מִקְרֶה**   | *mikreh*      | case                     | **מקרה מבחן.**   |
 | **תַּקְרִית**  | *takrit*      | incident                 | **תקרית נחקרה.** |
 | **תַּרְחִישׁ**  | *tarchish*    | scenario                 | **תרחיש אפשרי.** |
 | **הַשְׁלָכָה**  | *hashlacha*   | consequence, implication | **השלכה מעשית.** |
-
----
-
-## Characteristics, Properties & Features
-
-| **Hebrew**  | **Transcription** | **Meaning**     | **Example**      |
-| ----------- | ------------- | ------------------------ | ---------------------- |
 | **סוּג**     | *sug*         | type, kind               | **סוג נתונים.**        |
 | **מְאַפְיֵן**   | *me'afyen*    | feature, characteristic  | **מאפיין מרכזי.**      |
 | **תְּכוּנָה**   | *tchuna*     | property, trait          | **תכונה פיזיקלית.**    |
@@ -321,13 +172,6 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **רָמָה**     | *rama*        | level, degree            | **רמה גבוהה של דיוק.** |
 | **מַדְרֵגָה**   | *madrega*     | degree; step             | **מדרגה ראשונה.**      |
 | **כִּיוּוּן**   | *kivun*       | direction                | **כיוון הווקטור.**     |
-
----
-
-## Scope, Limits & Approximation
-
-| **Hebrew**  | **Transcription** | **Meaning**     | **Example**    |
-| --------- | ------------- | --------------- | ------------------------- |
 | **הֶיקֵּף**  | *hekef*       | scope, extent   | **היקף המחקר הוגבל.**   |
 | **גְּבוּל**  | *gvul*        | limit, boundary | **גבול השיטה ברור.**    |
 | **קִרּוּב**  | *kiruv*       | approximation   | **פתרון בקירוב ראשון.** |

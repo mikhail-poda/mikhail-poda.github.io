@@ -9,3 +9,4 @@
 | **עֹקֵב / עוֹקֶבֶת**            | *okév / okévet*           | follower (on social media); someone who follows   | **יש לה אלפי עוקבים באינסטגרם.** – She has thousands of followers on Instagram.                  |
 | **חָבֵר / חֲבֵרָה**             | *chavér / chaverá*        | member; “friend” (depends on context)             | **הוא חבר במועדון האוהדים.** – He’s a member of the fan club.                                    |
 | **מְתַעֲנְיֵן / מְתַעֲנְיֶנֶת**      | *mit’anyén / mit’anyénet* | interested person; someone who follows a topic    | **הוא מתעניין בפוליטיקה ועוקב אחרי החדשות.** – He’s interested in politics and follows the news. |
+| **תּוֹמֵךְ / תּוֹמֶכֶת**           | *toméch / toméchet*       | supporter, advocate, proponent                    | **תומך נלהב** - enthusiastic supporter |

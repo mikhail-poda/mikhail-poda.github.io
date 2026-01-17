@@ -25,7 +25,7 @@
 | **בּוֹס**             | *bos*                | boss (informal)                               |
 | **מוֹרֶה / מוֹרָה**    | *moré / morá*         | teacher                                       |
 | **תַּלְמִיד / תַּלְמִידָה** | *talmíd / talmidá*    | student                                       |
-| **מַדְרִיךְ / מַדְרִיכָה** | *madríkh / madrikhá*  | guide; instructor                             |
+| **מַדְרִיךְ / מַדְרִיכָה** | *madrích / madrichá*  | guide; instructor                             |
 | **לָקוּחַ / לָקוּחָה**   | *lakúach / lakuchá*   | client; customer                              |
 | **אוֹרֵחַ / אוֹרַחַת**   | *oré'ach / oráchat*   | guest                                        |
 | **מְטַפֶּלֶת**          | *metapélet*           | caregiver; nanny                              |

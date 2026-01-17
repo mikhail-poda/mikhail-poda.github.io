@@ -17,10 +17,10 @@
 | **שַׂר**              | *sar*             | minister; (biblical/older: prince/official)                | **השר הודיע על רפורמה חדשה.** – The minister announced a new reform.                         |
 | **רֹאשׁ מֶמְשָׁלָה**       | *rosh memshalá*   | head of government; prime minister                         | **ראש הממשלה נאם בכנסת.** – The prime minister spoke in the Knesset.                         |
 | **רֹאשׁ עִיר**         | *rosh ir*         | mayor                                                      | **ראש העיר חנך את הפארק החדש.** – The mayor inaugurated the new park.                        |
-| **מֶלֶךְ**             | *mélekh*          | king                                                       | **המלך ישב על הכס.** – The king sat on the throne.                                           |
+| **מֶלֶךְ**             | *mélech*          | king                                                       | **המלך ישב על הכס.** – The king sat on the throne.                                           |
 | **מַלְכָּה**            | *malká*           | queen                                                      | **המלכה קיבלה את פני האורחים.** – The queen welcomed the guests.                             |
-| **נָסִיךְ**            | *nasíkh*          | prince                                                     | **הנסיך למד באוניברסיטה בחו״ל.** – The prince studied at a university abroad.                |
-| **נְסִיכָה**           | *nesikhá*         | princess                                                   | **הנסיכה השתתפה בטקס הרשמי.** – The princess attended the official ceremony.                 |
+| **נָסִיךְ**            | *nasích*          | prince                                                     | **הנסיך למד באוניברסיטה בחו״ל.** – The prince studied at a university abroad.                |
+| **נְסִיכָה**           | *nesichá*         | princess                                                   | **הנסיכה השתתפה בטקס הרשמי.** – The princess attended the official ceremony.                 |
 | **קֵיסָר**            | *kéisar*          | emperor                                                    | **הקיסר הרחיב את גבולות האימפריה.** – The emperor expanded the empire’s borders.             |
 | **קֵיסָרִית**          | *kéisarit*        | empress                                                    | **הקיסרית תמכה באמנויות.** – The empress supported the arts.                                 |
 | **שַׁלִּיט**            | *shalít*          | ruler; dictator (often negative)                           | **השלטון הפך לשלטון שליט יחיד.** – The regime became a one-man rule.                         |

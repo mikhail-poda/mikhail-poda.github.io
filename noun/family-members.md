@@ -14,7 +14,7 @@
 | **אֲחַיָּן / אֲחַיָּנִית**    | *achayán / achayánit*        | nephew / niece                                | **האחיינית שלי נולדה אתמול.** – My niece was born yesterday.                 |
 | **סָב / סָבָא**          | *sav / sabá*                 | grandfather                                   | **סבא שלי סיפר סיפור.** – My grandpa told a story.                           |
 | **סָבָתָא**              | *savtá*                      | grandmother                                   | **סבתא שלי מבשלת נהדר.** – My grandma cooks wonderfully.                     |
-| **נֶכֶד / נֶכְדָּה**        | *nékhed / nekhdá*            | grandson / granddaughter                      | **הוא הנכד הראשון שלה.** – He is her first grandson.                         |
+| **נֶכֶד / נֶכְדָּה**        | *néched / nechdá*            | grandson / granddaughter                      | **הוא הנכד הראשון שלה.** – He is her first grandson.                         |
 | **נִין / נִינָה**        | *nin / niná*                 | great-grandson / great-granddaughter          | **הוא הנין שלה.** – He is her great-grandson.                                |
 | **בֶּן־דּוֹד / בַּת־דּוֹדָה** | *ben-dód / bat-dodá*         | cousin (male/female)                          | **בן הדוד שלי גר בחיפה.** – My cousin lives in Haifa.                        |
 | **חָתָן / כַּלָּה**         | *chatán / kalá*              | groom / bride                                 | **החתן והכלה נכנסו לאולם.** – The groom and bride entered the hall.          |
