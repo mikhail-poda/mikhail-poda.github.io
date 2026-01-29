@@ -182,6 +182,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Word Lists
 
+- [Emotion Adjectives](/subj/emotions.md)
 - [Abstract Concepts](/subj/abstract-concepts.md)
 - [IDF Ranks](/subj/idf-ranks.md)
 - [Revolution](subj/revolution.md)
