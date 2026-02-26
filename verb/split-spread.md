@@ -19,7 +19,7 @@
 | **-**       | **-**            | פ־ל־ח | **פֶּלַח** – market share; fruit slice |
 | **לִפְרוֹס** | to slice; spread out; deploy | ¹פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment |
 | **לְהִתְפַּלֵּג** | to split into factions | פ־ל־ג | **פֶּלֶג** – faction<br>**מִפְלָגָה** – political party<br>**הִתְפַּלְּגוּת** – statistical distribution |
-| **לְפַצֵּל** | to split up, divide | פ־צ־ל | **פִּיצּוּל** – fragmentation |
+| **לְפַצֵּל** | to split up, divide | פ־צ־ל | **פִּיצּוּל** – split |
 | **לְהִיפָּרֵד** | to separate | פ־ר־ד | **הַפְרָדָה** – separation. segregation<br>**נִפְרָד** – separate, individual (adj.) |
 | **לִפְרוֹט** | to break (money into small parts) | ¹פ־ר־ט | **פְּרָטִי** – private, personal<br>**מְפוֹרָט** – details, specific |
 | **לִפְרוֹם** | to unknit, unravel | פ־ר־ם  |  |
@@ -91,6 +91,7 @@
 | **לְפַנּוֹת** | to evacuate, clear |  פ־נ־ה | **פִּינּוּי** – evacuation, eviction |
 | **לְהַפְסִיד** | to lose | פ־ס־ד | **הֶפְסֵד** – loss, damage |
 | **לִפְרוֹשׁ** | to retire, leave, quit | פ־ר־שׁ | **הֶפְרֵשׁ** – numerical difference |
+| **לְהָפִיג** | to ease, relieve, diffuse | פ־ו־ג | **תְּפוּגָה** – expiration |
 
 ---
 
@@ -100,7 +101,7 @@
 | ------------- | ----------- | ---------- | ---------- |
 | **לְפַגֵּר** | to lag behind | פ־ג־ר | **מְפַגֵּר** – retarded person (slang) |
 | **לְהַפְלוֹת** | to discriminate | פ־ל־ה | **אַפְלָיָה** – discrimination |
-| **לְהַפְרִיךְ** | to disprove, refute, debunk |  פ־ר־ך | **פָּרִיךְ** – crispy, crunchy<br>**פרך** – hard labour |
+| **לְהַפְרִיךְ** | to disprove, refute, debunk |  פ־ר־ך | **פָּרִיךְ** – crispy, crunchy<br>**פֶּרֶךְ** – hard labour<br>**מוּפְרָךְ** – far-fetched, outrageous |
 | **לְהָפֵר** | to break (a contract, promise, law) | פ־ר־ר | **פֵּירוּר** – (bread) crumb<br>**הֲפָרָה** – violation, breach (of promise, law) |
 | **לִפְסוֹל** | to rule out, disqualify | פ־ס־ל | **פֶּסֶל** – statue<br>**פְּסוֹלֶת** – waste, debris |
 | **לְהִתְפַּשֵּׁר** | to compromise | פ־שׁ־ר | **פְּשָׁרָה** – compromise<br>**פּוֹשֵׁר** – lukewarm |
