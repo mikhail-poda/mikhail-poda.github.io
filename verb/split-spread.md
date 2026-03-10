@@ -33,7 +33,7 @@
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
 | **לְהָפִיץ** | to distribute, spread | פ־ו־ץ | **נָפוֹץ** – widespread, common<br>**הֲפָצָה** – distribution, dissemination, spreading |
-| **לְפַזֵּר** | to scatter, disperse | פ־ז־ר |  |
+| **לְפַזֵּר** | to scatter, disperse | פ־ז־ר | **מְפוּזָּר** – scattered |
 | **לְהַפְגִּיז** | to bombard | פ־ג־ז | **פָּגָז** – artillery shell |
 | **לִפְרוֹס** | to slice; spread out; deploy | ²פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment<br>**מִפְרָשׂ** – sail|
 | **לְהִתְפַּשֵּׁט** | to undress; spread (reflexive) | פ־שׁ־ט | **מוּפְשָׁט** – abstract<br>**פָּשׁוּט** – simple |

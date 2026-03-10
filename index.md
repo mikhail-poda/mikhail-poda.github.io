@@ -86,6 +86,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ### Human
 
+- [Adult Persons](/noun/adult-persons.md)
 - [Fan, Admirer](/noun/fan-admirer.md)
 - [Human Relashionships](/noun/human-relashionships.md)
 - [Leader, Ruler](/noun/leader-ruler.md)
