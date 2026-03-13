@@ -65,3 +65,4 @@
 | **לְהַכִּיר** | to know (someone) | to recognize, acknowledge |
 | **לְחַבֵּר** | to connect | to compose (e.g. book, music) |
 | **לְהַפִּיל** | to drop | to shoot down an airplane |
+| **לָקוּם** | to get up | to be estabilished |
