@@ -10,7 +10,7 @@
 | **בֶּן־זוּג / בַּת־זוּג** | *ben-zúg / bat-zúg*   | partner / spouse                   | **היא הגיעה עם בן הזוג שלה.** – She arrived with her partner.                                    |
 | **מְבוּגָר / מְבוּגֶרֶת**  | *mevugár / mevugéret* | adult; grown-up                    | **הסרט מיועד למבוגרים בלבד.** – The film is intended for adults only.                            |
 
-Notes:
+## Notes:
 
 * In modern Hebrew, **גבר** usually means plain "man", while **גברת** is usually "madam / Mrs. / lady" as a polite or formal form of address.
 * **אִישׁ** can mean **man**, but in some contexts also simply **person**, and in older or formal language it can overlap with **husband**.
