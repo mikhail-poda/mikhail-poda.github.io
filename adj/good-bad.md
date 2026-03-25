@@ -14,4 +14,4 @@
 
 - **רַע** general “bad”
 - **גָּרוּעַ**  “bad in quality, poor, lousy”
-- **נוֹרָא**  “terrible, awful,” more emotional and intense
+- **נוֹרָא**  “terrible, awful,” more emotional and intense. In colloquial Hebrew it can also function as an intensifier: **נורא יפה** = “very beautiful.”
