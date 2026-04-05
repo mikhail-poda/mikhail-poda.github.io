@@ -130,6 +130,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - [Adapt, Adjust](/verb/adapt-adjust.md)
 - [Discover, Invent](/verb/discover-invent.md)
+- [Produce, Create](/verb/produce-create.md)
 - [Take Place](/verb/take-place.md)
 - [Update, Improve](/verb/update-improve.md)
 
@@ -175,6 +176,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [*Flying*](/verb/flying.md)
 - [*Motion*](/verb/motion.md)
 - [*Splitting, Spreading, Separating*](/verb/split-spread.md)
+- [*Stance Verbs in Political Discourse*](/verb/verbs-stance-discourse.md)
 - [*Verbs with Multiple Meanings*](/verb/verbs-multiple-meaning.md)
 
 ## Roots
@@ -195,10 +197,12 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 - professions
 - exeptions in nouns
+- exception verbs
 - patterns in verbs (like guttural sound in the root)
 - proverbs
 - expressions
-- tongue twisters 
+- tongue twisters
+- materials
 
 ## About
 

@@ -17,6 +17,7 @@
 | **לַהַט**       | *lahat*           | fervor, zeal                        | **הוא דיבר בלהט על הנושא.** – He spoke about the topic with fervor.                  |
 | **הִתְרַגְּשׁוּת**   | *hitragshút*      | excitement (feeling); being moved   | **יש התרגשות גדולה לפני ההופעה.** – There’s great excitement before the show.        |
 | **רִיגּוּשׁ**     | *rigúsh*          | thrill; excitement (often “a rush”) | **זה נותן לי ריגוש.** – It gives me a thrill.                                        |
+| **קֶסֶם**        | *kesem*          | magic, charm; fascination           |  |
 
 ### Desire, Lust
 
@@ -35,3 +36,4 @@
 | **תְּחוּם עִנְיָין**   | *tchúm inyán*     | area of interest   | **בלשנות היא תחום העניין שלי.** – Linguistics is my area of interest. |
 | **עִנְיָין**        | *inyán*           | interest           | **יש לי עניין במדע.** – I’m interested in science.                    |
 | **הַעֲדָפָה**        | *ha’adáfa*       | preference         | **ההעדפה שלי היא תה.** – My preference is tea.                        |
+| **מְשִׁיכָה**        | *meshicha*       | attraction          |  |

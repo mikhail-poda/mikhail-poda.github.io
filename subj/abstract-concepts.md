@@ -150,6 +150,7 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **רֶצֶף** | *retzef* | sequence | **רצף אירועים ליניארי.** |
 | **שִׁוּוּי מִשְׁקָל** | *shivuy mishkal* | equilibrium | **שיווי משקל כימי.** |
 | **שׁוֹנוּת** | *shonut* | variance | **השונות עלתה.** |
+| **שִׁיקּוּל** | *shikul* | consideration | **כל מיני שיקולים** |
 | **שִׁיטָה** | *shita* | method, system | **שיטה מדעית.** |
 | **שִׁיעוּר** | *shi'ur* | rate, proportion | **שיעור גידול שנתי.** |
 | **שִׁכְפּוּל** | *shikpul* | replication, duplication | **שכפול ניסוי.** |
@@ -180,3 +181,4 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **תֶּקֶן** | *teken* | standard | **תקן בינלאומי.** |
 | **תַּקְרִית** | *takrit* | incident | **תקרית נחקרה.** |
 | **תַּרְחִישׁ** | *tarchish* | scenario | **תרחיש אפשרי.** |
+| **תַּקְדִּים** | *takdim* | precedent | **משבר חסר תקדים** |

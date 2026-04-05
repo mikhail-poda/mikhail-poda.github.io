@@ -11,6 +11,7 @@
 | **להוציא** | *lehotzi*               | to take out, remove            | General-purpose (e.g., **להוציא מהשקית** – take out of the bag)             |
 | **לפרק** | *lefarek*                 | to dismantle, take apart       | Used for objects, systems, or even organizations                        |
 | **לנקות** | *lenakot*                | to clean, clear away           | Implies removal as part of cleaning (e.g., **לנקות שולחן** – clean a table) |
+| **לְסַלֵּק** | *lesalek*                 | to remove, eliminate           |   |
 
 ## Note
 
