@@ -74,7 +74,7 @@
 | **לְפַצּוֹת** | to compensate  |
 | **לְשַׁכְנֵעַ** | to convince, persuade  |
 | **לְתַוֵּוךְ** | to mediate  |
-| **לְתָרֵץ** | to make  |
+| **לְתָרֵץ** | to make excuses |
 
 ---
 
