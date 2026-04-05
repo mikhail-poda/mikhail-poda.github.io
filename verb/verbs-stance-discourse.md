@@ -59,6 +59,7 @@
 | **Hebrew**     | **Example** |  
 |---------------|---------------------|
 | **לְהָעֵז** | to dare  |
+| **לְהִישָּׁבַע** | to swear |
 | **לְהַצְדִּיק** | to justify  |
 | **לְהַצִּיל** | to save, rescue  |
 | **לְהִתְגַּבֵּר** | to overcome, get over  |
@@ -161,6 +162,7 @@
 | **לְקַנֵּא** | to envy    |
 | **לִרְדּוֹף** | to persecute (also chase, pursue)    |
 | **לְרַמּוֹת** | to cheat, deceive    |
+| **לִשְׁחוֹק** | to erode |
 | **לִשְׁלוֹט** | to control, dominate    |
 | **לִשְׁלוֹל** | to rule out, deny    |
 | **לְשַׁתֵּק** | to paralyze    |
