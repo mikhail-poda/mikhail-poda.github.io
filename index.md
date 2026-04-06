@@ -74,6 +74,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ### Education
 
 - [Exam, Test](/noun/exam-test.md)
+- [Instruction, Order](/noun/instruction-order.md)
 - [Research, Survey, Check](/noun/research-survey-check.md)
 - [Skill, Ability](/noun/skill-ability.md)
 
