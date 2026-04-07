@@ -21,6 +21,7 @@
 | **לְהִתְחַיֵּיב** | to commit, guarantee    |
 | **לַחְגּוֹג** | to celebrate    |
 | **לְכַבֵּד** | to respect    |
+| **לִסְגּוֹד** | to worship |
 | **לְשַׁבַּח** | to praise    |
 | **לְתַגְמֵל** | to reward, compensate    |
 | **לִתְרוֹם** | to contribute    |
