@@ -9,5 +9,5 @@
 | **לְהַבְחִין** | *lehavchín*       | to notice, distinguish (tell apart, perceive a difference)        | **הבחנתי בשינוי קטן.** (*hivchánti be-shinúy katan*) – I noticed a small change.                  |
 | **לְאַתֵּר**   | *le’ater*         | to locate, detect, identify (source, problem, signal)             | **הצלחנו לאתר את התקלה.** (*hitzláchnu le’ater et ha-takalá*) – We managed to identify the fault. |
 | **לְאַבְחֵן**  | *le’avchén*       | to diagnose, identify precisely (medical/technical)               | **הרופא אבחן דלקת.** (*ha-rofe avchén daléket*) – The doctor diagnosed an inflammation.           |
-| **לִתְפּוֹס**  | *litpós*          | to grasp, catch; to “get” (idea); also “to regard as”             | **לא תפסתי מה הוא אמר.** (*lo tafásti ma hu amar*) – I didn’t catch what he said.                 |
+| **לִתְפּוֹס**  | *litpós*          | to grasp, catch; to “get idea”; *also* “to regard as”             | **לא תפסתי מה הוא אמר.** (*lo tafásti ma hu amar*) – I didn’t catch what he said.                 |
 | **לִקְלוֹט**  | *liklót*          | to pick up, absorb; to grasp (info, hint, signal)                 | **קלטתי את הרמז.** (*kaláteti et ha-rémez*) – I picked up the hint.                                |

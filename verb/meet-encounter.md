@@ -4,7 +4,7 @@
 
 | **Hebrew**       | **Transcription** | **Meaning**                                                          | **Example**                                                          |
 | ---------------- | ----------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **לְהִיתָּקֵל**      | *lehitakel*       | to bump into, to encounter (unexpectedly; also “run into a problem”) | **נתקלתי בחבר ישן ברחוב.** – I ran into an old friend on the street. |
+| **לְהִיתָּקֵל**      | *lehitakel*       | to bump into, to encounter (unexpectedly; *also* “run into a problem”) | **נתקלתי בחבר ישן ברחוב.** – I ran into an old friend on the street. |
 | **לִפְגּוֹשׁ**       | *lifgosh*         | to meet (someone)                                                    | **מחר אפגוש את הלקוח.** – Tomorrow I’ll meet the client.             |
 | **לְהִיפָּגֵשׁ**      | *lehipagesh*      | to meet (by arrangement), to get together                            | **ניפגש בשעה שמונה בבית הקפה.** – We’ll meet at eight at the café.   |
 

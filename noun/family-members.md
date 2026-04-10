@@ -18,8 +18,8 @@
 | **נִין / נִינָה**        | *nin / niná*                 | great-grandson / great-granddaughter          | **הוא הנין שלה.** – He is her great-grandson.                                |
 | **בֶּן־דּוֹד / בַּת־דּוֹדָה** | *ben-dód / bat-dodá*         | cousin (male/female)                          | **בן הדוד שלי גר בחיפה.** – My cousin lives in Haifa.                        |
 | **חָתָן / כַּלָּה**         | *chatán / kalá*              | groom / bride                                 | **החתן והכלה נכנסו לאולם.** – The groom and bride entered the hall.          |
-| **חָתָן**               | *chatán*                     | son-in-law (also: groom)                      | **החתן שלה עובד כרופא.** – Her son-in-law works as a doctor.                 |
-| **כַּלָּה**               | *kalá*                       | daughter-in-law (also: bride)                 | **הכלה שלהם מדברת עברית יפה.** – Their daughter-in-law speaks nice Hebrew.   |
+| **חָתָן**               | *chatán*                     | son-in-law (*also*:* groom)                      | **החתן שלה עובד כרופא.** – Her son-in-law works as a doctor.                 |
+| **כַּלָּה**               | *kalá*                       | daughter-in-law (*also* bride)                 | **הכלה שלהם מדברת עברית יפה.** – Their daughter-in-law speaks nice Hebrew.   |
 | **חוֹתֵן / חוֹתֶנֶת**      | *chotén / choténet*          | father-in-law / mother-in-law                 | **החותנת שלי באה לארוחת ערב.** – My mother-in-law came for dinner.           |
 | **גִּיס / גִּיסָה**        | *gís / gisá*                 | brother-in-law / sister-in-law                | **הגיס שלי גר לידנו.** – My brother-in-law lives near us.                    |
 | **אָב חוֹרֵג**           | *av chorég*                   | stepfather | **אב חורג שלי מאוד נחמד.** – My stepfather is very nice. |

@@ -11,7 +11,7 @@
 | **לְהַדְהִים** | to amaze, astonish    |
 | **לְהוֹדוֹת** | to admit, thank, confess    |
 | **לְהוֹקִיר** | to cherish, appreciate    |
-| **לְהַכִּיר** | to acknowledge (also to know)    |
+| **לְהַכִּיר** | to acknowledge (*also* to know)    |
 | **לְהַלֵּל** | to praise, glorify    |
 | **לְהַעֲנִיק** | to grant, award    |
 | **לְהַעֲרִיךְ** | to assess, evaluate; appreciate    |
@@ -37,6 +37,7 @@
 | **לְדַלֵּג** | to skip    |
 | **לְהַדְגִּים** | to demonstrate, illustrate    |
 | **לְהַדְגִּישׁ** | to highlight, emphasize    |
+| **לְהִיתָּקֵל** | to run into, encounter |
 | **לְהַמְחִישׁ** | to illustrate, visualize    |
 | **לְהַסִּיק** | to conclude, infer    |
 | **לְהָעִיד** | to testify, attest    |
@@ -93,7 +94,7 @@
 | **לִבְגּוֹד** | to betray    |
 | **לְבַזְבֵּז** | to waste    |
 | **לְבַלְבֵּל** | to confuse    |
-| **לְבַקֵּר** | to criticize (also to visit)    |
+| **לְבַקֵּר** | to criticize (*also* to visit)    |
 | **לְגַנּוֹת** | to condemn, denounce; censure    |
 | **לְגָרוֹת** | to irritate    |
 | **לִדְחוֹק** | to push, urge    |
@@ -106,7 +107,7 @@
 | **לְהַזְהִיר** | to warn, alert    |
 | **לְהַזְנִיחַ** | to neglect, ignore    |
 | **לְהַחְרִים** | to boycott; confiscate    |
-| **לְהַטִּיל** | to impose (also to cast)    |
+| **לְהַטִּיל** | to impose (*also* to cast)    |
 | **לְהַטְעוֹת** | to mislead, deceive    |
 | **לְהַטְרִיד** | to bother, harass    |
 | **לְהִיכָּנֵעַ** | to surrender    |
@@ -161,7 +162,7 @@
 | **לְצַיֵּית** | to obey, comply    |
 | **לְקַלֵּל** | to curse    |
 | **לְקַנֵּא** | to envy    |
-| **לִרְדּוֹף** | to persecute (also chase, pursue)    |
+| **לִרְדּוֹף** | to persecute (*also* chase, pursue)    |
 | **לְרַמּוֹת** | to cheat, deceive    |
 | **לִשְׁחוֹק** | to erode |
 | **לִשְׁלוֹט** | to control, dominate    |

@@ -11,8 +11,8 @@
 | **מְפַקֵּחַ**            | *mefakée’ach*     | supervisor; inspector                                      | **המפקח בדק את העבודה באתר.** – The inspector checked the work on site.                      |
 | **מְמוּנֶה**           | *memuné*          | person in charge; appointee                                | **הממונה על הבטיחות הגיע לביקורת.** – The person in charge of safety came for an inspection. |
 | **מוֹשֵׁל**            | *moshél*          | governor; ruler                                            | **המושל הכריז על מצב חירום.** – The governor declared a state of emergency.                  |
-| **נָגִיד**            | *nagíd*           | governor (esp. central bank); high leader (biblical/older) | **נגיד הבנק הסביר את ההחלטה.** – The central bank governor explained the decision.           |
-| **עוֹצֵר**            | *otzér*           | regent (also curfew)                                       | **העוצר שלט בשם המלך הצעיר.** – The regent ruled in the young king’s name.                   |
+| **נָגִיד**            | *nagíd*           | governor (*esp.* central bank); high leader (biblical/older) | **נגיד הבנק הסביר את ההחלטה.** – The central bank governor explained the decision.           |
+| **עוֹצֵר**            | *otzér*           | regent (*also* curfew)                                       | **העוצר שלט בשם המלך הצעיר.** – The regent ruled in the young king’s name.                   |
 | **יוֹרֵשׁ עֶצֶר**        | *yoresh etser*    | crown prince                                               | **יורש העצר הגולה שהפך לתקוותה של איראן** - The exiled crown prince who became Iran's hope. |
 | **שַׂר**              | *sar*             | minister; (biblical/older: prince/official)                | **השר הודיע על רפורמה חדשה.** – The minister announced a new reform.                         |
 | **רֹאשׁ מֶמְשָׁלָה**       | *rosh memshalá*   | head of government; prime minister                         | **ראש הממשלה נאם בכנסת.** – The prime minister spoke in the Knesset.                         |

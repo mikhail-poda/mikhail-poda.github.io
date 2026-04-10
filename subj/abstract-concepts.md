@@ -85,9 +85,9 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **מַדְרֵגָה** | *madrega* | degree; step | **מדרגה ראשונה.** |
 | **מַהוּת** | *mahut* | essence | **מהות המושג שנויה במחלוקת.** |
 | **מְהֵימָנוּת** | *mehemanut* | reliability | **מהימנות המדידה.** |
-| **מוּנָּח** | *munach* | term<br/>(also: placed on) | **מונח טכני מדויק.** |
+| **מוּנָּח** | *munach* | term<br/>(*also* placed on) | **מונח טכני מדויק.** |
 | **מוּשָׂג** | *musag* | concept | **מושג המקריות.** |
-| **מֶחְדָּל** | *mechdal* | default (value)<br/>(also: blunder) | **הגדר את ערך ברירת המחדל** |
+| **מֶחְדָּל** | *mechdal* | default (value)<br/>(*also* blunder) | **הגדר את ערך ברירת המחדל** |
 | **מַחְלָקָה** | *machlaka* | class; department | **מחלקת נתונים.** |
 | **מַטָּרָה** | *matara* | goal, aim | **מטרת המחקר מוגדרת היטב.** |
 | **מִידָּה** | *mida* | size, measure, extent | **מידה מדויקת.** |

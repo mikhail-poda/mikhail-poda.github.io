@@ -13,7 +13,7 @@
 
 | **Hebrew**     | **Transcription** | **Meaning**      | **Notes**                                                  | **Example**                                                         |
 | -------------- | ----------------- | ---------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- |
-| **לְהַמְרִיא**  | *lehamri*         | to take off      | Airplanes, rockets; also figurative success.               | **המטוס המריא בזמן** – the plane took off on time.                  |
+| **לְהַמְרִיא**  | *lehamri*         | to take off      | Airplanes, rockets; *also* figurative success.               | **המטוס המריא בזמן** – the plane took off on time.                  |
 | **לַעֲלוֹת**   | *la’alot*         | to ascend, go up | General “to rise,” used for planes climbing after takeoff. | **המטוס עלה לגובה 10,000 רגל** – the plane ascended to 10,000 feet. |
 
 ---
