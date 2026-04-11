@@ -47,7 +47,7 @@
 | **לְסַמֵּן** | to mark, signal    |
 | **לְסַפֵּק** | to provide; satisfy    |
 | **לְעָרֵב** | to involve    |
-| **לְפַקַּח** | to monitor, oversee, supervise    |
+| **לְפַקֵּחַ** | to monitor, oversee, supervise    |
 | **לִצְבּוֹר** | to gain, accumulate    |
 | **לְקַדֵּם** | to promote, campaign    |
 | **לִרְמוֹז** | to imply; hint    |

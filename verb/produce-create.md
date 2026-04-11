@@ -40,3 +40,12 @@
 | ------------ | ----------------- | ------------------------------------- | ----------------------------------------------------------------------- |
 | **לִגְרוֹם** | *ligróm*          | to cause                              | **הטעות גרמה לבעיה גדולה.** – The mistake caused a big problem.         |
 | **לְחוֹלֵל** | *lecholél*        | to bring about; to generate; to cause | **ההחלטה חוללה שינוי גדול.** – The decision brought about a big change. |
+
+---
+
+## 5. Realizing/Implementing
+
+| **Hebrew**  | **Transcription** | **Meaning**                          | **Example**                                                           |
+| ----------- | ----------------- | ------------------------------------ | --------------------------------------------------------------------- |
+| **לְמַמֵּשׁ**    | *lemamésh*        | to realize; to actualize; to fulfill | **הוא מימש את התוכנית שלו.** – He carried out / realized his plan.    |
+| **לְיַישֵּׂם**   | *leyasém*         | to implement; to apply               | **הממשלה יישמה את הרפורמה.** – The government implemented the reform. |
