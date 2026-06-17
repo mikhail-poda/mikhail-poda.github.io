@@ -63,6 +63,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Space, Area](/noun/space-area.md)
 - [Summary, Conclusion](/noun/summary-conclusion.md)
 - [Thing, Matter, Issue](/noun/thing-matter.md)
+- [Turn, Queue, Column](/noun/turn-queue-column.md)
 - [Value, Cost](/noun/value-cost.md)
 
 ### Conflict
