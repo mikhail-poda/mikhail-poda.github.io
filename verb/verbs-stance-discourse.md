@@ -22,7 +22,7 @@
 | **לַחְגּוֹג** | to celebrate    |
 | **לְכַבֵּד** | to respect    |
 | **לִסְגּוֹד** | to worship |
-| **לְשַׁבַּח** | to praise    |
+| **לְשַׁבֵּחַ** | to praise    |
 | **לְתַגְמֵל** | to reward, compensate    |
 | **לִתְרוֹם** | to contribute    |
 
@@ -44,9 +44,11 @@
 | **לְהַקְצוֹת** | to assign, allocate    |
 | **לְהַקְרִין** | to radiate    |
 | **לְהַרְשׁוֹת** | to allow, let, permit    |
+| **לְהַמֵּר** | to bet, gamble |
 | **לְסַמֵּן** | to mark, signal    |
 | **לְסַפֵּק** | to provide; satisfy    |
 | **לְעָרֵב** | to involve    |
+| **לְמַנּוֹת** | to appoint |
 | **לְפַקֵּחַ** | to monitor, oversee, supervise    |
 | **לִצְבּוֹר** | to gain, accumulate    |
 | **לְקַדֵּם** | to promote, campaign    |
@@ -100,6 +102,7 @@
 | **לִדְחוֹק** | to push, urge    |
 | **לִדְחוֹת** | to postpone, reject    |
 | **לְדַכֵּא** | to suppress, oppress    |
+| **לִכְפּוֹת** | to force, impose |
 | **לְהַאֲשִׁים** | to blame, accuse    |
 | **לְהָבִיךְ** | to embarrass    |
 | **לְהַגְזִים** | to exaggerate    |
@@ -119,6 +122,7 @@
 | **לְהַכְפִּישׁ** | to discredit    |
 | **לְהַכְרִיחַ** | to force, coerce    |
 | **לְהַלְחִיץ** | to stress, pressure    |
+| **לְהַסְלִים** | to escalate |
 | **לְהַסֵּס** | to hesitate    |
 | **לְהַסְתִּיר** | to hide    |
 | **לְהַעֲלִיב** | to insult, offend    |

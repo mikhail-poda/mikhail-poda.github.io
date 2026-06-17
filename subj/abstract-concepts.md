@@ -106,6 +106,7 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **מִקְרֶה** | *mikreh* | case | **מקרה מבחן.** |
 | **מַשְׁמָעוּת** | *mashma'ut* | meaning | **משמעות המונח.** |
 | **מִתְאָם** | *mit'am* | correlation | **נמצא מתאם חלש.** |
+| **נְחִיתוּת** | *nechitut* | inferiority | **תַּסְבִּיךְ נְחִיתוֹת** |
 | **נוֹכְחוּת** | *nochechut* | presence | **נוכחות גורם במערכת.** |
 | **נְטִיָּה** | *netiya* | tendency, predisposition | **נטייה להתנהגות.** |
 | **נִיבּוּי** | *nibuy* | prediction | **ניבוי תוצאות.** |
@@ -133,6 +134,7 @@ Scope note: native Hebrew terms only; international/loanwords commonly used in H
 | **עוֹצְמָה** | *otzma* | power (signal) | **עוצמת האות.** |
 | **עִיצּוּב** | *itzuv* | design | **עיצוב הממשק.** |
 | **עִלָּה** | *ila* | legal cause, grounds | **עילת גירושין.** |
+| **עֶלְיוֹנוּת** | *elyonut* | superiority, supremacy | **עליונות לבנה** |
 | **עַצְמָאוּת** | *atzma'ut* | independence | **עצמאות סטטיסטית.** |
 | **עִקְבִיּוּת** | *akviyut* | consistency | **עקביות לוגית.** |
 | **עִקָּרוֹן** | *ikaron* | principle | **עיקרון החסכנות.** |

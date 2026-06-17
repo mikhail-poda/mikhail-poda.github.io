@@ -15,7 +15,7 @@
 | **יָם**      | *yam*             | sea                  | **יָם הַמֶּלַח** - the Dead Sea                   |
 | **אוֹקְיָנוֹס** | *okyanos*         | ocean                | **הָאוֹקְיָנוֹס הָאַטְלַנְטִי** - the Atlantic Ocean   |
 | **מִפְרָץ**    | *mifratz*         | gulf, bay            | **מִפְרַץ חֵיפָה** - Haifa Bay                    |
-| **מֵצַר**     | *meitzar*         | strait               | **מֵצַר גִּיבְרַלְטָר** - the Strait of Gibraltar    |
+| **מֵיצַר**    | *meitzar*         | strait               | **מֵצַר גִּיבְרַלְטָר** - the Strait of Gibraltar    |
 | **תְּעָלָה**    | *te‘ala*          | canal                | **תְּעָלַת סוּאֶץ** - the Suez Canal               |
 | **עָרוּץ**    | *arutz*           | channel, bed, course | **עָרוּץ הַנַּחַל** - the stream bed               |
 | **לָגוּנָה**   | *laguna*          | lagoon               | **לָגוּנָה רְדוּדָה** - a shallow lagoon           |
