@@ -4,9 +4,9 @@
 
 | Hebrew    | Transcription | Meaning                  | Notes                                                                               | Example                                                                             |
 | --------- | ------------- | ------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| תּוֹר      | tor           | turn; queue; appointment | Order in time: whose turn comes next, or people waiting for their turn.             | התור שלי – my turn<br/>לעמוד בתור – to stand in line<br/>תור לרופא – doctor’s appointment |
-| טוּר      | tur           | row; column; line        | Order in space or layout: objects, people, text, or data arranged in a line/column. | טור בטבלה – column in a table; טור מכוניות – line of cars                           |
-| שׁוּרָה     | shura         | row; line                | Often used for a horizontal row or a line of text.                                  | שורה בספר – a line in a book; שורת כיסאות – a row of chairs                         |
+| תּוֹר      | tor           | turn<br/>queue<br/>appointment | Order in time: whose turn comes next, or people waiting for their turn.             | התור שלי – my turn<br/>לעמוד בתור – to stand in line<br/>תור לרופא – doctor’s appointment |
+| טוּר      | tur           | row, column, line        | Order in space or layout: objects, people, text, or data arranged in a line/column. | טור בטבלה – column in a table; טור מכוניות – line of cars                           |
+| שׁוּרָה     | shura         | row, line                | Often used for a horizontal row or a line of text.                                  | שורה בספר – a line in a book; שורת כיסאות – a row of chairs                         |
 | עַמּוּדָה    | amuda         | column                   | More precise technical word for a table/spreadsheet column.                         | עמודה ראשונה – first column                                                         |
 | קוֹ       | kav           | line                     | Geometric, transport, boundary, or abstract line. Less specific than טור.           | קו ישר – straight line; קו אוטובוס – bus line                                       |
 
@@ -14,29 +14,29 @@
 
 | Hebrew  | Transcription | Meaning                   | Notes                                                  | Example                                  |
 | ------- | ------------- | ------------------------- | ------------------------------------------------------ | ---------------------------------------- |
-| בְּתוֹר    | betor         | as; in the role of        | Very common fixed expression                           | אני עובד בתור מורה – I work as a teacher |
+| בְּתוֹר    | betor         | as, in the role of        | Very common fixed expression                           | אני עובד בתור מורה – I work as a teacher |
 | תּוֹר     | tor           | age, period               | Literary/formal. Often in historical expressions.      | תור הזהב – the Golden Age                |
 | תְּקוּפָה   | tkufa         | period, era              | Synonym of תור when תור means historical age or period. | תקופת האבן – the Stone Age              |
-| עִדָּן     | idan          | age, era                 | More elevated/literary than תקופה.                      | עידן חדש – a new era                 |
+| עִידָּן     | idan         | age, era                 | More elevated/literary than תקופה.                      | עידן חדש – a new era                 |
 
 ## תור: Related Words
 
 | Hebrew     | Transcription | Meaning                         | Example                                |
 | ---------- | ------------- | ------------------------------- | -------------------------------------- |
 | תּוֹרָן       | toran         | person on duty                  | מי התורן היום? – Who is on duty today? |
-| תּוֹרָנוּת     | toranut       | duty; rotation                  | תורנות לילה – night duty               |
-| תּוֹרָנִי      | torani        | on-duty; rotating; duty-related | רופא תורן – doctor on duty             |
+| תּוֹרָנוּת     | toranut       | duty, rotation                  | תורנות לילה – night duty               |
+| תּוֹרָנִי      | torani        | on-duty, rotating, duty-related | רופא תורן – doctor on duty             |
 
 ---
 
 ## טור: Special Meanings
 
-| Hebrew    | Transcription         | Meaning             |  Example                                                      |
-| --------- | --------------------- | ------------------- | ------------------------------------------------------------- |
-| טוּר       | tur                   | newspaper column    |  טור דעה – opinion column                                     |
-| בַּעַל טוּר   | ba’al tur             | columnist           |  בעל טור פוליטי – political columnist                         |
-| טוּר       | tur                   | mathematical series |  טור חשבוני – arithmetic series<br/>טור הנדסי – geometric series |
-| טוּר       | tur                   | tour (sports, cycling) |  הטור דה פראנס Turn, Queue, Column the Tour de France                           |
+| Hebrew    | Transcription | Meaning             |  Example                                                      |
+| --------- | ------------- | ------------------- | ------------------------------------------------------------- |
+| טוּר       | tur           | newspaper column    |  טור דעה – opinion column                                     |
+| בַּעַל טוּר   | ba’al tur     | columnist           |  בעל טור פוליטי – political columnist                         |
+| טוּר       | tur           | mathematical series |  טור חשבוני – arithmetic series<br/>טור הנדסי – geometric series |
+| טוּר       | tur           | tour (sports, cycling) |  הטור דה פראנס Turn, Queue, Column the Tour de France                           |
 
 Note:  הַטּוּר / אַרְבָּעָה טוּרִים  ha-Tur / arba’a turim – Major halakhic work by Rabbi Yaakov ben Asher
 
