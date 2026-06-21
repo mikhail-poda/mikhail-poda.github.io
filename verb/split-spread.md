@@ -16,7 +16,7 @@
 
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
-| **-**       | **-**            | פ־ל־ח | **פֶּלַח** – market share; fruit slice |
+| **לְפַלֵּחַ**     | to segment, breakdown  | פ־ל־ח | **פֶּלַח** – market share; fruit slice<br>**פִּילּוּחַ** – segment(ation), breakdown<br>**פּוּלְחָן** – cult, worship |
 | **לִפְרוֹס** | to slice; spread out; deploy | ¹פ־ר־ס | **פְּרוּסָה** – slice, piece<br>**פְּרִיסָה** – layout; deployment |
 | **לְהִתְפַּלֵּג** | to split into factions | פ־ל־ג | **פֶּלֶג** – faction<br>**מִפְלָגָה** – political party<br>**הִתְפַּלְּגוּת** – statistical distribution |
 | **לְפַצֵּל** | to split up, divide | פ־צ־ל | **פִּיצּוּל** – split |
