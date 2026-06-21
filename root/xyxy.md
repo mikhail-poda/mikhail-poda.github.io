@@ -17,3 +17,4 @@
 | **לְפַקְפֵּק**       | *lefaqpeq*        | to doubt, question                   | Suspicion or hesitation   |
 | **לְמַלְמֵל**        | *lemalmel*        | to mumble                               | Quiet, unclear speaking              |
 | **לְהַנְהֵן**        | *lehanhen*        | to nod (in agreement)                   | Repeated motion gesture        |
+| **לְהִתְדַּרְדֵּר**      | *lehitdarder*    | to deteriorate                          |   |
