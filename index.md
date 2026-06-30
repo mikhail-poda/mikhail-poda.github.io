@@ -199,7 +199,6 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ## Proverbs
 
 - [Translated to English](/proverbs/eng.md)
-- [Translated to Russian](/proverbs/ru.md)
 
 ## ToDo
 
