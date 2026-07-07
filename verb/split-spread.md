@@ -86,8 +86,9 @@
 
 | **Hebrew**    | **Meaning** | **Root** | **Related** |
 | ------------- | ----------- | ---------- | ---------- |
-| **לְפַטֵּר** | to fire, dismiss | פ־ט־ר | **הִתְפַּטְּרוּת** – resignation<br>**פִּיטּוּרִים** – layoff<br>**פְּטוֹר** – exemption, waiver |
+| **לְפַטֵּר** | to fire, dismiss | פ־ט־ר | **פִּיטּוּרִים** – layoff<br>**פְּטוֹר** – exemption, waiver |
 | **לְהִיפָּטֵר** | to get rid of; to pass away | פ־ט־ר | **נִפְטָר** – deceased |
+| **לְהִתְפַּטֵּר** | to resign |  פ־ט־ר | **הִתְפַּטְּרוּת** – resignation |
 | **לְפַנּוֹת** | to evacuate, clear |  פ־נ־ה | **פִּינּוּי** – evacuation, eviction |
 | **לְהַפְסִיד** | to lose | פ־ס־ד | **הֶפְסֵד** – loss, damage |
 | **לִפְרוֹשׁ** | to retire, leave, quit | פ־ר־שׁ | **הֶפְרֵשׁ** – numerical difference |

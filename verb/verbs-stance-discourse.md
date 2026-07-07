@@ -174,3 +174,5 @@
 | **לְשַׁתֵּק** | to paralyze    |
 | **לְתַסְכֵּל** | to frustrate    |
 | **לְתַעֵב** | to despise, hate, detest    |
+| **לָבוּז** | to despise, disdain  |
+| **לְהִתְנַווֵּן** | to degenerate |
