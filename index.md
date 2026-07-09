@@ -174,14 +174,6 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Cut, Slice](/verb/cut-slice.md)
 - [Increase, Expand](/verb/increase-expand.md)
 
-### Broad Collections
-
-- [*Flying*](/verb/flying.md)
-- [*Motion*](/verb/motion.md)
-- [*Splitting, Spreading, Separating*](/verb/split-spread.md)
-- [*Stance Verbs in Political Discourse*](/verb/verbs-stance-discourse.md)
-- [*Verbs with Multiple Meanings*](/verb/verbs-multiple-meaning.md)
-
 ## Roots
 
 - [ר־שׁ־ם](/root/r-sh-m.md)
@@ -189,12 +181,17 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Word Lists
 
-- [Emotion Adjectives](/subj/emotions.md)
 - [Abstract Concepts](/subj/abstract-concepts.md)
+- [Emotion Adjectives](/subj/emotions.md)
 - [IDF Ranks](/subj/idf-ranks.md)
 - [Revolution](subj/revolution.md)
 - [Technical Devices](/subj/technical-devices.md)
 - [Text, Book, Publishing](/subj/text-book.md)
+- [Flying](/subj/verbs-flying.md)
+- [Motion](/subj/verbs-motion.md)
+- [Splitting, Spreading, Separating](/subj/split-spread.md)
+- [Stance Verbs in Political Discourse](/subj/verbs-stance-discourse.md)
+- [Verbs with Multiple Meanings](/subj/verbs-multiple-meaning.md)
 
 ## Proverbs
 

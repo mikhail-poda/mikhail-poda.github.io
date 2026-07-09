@@ -106,6 +106,7 @@
 | **לְהָפֵר** | to break (a contract, promise, law) | פ־ר־ר | **פֵּירוּר** – (bread) crumb<br>**הֲפָרָה** – violation, breach (of promise, law) |
 | **לִפְסוֹל** | to rule out, disqualify | פ־ס־ל | **פֶּסֶל** – statue<br>**פְּסוֹלֶת** – waste, debris |
 | **לְהִתְפַּשֵּׁר** | to compromise | פ־שׁ־ר | **פְּשָׁרָה** – compromise<br>**פּוֹשֵׁר** – lukewarm |
+| **לְהַפְקִיר** | to abandon (rare) | פ-ק-ר |  |
 
 ---
 
