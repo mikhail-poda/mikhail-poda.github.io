@@ -15,18 +15,20 @@ In Modern Hebrew, the verb form without **ל־** (the infinitive absolute) still
 ### Present Tense – like in Russian
 
 Hebrew and Russian verb conjugations are usually complex,
-with special forms for person and number (and in Hebrew also for gender).
-Surprisingly, **present tense in Hebrew** and **past tense in Russian** are much simpler, 
-and are built using the same technique.
+with special forms for person and number and in Hebrew also for gender –
+Hebrew future tense has 10 conjugation forms.
+
+Surprisingly, **present tense in Hebrew** and **past tense in Russian** are much simpler,
+having just 4 10 conjugation forms and are built using the same technique.
 
 In both cases, these tenses are not true verb conjugations but are expressed using **participial forms**
 (verbal adjectives) in Hebrew and **archaic participles** in Russian,
 both agreeing with the subject in gender and number only **and not in person**.
 
-* Hebrew: **קוֹרֵא** (*kore*) – I/you/he is reading (m.sg.)
+* Hebrew: **קוֹרֵא** (*kore*) – I/you/he is reading (m.sg.) or **reader**
 * Russian: **читал** (*chital*) – I/you/he was reading (m.sg.)
 
-In this example the actual meaning is **reading** like "the reading person" for Hebrew and **one who had read** for Russian. 
+In this example the actual meaning is **reading** like "the reading person" in Modern Hebrew and **one who had read** in archaic Russian. 
 
 ### Vowels to Shift Verbs – like in German
 
