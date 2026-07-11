@@ -19,11 +19,14 @@ with special forms for person and number (and in Hebrew also for gender).
 Surprisingly, **present tense in Hebrew** and **past tense in Russian** are much simpler, 
 and are built using the same technique.
 
-In both cases, these tenses are expressed using **participial forms** (verbal adjectives) in Hebrew and
-**archaic participles** in Russian, both agreeing with the subject in gender and number only (and not in person).
+In both cases, these tenses are not true verb conjugations but are expressed using **participial forms**
+(verbal adjectives) in Hebrew and **archaic participles** in Russian,
+both agreeing with the subject in gender and number only **and not in person**.
 
 * Hebrew: **קוֹרֵא** (*kore*) – I/you/he is reading (m.sg.)
 * Russian: **читал** (*chital*) – I/you/he was reading (m.sg.)
+
+In this example the actual meaning is **reading** like "the reading person" for Hebrew and **one who had read** for Russian. 
 
 ### Vowels to Shift Verbs – like in German
 
@@ -84,6 +87,6 @@ as the first root letter in many verbs that belong to the semantic field of
 * When **פ** is not the first root letter, but appears second, it follows either **נ (Nun)** or **שׁ (Shin)**
 * More then the half of these roots contain also **ר (Resh)** as its second or third consonant.
 * The only exception to this rule is the root **ח־ל־ק** – to share, divide.
-* The verb **לִשְׁבּוֹר** - to break is not really exceptional because **בּ** sounds like **פ**.
-* Many English words in this same semantic field also form a recognizable pattern, typically starting with **s** and containing both **p** and **r**.
+* The verb **לִשְׁבּוֹר** – to break is not really exceptional because **בּ** sounds like **פ**.
+* Many English words in this same semantic field also form a recognizable pattern, typically starting with **s** and containing both **p** and **r** – to split, to spread, to separate.
 * This semantic field is closely related to a semantic fild with the meaning **to open** which also starts with **פ (Pe)**.
