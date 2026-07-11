@@ -132,6 +132,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 ### Change
 
 - [Adapt, Adjust](/verb/adapt-adjust.md)
+- [Decrease, Increase](/verb/decrease-increase.md)
 - [Discover, Invent](/verb/discover-invent.md)
 - [Produce, Create](/verb/produce-create.md)
 - [Take Place](/verb/take-place.md)
@@ -172,7 +173,6 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Carry, Transport](/verb/carry-transport.md)
 - [Contain, Comprise](/verb/contain-comprise.md)
 - [Cut, Slice](/verb/cut-slice.md)
-- [Increase, Expand](/verb/increase-expand.md)
 
 ## Roots
 
