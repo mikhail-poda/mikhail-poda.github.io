@@ -14,9 +14,9 @@
 
 ### Note: Three different adjectives
 
-* **רָגִישׁ** — sensitive
-* **רִגְשִׁי** — emotional
-* **רַגְשָׁנִי** — sentimental
+* **רָגִישׁ** – sensitive
+* **רִגְשִׁי** – emotional
+* **רַגְשָׁנִי** – sentimental
 
 ---
 
