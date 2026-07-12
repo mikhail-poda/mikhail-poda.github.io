@@ -176,6 +176,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Roots
 
+- [ר־ג־שׁ](/root/r-g-sh.md)
 - [ר־שׁ־ם](/root/r-sh-m.md)
 - [XYXY](/root/xyxy.md)
 

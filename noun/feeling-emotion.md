@@ -1,7 +1,8 @@
 # Topic: Feeling, Emotion
 
-| **Hebrew**      | **Transcription** | **Meaning**                  | **Context / Example Usage**                                                                              |
-| --------------- | ----------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **תְּחוּשָׁה**  | *tchushá*         | physical or vague feeling    | Can be physical or intuitive. **תחושת כאב** – a feeling of pain. **תחושת ביטחון** – a sense of security. |
-| **הַרְגָּשָׁה** | *hargashá*        | emotional feeling, sensation | More emotional than **תחושה**. Often used in casual speech. **הרגשה נעימה** – a pleasant feeling.           |
-| **רֶגֶשׁ**      | *régesh*          | emotion, emotional reaction  | More literary/formal. Deeper or intense emotion. **רגש חזק** – a strong emotion.                         |
+| **Hebrew**   | **Transcription** | **Meaning**                                  | **Examples**                                                                                     |
+| ------------ | ----------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **חִישָׁה**     | *chisha*          | sensing                                      | **מערכת החישה** — sensory system<br>**חישה מרחבית** — spatial sensing                                      |
+| **תְּחוּשָׁה**    | *tchusha*         | sensation, perceived impression              | **תחושת כאב** — sensation of pain<br>**תחושת קור** — feeling of cold<br>**תחושת ביטחון** — sense of security |
+| **הַרְגָּשָׁה**    | *hargasha*        | subjective feeling, condition, or well-being | **הרגשה טובה** — feeling well/a good feeling<br>**יש לי הרגשה ש־...** — I have a feeling that…             |
+| **רֶגֶשׁ**      | *regesh*          | emotion (identifiable psychological state)   | **פחד, אהבה, כעס, קנאה** — fear, love, anger, jealousy                                                   |
