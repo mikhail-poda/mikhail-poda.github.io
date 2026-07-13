@@ -18,6 +18,8 @@
 * **רִגְשִׁי** – emotional
 * **רַגְשָׁנִי** – sentimental
 
+List of nouns related to feelings and emotions [can be found here](/noun/feeling-emotion.md)
+
 ---
 
 ## Meaning: Feeling

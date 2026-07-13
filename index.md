@@ -4,199 +4,199 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Language Learning
 
-- [Introduction](/lang/about-language-learnig.md)
-- [Interesting Facts](/lang/interesting-facts.md)
-- [Hebrew Learning Resources](/lang/learning-resources.md)
-- [Hebrew Proficiency Levels](/lang/hebrew-proficiency-levels.md)
-- [Spaced Repetition Methods](/lang/spaced-repetition-methods.md)
+- [Introduction](/lang/about-language-learnig)
+- [Interesting Facts](/lang/interesting-facts)
+- [Hebrew Learning Resources](/lang/learning-resources)
+- [Hebrew Proficiency Levels](/lang/hebrew-proficiency-levels)
+- [Spaced Repetition Methods](/lang/spaced-repetition-methods)
 
 ## Grammar
 
-- [Adjective Comparison](/grammar/adjective-comparison.md)
-- [Conditional and Correlative Expressions](/grammar/correlative-expression.md)
-- [Multi-Word Function Phrases](/grammar/multi-word.md)
-- [Overview of Imperative Forms](/grammar/imperative.md)
-- [Prefixes](/grammar/prefixes.md)
-- [Preposition vs. Adverb](/grammar/preposition-adverb.md)
-- [Pronominal Suffixes](/grammar/pronominal-suffixes.md)
+- [Adjective Comparison](/grammar/adjective-comparison)
+- [Conditional and Correlative Expressions](/grammar/correlative-expression)
+- [Multi-Word Function Phrases](/grammar/multi-word)
+- [Overview of Imperative Forms](/grammar/imperative)
+- [Prefixes](/grammar/prefixes)
+- [Preposition vs. Adverb](/grammar/preposition-adverb)
+- [Pronominal Suffixes](/grammar/pronominal-suffixes)
 
 ## Adjectives
 
-- [Colors](/adj/colors.md)
-- [Common - Rare](/adj/common-rare.md)
-- [Complex, Complicated](/adj/complex-complicated.md)
-- [Forced, Compelled](/adj/forced-compelled.md)
-- [Fundamental, Essential](/adj/fundamental-essential.md)
-- [Good, Bad](/adj/good-bad.md)
-- [Intelligence, Expertise](/adj/intelligence-expertise.md)
-- [Likely, Due](/adj/likely-due.md)
-- [Middle, Median](/adj/middle-median.md)
-- [Needed, Necessary](/adj/needed-necessary.md)
-- [Small, Big](/adj/small-big.md)
+- [Colors](/adj/colors)
+- [Common - Rare](/adj/common-rare)
+- [Complex, Complicated](/adj/complex-complicated)
+- [Forced, Compelled](/adj/forced-compelled)
+- [Fundamental, Essential](/adj/fundamental-essential)
+- [Good, Bad](/adj/good-bad)
+- [Intelligence, Expertise](/adj/intelligence-expertise)
+- [Likely, Due](/adj/likely-due)
+- [Middle, Median](/adj/middle-median)
+- [Needed, Necessary](/adj/needed-necessary)
+- [Small, Big](/adj/small-big)
 
 ## Adverbs
 
-- [Absolutely, Certainly](/adv/absolutely-certainly.md)
-- [Actually, Really](/adv/actually-really.md)
-- [Although](/adv/although.md)
-- [Clearly, Explicitly](/adv/clearly-explicitly.md)
-- [Except, Excluding](/adv/except-excluding.md)
-- [Maybe, Probably](/adv/maybe-probably.md)
-- [Particularly, Especially](adv/particularly-especially.md)
-- [Soon](adv/soon.md)
-- [*Interrogative*](/adv/interrogative.md)
+- [Absolutely, Certainly](/adv/absolutely-certainly)
+- [Actually, Really](/adv/actually-really)
+- [Although](/adv/although)
+- [Clearly, Explicitly](/adv/clearly-explicitly)
+- [Except, Excluding](/adv/except-excluding)
+- [Maybe, Probably](/adv/maybe-probably)
+- [Particularly, Especially](adv/particularly-especially)
+- [Soon](adv/soon)
+- [*Interrogative*](/adv/interrogative)
   
 ## Conjunctions
 
-- [In Order To](/conj/in-order-to.md)
+- [In Order To](/conj/in-order-to)
 
 ## Nouns
 
 ### Abstract
 
-- [Amount, Quantity](/noun/amount-quantity.md)
-- [Cause, Reason](/noun/cause-reason.md)
-- [Difference, Distinction](/noun/difference-distinction.md)
-- [Efficiency, Productivity](/noun/efficiency-productivity.md)
-- [Goal, Aim, Purpose](/noun/goal-aim-purpose.md)
-- [Origin, Source](/noun/origin-source.md)
-- [Space, Area](/noun/space-area.md)
-- [Summary, Conclusion](/noun/summary-conclusion.md)
-- [Thing, Matter, Issue](/noun/thing-matter.md)
-- [Turn, Queue, Column](/noun/turn-queue-column.md)
-- [Value, Cost](/noun/value-cost.md)
+- [Amount, Quantity](/noun/amount-quantity)
+- [Cause, Reason](/noun/cause-reason)
+- [Difference, Distinction](/noun/difference-distinction)
+- [Efficiency, Productivity](/noun/efficiency-productivity)
+- [Goal, Aim, Purpose](/noun/goal-aim-purpose)
+- [Origin, Source](/noun/origin-source)
+- [Space, Area](/noun/space-area)
+- [Summary, Conclusion](/noun/summary-conclusion)
+- [Thing, Matter, Issue](/noun/thing-matter)
+- [Turn, Queue, Column](/noun/turn-queue-column)
+- [Value, Cost](/noun/value-cost)
 
 ### Conflict
 
-- [Attack, Strike](/noun/attack-strike.md)
-- [Dispute, Conflict](/noun/dispute-conflict.md)
-- [Danger, Risk](/noun/danger-risk.md)
+- [Attack, Strike](/noun/attack-strike)
+- [Dispute, Conflict](/noun/dispute-conflict)
+- [Danger, Risk](/noun/danger-risk)
 
 ### Education
 
-- [Exam, Test](/noun/exam-test.md)
-- [Instruction, Order](/noun/instruction-order.md)
-- [Research, Survey, Check](/noun/research-survey-check.md)
-- [Skill, Ability](/noun/skill-ability.md)
+- [Exam, Test](/noun/exam-test)
+- [Instruction, Order](/noun/instruction-order)
+- [Research, Survey, Check](/noun/research-survey-check)
+- [Skill, Ability](/noun/skill-ability)
 
 ### Emotional
 
-- [Experience](/noun/experience.md)
-- [Feeling, Emotion](/noun/feeling-emotion.md)
-- [Grief, Sadness](/noun/grief-sadness.md)
-- [Joy, Pleasure](/noun/joy-pleasure.md)
-- [Love, Passion](/noun/love-passion.md)
+- [Experience](/noun/experience)
+- [Feeling, Emotion](/noun/feeling-emotion)
+- [Grief, Sadness](/noun/grief-sadness)
+- [Joy, Pleasure](/noun/joy-pleasure)
+- [Love, Passion](/noun/love-passion)
 
 ### Human
 
-- [Adult Persons](/noun/adult-persons.md)
-- [Fan, Admirer](/noun/fan-admirer.md)
-- [Human Relashionships](/noun/human-relashionships.md)
-- [Leader, Ruler](/noun/leader-ruler.md)
+- [Adult Persons](/noun/adult-persons)
+- [Fan, Admirer](/noun/fan-admirer)
+- [Human Relashionships](/noun/human-relashionships)
+- [Leader, Ruler](/noun/leader-ruler)
 
 ### Nature
 
-- [Sunrise, Sunset](/noun/sunrise-sunset.md)
-- [Water Geography](/noun/water-geography.md)
+- [Sunrise, Sunset](/noun/sunrise-sunset)
+- [Water Geography](/noun/water-geography)
 
 ### Social
 
-- [Meeting, Gathering](/noun/meeting-gathering.md)
-- [Nation](/noun/nation.md)
-- [Permission, Authorization](/noun/permission-authorization.md)
-- [Show, Presentation](/noun/show-presentation.md)
-- [Silence](/noun/silence.md)
-- [Task, Mission](/noun/task-mission.md)
-- [Travel, Trip](/noun/travel-trip.md)
-- [View, Perspective](/noun/view-perspective.md)
+- [Meeting, Gathering](/noun/meeting-gathering)
+- [Nation](/noun/nation)
+- [Permission, Authorization](/noun/permission-authorization)
+- [Show, Presentation](/noun/show-presentation)
+- [Silence](/noun/silence)
+- [Task, Mission](/noun/task-mission)
+- [Travel, Trip](/noun/travel-trip)
+- [View, Perspective](/noun/view-perspective)
 
 ### Technical
 
-- [Box, Container](/noun/box-container.md)
-- [Component, Detail](/noun/component-detail.md)
-- [Device, Tool](/noun/device-tool.md)
-- [Expansion, Extension](/noun/expansion-extension.md)
-- [Path, Route](/noun/path-route.md)
-- [Product, Commodity](/noun/product-commodity.md)
-- [Section, Fragment](/noun/section-fragment.md)
+- [Box, Container](/noun/box-container)
+- [Component, Detail](/noun/component-detail)
+- [Device, Tool](/noun/device-tool)
+- [Expansion, Extension](/noun/expansion-extension)
+- [Path, Route](/noun/path-route)
+- [Product, Commodity](/noun/product-commodity)
+- [Section, Fragment](/noun/section-fragment)
 
 ## Prepositions
 
-- [Close, Distant](/prep/close-distant.md)
-- [During](/prep/during.md)
-- [Inside, Outside](/prep/inside-outside.md)
-- [Toward](/prep/toward.md)
+- [Close, Distant](/prep/close-distant)
+- [During](/prep/during)
+- [Inside, Outside](/prep/inside-outside)
+- [Toward](/prep/toward)
 
 ## Verbs
 
 ### Change
 
-- [Adapt, Adjust](/verb/adapt-adjust.md)
-- [Decrease, Increase](/verb/decrease-increase.md)
-- [Discover, Invent](/verb/discover-invent.md)
-- [Produce, Create](/verb/produce-create.md)
-- [Take Place](/verb/take-place.md)
-- [Update, Improve](/verb/update-improve.md)
+- [Adapt, Adjust](/verb/adapt-adjust)
+- [Decrease, Increase](/verb/decrease-increase)
+- [Discover, Invent](/verb/discover-invent)
+- [Produce, Create](/verb/produce-create)
+- [Take Place](/verb/take-place)
+- [Update, Improve](/verb/update-improve)
 
 ### Communication
 
-- [Announce, Declare](/verb/announce-declare.md)
-- [Deny, Refuse](/verb/deny-refuse.md)
-- [Explain, Clarify](/verb/explain-clarify.md)
-- [Guess, Assume](/verb/guess-assume.md)
-- [Mention, Refer](/verb/mention-refer.md)
-- [Propose, Recommend](/verb/propose-recommend.md)
-- [Say, Tell](/verb/say-tell.md)
+- [Announce, Declare](/verb/announce-declare)
+- [Deny, Refuse](/verb/deny-refuse)
+- [Explain, Clarify](/verb/explain-clarify)
+- [Guess, Assume](/verb/guess-assume)
+- [Mention, Refer](/verb/mention-refer)
+- [Propose, Recommend](/verb/propose-recommend)
+- [Say, Tell](/verb/say-tell)
 
 ### Human Activity
 
-- [Bathe, Wash](/verb/bathe-wash.md)
-- [Bring, Hand Over](/verb/bring.md)
-- [Fear, Worry](/verb/fear-worry.md)
-- [Get Involved](/verb/get-involved.md)
-- [Handle, Manage](/verb/handle-manage.md)
-- [Live, Dwell](/verb/live-dwell.md)
-- [Meet, Encounter](/verb/meet-encounter.md)
-- [Need, Must](/verb/need-must.md)
-- [Recognize](/verb/recognize.md)
-- [See, Watch](/verb/see-watch.md)
+- [Bathe, Wash](/verb/bathe-wash)
+- [Bring, Hand Over](/verb/bring)
+- [Fear, Worry](/verb/fear-worry)
+- [Get Involved](/verb/get-involved)
+- [Handle, Manage](/verb/handle-manage)
+- [Live, Dwell](/verb/live-dwell)
+- [Meet, Encounter](/verb/meet-encounter)
+- [Need, Must](/verb/need-must)
+- [Recognize](/verb/recognize)
+- [See, Watch](/verb/see-watch)
 
 ### Negative
 
-- [Cancel, Remove](/verb/cancel-remove.md)
-- [Break, Crash](/verb/break-crash.md)
-- [Hit, Injure](/verb/hit-injure.md)
-- [Kill, Murder](/verb/kill-murder.md)
+- [Cancel, Remove](/verb/cancel-remove)
+- [Break, Crash](/verb/break-crash)
+- [Hit, Injure](/verb/hit-injure)
+- [Kill, Murder](/verb/kill-murder)
 
 ### Technical
 
-- [Carry, Transport](/verb/carry-transport.md)
-- [Contain, Comprise](/verb/contain-comprise.md)
-- [Cut, Slice](/verb/cut-slice.md)
+- [Carry, Transport](/verb/carry-transport)
+- [Contain, Comprise](/verb/contain-comprise)
+- [Cut, Slice](/verb/cut-slice)
 
 ## Roots
 
-- [ר־ג־שׁ](/root/r-g-sh.md)
-- [ר־שׁ־ם](/root/r-sh-m.md)
-- [XYXY](/root/xyxy.md)
+- [ר־ג־שׁ](/root/r-g-sh)
+- [ר־שׁ־ם](/root/r-sh-m)
+- [XYXY](/root/xyxy)
 
 ## Word Lists
 
-- [Abstract Concepts](/subj/abstract-concepts.md)
-- [Emotion Adjectives](/subj/emotions.md)
-- [IDF Ranks](/subj/idf-ranks.md)
-- [Revolution](subj/revolution.md)
-- [Technical Devices](/subj/technical-devices.md)
-- [Text, Book, Publishing](/subj/text-book.md)
-- [Flying](/subj/verbs-flying.md)
-- [Motion](/subj/verbs-motion.md)
-- [Splitting, Spreading, Separating](/subj/split-spread.md)
-- [Stance Verbs in Political Discourse](/subj/verbs-stance-discourse.md)
-- [Verbs with Multiple Meanings](/subj/verbs-multiple-meaning.md)
+- [Abstract Concepts](/subj/abstract-concepts)
+- [Emotion Adjectives](/subj/emotions)
+- [IDF Ranks](/subj/idf-ranks)
+- [Revolution](subj/revolution)
+- [Technical Devices](/subj/technical-devices)
+- [Text, Book, Publishing](/subj/text-book)
+- [Flying](/subj/verbs-flying)
+- [Motion](/subj/verbs-motion)
+- [Splitting, Spreading, Separating](/subj/split-spread)
+- [Stance Verbs in Political Discourse](/subj/verbs-stance-discourse)
+- [Verbs with Multiple Meanings](/subj/verbs-multiple-meaning)
 
 ## Proverbs
 
-- [Translated to English](/proverbs/eng.md)
+- [Translated to English](/proverbs/eng)
 
 ## ToDo
 
