@@ -18,7 +18,7 @@
 * **רִגְשִׁי** – emotional
 * **רַגְשָׁנִי** – sentimental
 
-List of nouns related to feelings and emotions [can be found here](/noun/feeling-emotion.md)
+List of nouns related to feelings and emotions [can be found here](/noun/feeling-emotion)
 
 ---
 
