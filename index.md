@@ -25,6 +25,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Colors](/adj/colors)
 - [Common - Rare](/adj/common-rare)
 - [Complex, Complicated](/adj/complex-complicated)
+- [Exciting](/adj/exciting)
 - [Forced, Compelled](/adj/forced-compelled)
 - [Fundamental, Essential](/adj/fundamental-essential)
 - [Good, Bad](/adj/good-bad)

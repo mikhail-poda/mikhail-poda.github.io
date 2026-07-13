@@ -1,6 +1,6 @@
 # Root: ר־ג־שׁ
 
-## Quick Learner Map
+## Quick Map
 
 | **Meaning**                    | **Main word family**             |
 | ------------------------------ | -------------------------------- |
@@ -12,11 +12,13 @@
 | sensitivity                    | **רָגִישׁ → רְגִישׁוּת**                |
 | sentimentality                 | **רַגְשָׁנִי → רַגְשָׁנוּת**               |
 
-### Note: Three different adjectives
+### Ajectives
 
 * **רָגִישׁ** – sensitive
 * **רִגְשִׁי** – emotional
 * **רַגְשָׁנִי** – sentimental
+
+### Nouns
 
 List of nouns related to feelings and emotions [can be found here](/noun/feeling-emotion)
 
@@ -74,6 +76,8 @@ List of nouns related to feelings and emotions [can be found here](/noun/feeling
 | **הסרט מְרַגֵּשׁ.**         | The film is moving.      |
 | **הִתְרַגַּשְׁתִּי מהסרט.**     | I was moved by the film. |
 | **הייתי נִרְגָּשׁ.**        | I was excited or moved.  |
+
+List of adjectives related to excitement [can be found here](/adj/exciting)
 
 ---
 
