@@ -42,6 +42,35 @@ Some of these pairs are **transitive–intransitive** (state vs. cause), others 
 * **fordern** (to demand) ↔ **fördern** (to promote, support)
 * **drucken** (to print) ↔ **drücken** (to press)
 
+### Object Pronouns Joined to Verbs – like in Italian
+
+In both Biblical Hebrew and Italian, a short object pronoun can be joined directly to a verb, 
+so that the verb and the object become one word.
+
+For example, in the Hebrew blessing:
+
+**אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו**<br>
+*asher kiddeshanu bemitzvotav*<br>
+“who sanctified us with his commandments”
+
+the word **קִדְּשָׁנוּ** contains both the verb “sanctified” and the object “us”:
+
+**קִדֵּשׁ + נוּ → קִדְּשָׁנוּ**<br>
+*sanctified + us → sanctified us*
+
+Italian forms words in a very similar way:
+
+* **di’ + mi → dimmi** – tell me
+* **aiuta + ci → aiutaci** – help us
+
+In both languages, instead of placing the pronoun as a separate word, it is attached to the verb.
+The result is a single word that expresses both the action and the person or thing affected by it.
+
+This form is common in Biblical Hebrew, in Modern Hebrew, the object is usually expressed as a separate word:
+
+**קִדֵּשׁ אוֹתָנוּ** – he sanctified us
+
+
 ### Inverted Liking
 
 The English expression **I like him** follows the standard pattern: the one who likes (**I**) is the subject.
