@@ -70,7 +70,6 @@ This form is common in Biblical Hebrew, in Modern Hebrew, the object is usually 
 
 **קִדֵּשׁ אוֹתָנוּ** – he sanctified us
 
-
 ### Inverted Liking
 
 The English expression **I like him** follows the standard pattern: the one who likes (**I**) is the subject.
