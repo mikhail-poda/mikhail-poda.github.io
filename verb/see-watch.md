@@ -19,6 +19,6 @@ This is a noticeable vocabulary cluster, although the verbs belong to different 
 | ---------------- | ----------------- | ------------------ | ------------------------------------------------------------------ |
 | **לִצְפּוֹת**       | *litzpot*       | to watch, observe     | **לצפות בסרט** – watch a movie                                         |
 | **לְהָצִיץ**       | *lehatzitz*     | to peek, glance       | **הוא הציץ דרך הדלת** – he peeked through the door                     |
-| **לַעֲצוֹם**       | *la’atzom*      | to close one’s eyes   | **עצמתי את העיניים** – I closed my eyes                                |
+| **לַעֲצוֹם**       | *la’atzom*      | to close one’s eyes   | **עצמתי את העיניים** – I closed my eyes<br>**עיניים עצומות לרווחה** – Eyes Wide Shut (movie) |
 | **לְמַצְמֵץ**       | *lematzmetz*    | to blink              | **היא מצמצה בגלל האור החזק** – she blinked because of the bright light |
 | **לִקְרוֹץ**       | *likrotz*       | to wink               | **היא קרצה לי** – she winked at me                                     |
