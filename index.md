@@ -22,6 +22,7 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Adjectives
 
+- [Broken, Defective](/adj/broken-damaged.md)
 - [Colors](/adj/colors)
 - [Common - Rare](/adj/common-rare)
 - [Complex, Complicated](/adj/complex-complicated)
