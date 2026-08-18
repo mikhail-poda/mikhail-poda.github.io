@@ -101,6 +101,12 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Sunrise, Sunset](/noun/sunrise-sunset)
 - [Water Geography](/noun/water-geography)
 
+### Problems
+
+- [Fault, Defect, Malfunction](/noun/fault-defect)
+- [Error, Mistake](/noun/error-mistake)
+- [Failure, Setback, Defeat](/noun/failure-defeat)
+
 ### Social
 
 - [Meeting, Gathering](/noun/meeting-gathering)

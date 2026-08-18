@@ -176,3 +176,4 @@
 | **לְתַעֵב** | to despise, hate, detest    |
 | **לָבוּז** | to despise, disdain  |
 | **לְהִתְנַווֵּן** | to degenerate |
+| **לְהִתְחַמֵּק** | to get away, avoid |
