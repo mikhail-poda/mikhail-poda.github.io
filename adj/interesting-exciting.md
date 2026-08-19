@@ -2,13 +2,13 @@
 
 ## Interesting, Intriguing, Fascinating
 
-Attracts or holds your attention; makes you curious.
+Attracts attention, makes curious.
 
 | **Hebrew**    | **Transcription** | **Meaning**                  | **Notes / Example Usage** |
 | ------------- | ----------------- | ---------------------------- | ------------------------- |
 | **מְסַקְרֵן**    | *mesakrén*        | intriguing, curiosity-arousing | **הכותרת הזאת מסקרנת אותי** – this headline intrigues me. |
 | **מְעַנְיֵן**    | *me'anyén*        | interesting                  | **זה ספר מעניין מאוד** – this is a very interesting book. |
-| **מְרַתֵּק**     | *meraték*         | fascinating, captivating     | Much stronger than **מעניין**. **הסיפור היה מרתק מתחילתו ועד סופו** – the story was fascinating from beginning to end. |
+| **מְרַתֵּק**     | *meraték*         | fascinating, captivating     | **הסיפור היה מרתק מתחילתו ועד סופו** – the story was fascinating from beginning to end. |
 
 Intensity ladder: **מסקרן** (arouses curiosity) → **מעניין** (engages you) → **מרתק** (absorbs you completely).
 
@@ -22,7 +22,7 @@ Produces a strong emotional response.
 
 ## Inspiring
 
-Encourages, motivates, or fills you with inspiration.
+Encourages, motivates, inspires.
 
 | **Hebrew**       | **Transcription**  | **Meaning** | **Notes / Example Usage** |
 | ---------------- | ------------------ | ----------- | ------------------------- |
@@ -88,7 +88,7 @@ Causes astonishment, wonder, or a strong "wow" reaction.
 | **מַדְהִים**        | *madhím*            | amazing, incredible           | Very common and versatile **נוף מדהים** – an amazing view. |
 | **מוּפְלָא**       | *muflá*             | marvelous, extraordinary, wondrous | Like **נפלא**, but stronger and more formal. **כישרון מופלא** – extraordinary talent. |
 | **בִּלְתִּי יֵאָמֵן**    | *biltí ye'amén*     | unbelievable, incredible       | Literally "unbelievable". **סיפור בלתי ייאמן** – an incredible story. |
-| **מְשַׁגֵּעַ**        | *meshagé'a*         | amazing, fabulous              | Colloquial; literally "driving crazy." Somewhat milder than **מטורף**. **הייתה מסיבה משגעת** – it was an amazing party. |
+| **מְשַׁגֵּעַ**        | *meshagé'a*         | amazing, fabulous              | Colloquial; literally "driving crazy." Somewhat milder than **מטורף**.<br> **הייתה מסיבה משגעת** – it was an amazing party. |
 | **מְטוֹרָף**        | *metoráf*           | insane, incredible, awesome   | Very colloquial; literally "crazy." **הקונצרט היה מטורף** – the concert was incredible. |
 
 ---
