@@ -22,3 +22,4 @@
 | **דֶּלְתָּה**    | *delta*           | delta                | **הַדֶּלְתָּה שֶׁל הַנִּילוֹס** - the Nile Delta         |
 | **מַפָּל**     | *mapal*           | waterfall            | **מַפָּל גָּבוֹהַּ** - a high waterfall               |
 | **חוֹף**     | *khof*            | shore, coast, beach  | **חוֹף הַיָּם** - the seashore                    |
+| **סֶכֶר**     | *sécher*          | dam, floodgate       | **לסכור את הבריכה** - to dam up the pond     |

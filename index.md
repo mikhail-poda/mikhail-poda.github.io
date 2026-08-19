@@ -26,11 +26,11 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 - [Colors](/adj/colors)
 - [Common - Rare](/adj/common-rare)
 - [Complex, Complicated](/adj/complex-complicated)
-- [Exciting](/adj/exciting)
 - [Forced, Compelled](/adj/forced-compelled)
 - [Fundamental, Essential](/adj/fundamental-essential)
 - [Good, Bad](/adj/good-bad)
 - [Intelligence, Expertise](/adj/intelligence-expertise)
+- [Interesting, Exciting](/adj/interesting-exciting)
 - [Likely, Due](/adj/likely-due)
 - [Middle, Median](/adj/middle-median)
 - [Needed, Necessary](/adj/needed-necessary)
@@ -184,6 +184,8 @@ A collection of articles dedicated to intermediate Hebrew learners looking to na
 
 ## Roots
 
+- [א־מ־ן](/root/a-m-n)
+- [ב־ק־ר](/root/b-k-r)
 - [ר־ג־שׁ](/root/r-g-sh)
 - [ר־שׁ־ם](/root/r-sh-m)
 - [XYXY](/root/xyxy)

@@ -56,15 +56,21 @@ Here are the main levels:
 
 The Hebrew **Ulpan levels (Aleph, Bet, Gimel, Dalet, Hey, Vav)** don't perfectly match the **CEFR (A1–C2)** system, but they roughly correspond as follows:  
 
-| **CEFR Level** | **Ulpan Level** | **New Vocab.** |**Total Vocab.** | **Features** |
-|--------------|-------------|-----------------|-----------------|------------|
-| **A0 (Absolute Beginner)** | Pre-Aleph | 50 |  50 | no verbs |
-| **A1 (Beginner)** | Aleph | 400 | 400 | only paal present |
-| **A2 (Elementary)** | Aleph+ / Bet 1 | 800 | 1,200 | past tense |  
-| **B1 (Lower Intermediate)** | Bet 2 / Gimel 1 | 1,200 | 2,400 | future tense |
-| **B2 (Upper Intermediate)** | Gimel 2 / Dalet | 1,600 | 4,000 | passive verbs |
-| **C1 (Advanced)** | Hey | 2,000 | 6,000 | professional terminology |
-| **C2 (Proficient/Near-Native)** | Vav | 3,000+ | 9,000 | literary language |
+| **CEFR Level** | **Ulpan Level** | **New Vocab.** | **Total Vocab.** | **New Roots** | **Total Roots** | **Features** |
+| --- | --- | --- | --- | --- | --- | --- |
+| **A0 (Absolute Beginner)** | Pre-Aleph | 50 | 50 | 10 | 10 | no verbs |
+| **A1 (Beginner)** | Aleph | 400 | 400 | 90 | 100 | only paal present |
+| **A2 (Elementary)** | Aleph+ / Bet 1 | 800 | 1,200 | 150 | 250 | past tense |
+| **B1 (Lower Intermediate)** | Bet 2 / Gimel 1 | 1,200 | 2,400 | 250 | 500 | future tense |
+| **B2 (Upper Intermediate)** | Gimel 2 / Dalet | 1,600 | 4,000 | 350 | 850 | passive verbs |
+| **C1 (Advanced)** | Hey | 2,000 | 6,000 | 450 | 1,300 | professional terminology |
+| **C2 (Proficient/Near-Native)** | Vav | 3,000+ | 9,000+ | 700+ | 2000+ | literary language |
+
+### Notes:
+
+* **The Word-to-Root Ratio Expands:** At **A1–A2**, you learn roughly 4 to 5 words per root. By **B2–C2**, a single root expands into 8 to 12+ words across different verb patterns (*binyanim*) and derived nouns (*mishkalim*).
+* **Core Language Efficiency:** Modern Hebrew relies on roughly **1,500 to 2,000 active roots** for day-to-day fluency, even though modern dictionaries hold tens of thousands of words. Hitting ~1,000 roots (around B2/C1) gives learners massive leverage to infer unknown words on the fly.
+* **Words wothout Hebrew root:** Many Hebrew words, especially loanwords, but not only, do not have a root.
 
 ---
 
