@@ -226,4 +226,4 @@ Most Hebrew resources focus on vocabulary and grammar, but few compare similar w
 
 ---
 
-Last updated: 26. October 2025 • מיכאל רז
+2025 - 2026 • מיכאל רז

@@ -19,7 +19,7 @@ with special forms for person and number and in Hebrew also for gender –
 Hebrew future tense has 10 conjugation forms.
 
 Surprisingly, **present tense in Hebrew** and **past tense in Russian** are much simpler,
-having just 4 10 conjugation forms and are built using the same technique.
+having just 4 conjugation forms and are built using the same technique.
 
 In both cases, these tenses are not true verb conjugations but are expressed using **participial forms**
 (verbal adjectives) in Hebrew and **archaic participles** in Russian,
