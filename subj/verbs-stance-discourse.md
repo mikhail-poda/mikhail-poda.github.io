@@ -25,6 +25,7 @@
 | **לְשַׁבֵּחַ** | to praise    |
 | **לְתַגְמֵל** | to reward, compensate    |
 | **לִתְרוֹם** | to contribute    |
+| **לְאַלְתֵּר** | to improvise |
 
 ---
 
